@@ -1,0 +1,4 @@
+feedparser
+Jinja2
+requests
+playwright
