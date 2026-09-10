@@ -1,39 +1,57 @@
 {
-  "generated_at_utc": "2026-09-09T05:44:03.475319+00:00",
+  "generated_at_utc": "2026-09-10T05:37:18.110712+00:00",
   "categories": {
     "Tech": [
       {
-        "title": "Making sovereign, open-weight AI the technology frontier - mistral.ai",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
-        "source": "mistral.ai",
-        "published": "Tue, 08 Sep 2026 05:03:58 GMT"
+        "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening - TechCrunch",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNkR3SzVtSXFOcEpOMmwtTHlrTEpJdTB2d0pNY3JVY0dKUVp1R21rMmg0eU4yak5yM1lZTGVvazJzbl9Da3Z6VWl2Y1ZvN2hOaDI3NTQ1VFNIN2d4NWh3SjF3QlVGWnA0WUZMUXJuYk5KMjlLcTdBQXFSV3JPeEliUXhpeXk3WFkzWnJLdVd5V0tvUmlDWnotZFBYb1Fnb0p2XzljWGFXRmREREVUM0hMYk5SbkEwV2t6SFpKeWl6VXJ1QQ?oc=5",
+        "source": "TechCrunch",
+        "published": "Wed, 09 Sep 2026 20:24:48 GMT"
+      },
+      {
+        "title": "AI could kill all humans in next decade, warn experts: but how seriously should we take them? - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUNtV20wYXJQU1RyZGpkOVh6LUFqTDRPY1hDTDhoQzlVZWduQjB2aVR0QzZmYkozX3BLZHVYMDdaV1c5UHhaNktCX0o1UnZCWm81Wjl3TUs0c1I3QXB3Z3NRQW1EZFduejZTLWk3OFBqMFhQNFhTM1d1NEVvbkM4czhqNlhUWlNqRnVvV2FvamxYRTRPTDlPQ2xGOXpac1V2NjkzdUh5U0s5NW9fLUE?oc=5",
+        "source": "The Guardian",
+        "published": "Thu, 10 Sep 2026 01:31:00 GMT"
+      },
+      {
+        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans' - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6WDZoOFRnTjQ5WW5vMUJKeThhbUUyUTlaeXdKbUhoNE5WNDhnVjhmM080N3p3ZFJfSm9ncUZtblZDRm1YU1hYbjBZZ3ZXNkRjSmNBUmdTa0tCZw?oc=5",
+        "source": "BBC",
+        "published": "Wed, 09 Sep 2026 15:34:09 GMT"
+      },
+      {
+        "title": "India has potential to lead photonics tech, industry to grow 4x to $10 bn by 2031 - ET CIO",
+        "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOSG15WG8ySkNEZ0taaER3QnRZZ0N3NnhFUDRqVDFlU1F6X1lDMnIxdTVqejd6Tk5MMmhnMVN0cTBhdGF2cUoxQjFjenllRGV6YkJjSUFOUktobHh4MnY0YzdaeEFnZTdDMDRkN3BNTWYwVVFVY280cktsOUFzdlMzYkE1bXFNa29xekNxWlhtTUphRFVac0huTkZuSnVRWHltOEtwWHVNSVdnbVVKX3l0NkgwUjdqTEN2Skl6Tk9XZVVkdnoxbW5SVmRkQV9qZXVJd2Y5RkxEQzcxUkFnakVreko0SnhQZHJlN1lhdXJYeW16TUZITzZnU181RXRLYTNHRWplTTc3b09DdlN0MU5jdUo4WnhmQXgyY3U3anpoZWUyTHdWdXFGU9IB5gFBVV95cUxOSEtfOEFpbXJZa3dfdWhLa05lc00tNnp4TzZkaDFvSkllTDdrUURKUHpra1JYck1nbWZlRnhyb01pMVpRNXRUSnZwVnN5c3kzRE1SWkRzMnZZWnFiNm5jN2tabUY5TDZkeHVaT2hZS0twLVZ6NVdMYWduZ3hWNmZqWlZfeVBZZUR1dnBCekh2bXVreGJHRUU5ZEZzMVlKN3h6dkFNQmFFTXV0bWZha01Rd0V6b1g0N0JOVnhZYVdDb0wwU1lYRjNDV0xGbTExWXh1MkIzZG0zdS1XYTZCRVAyeVhjYWo4QQ?oc=5",
+        "source": "ET CIO",
+        "published": "Thu, 10 Sep 2026 02:32:00 GMT"
       },
       {
         "title": "India joins 24 countries in global initiative on 6G technology - News On AIR",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
         "source": "News On AIR",
-        "published": "Tue, 08 Sep 2026 01:35:13 GMT"
-      },
-      {
-        "title": "Indian space startup GalaxEye wins US patent for satellite imaging technology - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2d3NVNFZzVmYU5LT2VMZDhveUJjcENzdVNqRUhPa2xaazVIcFd1UERnS3BLYllsTUVXblpQcm9JcGVsdXlwYlBNM1JPNWdLVlFhalI2RlE2SG1fb0FIVms3UFUwTnlCQnloUFRVcXZFTjQ5aUE0aTJudURWalluOG92Xzh2U1ZkTTBDM3Z5cXdzZ2hpcG9Tb1VSUXNTeTVqYVVrdmtPTjlJWXVEaVRESXgwc0FfcVA4?oc=5",
-        "source": "Reuters",
-        "published": "Tue, 08 Sep 2026 18:11:06 GMT"
-      },
-      {
-        "title": "US police fear Meta smart glasses could be used to secretly record them - theguardian.com",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYzdDN2F2TWJQZDR4eDZHcFFRQ00wRDVJbEU3dlZsV0FGSlhXMm96LTRGSU9ZcWp5SFBJYkU5SmpHQ3pXSU9oZGJfSWt3bmktUkZwTHNNRTlTVzU3RzRva2dTYkhiUU1NSlBjUG1Zb1pVQ3E1R2taUFp6a2FjRG9ab2hSVHFFVnV1VFZDSlp6MEtpQQ?oc=5",
-        "source": "theguardian.com",
-        "published": "Tue, 08 Sep 2026 10:00:00 GMT"
-      },
-      {
-        "title": "The U.S. is trying to reduce its reliance on China for batteries. Here's what it's up against - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzhYamVUcFlaMWpQOHZ1WGQ5ZW1zekdQWF9MRmViX1RGaWs0cmhPZXJ0X3hPY0tKZXRIZWdWZGlzWG0yQ3BlLVVvUzRCUXFyYWVwSk44M1ZIRXpXXzVjWDE4SUVOeXdRZ0pWTHR3aHFtUGtoeTJQaExaVnpDME5wQjRVTXhycEN6cXp0M2pUNlgwdkdZQU4wMNIBngFBVV95cUxOWXpIOWxJQjJnWGlON3pRUDF1bHJDMWY0dEM0X0w5SFVmRGtqc3NDYlhkaHlLSEU4VXBsSnBDM1hzLTFlM21tdUJ4VzFiYnJFYmlOLVJzdjg4WnNnbnVuNXdMTEM0dERCb2daNWxvWmdoTVZsbWlmLUVPaE1BdldMVmM3ZlZaWllRRllaYVJNNEdGQ1ZEYVBrcGNQb2E1UQ?oc=5",
-        "source": "CNBC",
-        "published": "Tue, 08 Sep 2026 11:00:01 GMT"
+        "published": "Wed, 09 Sep 2026 21:01:41 GMT"
       }
     ],
     "Sports": [
+      {
+        "title": "SC query raises talk on BCCI governance under National Sports Governance Act 2025 - Telegraph India",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ1Ezb2lwSlktbWIyTmhqc2lEZ2RfWUVNamZHdjdYZm1HUWNiZFhubHFfVWRkUE1MZGpncENHZkFKQktSUkxjcTU2OHNITldSYUY4dXZOUkMyaWVMX2hnaUlfSl9GQ0gyYTV3MGZiMXlRNTk5MHpkc2lqT3pFdi1DNnVobDJJdjhBcnRPWk1ZaEczUzE2aGtKT1hVWi03ekdQUEJtQkR5OWVBekhoQlQyUVpLdDR2VXVMUlY1c1F4Sl9OWjdOYmh5b0ZiODNLbF8wbnY0UFpDUUVZd9IB3wFBVV95cUxQd3VtOXhYbUlYX2VpazM1ZmlQOHhtak5CRExwODV5b3M1Vmo2aHdZWmh3bVZSeTVfSmhUN1lsa3Z5MFI3MENsTWE3MGhzX2xwSnNjTjFGYnh6UW9ySXBzZUZEenFlQ3ZxZzFDcEI0Uk9yYlJFVlpmb2pVaTZ4SlZmNnc5bnZHZVpWM3V6OTc3NlhDSVloU3NJWEtjZGlaNXBYTDVJSnozSGFDckFKTjdaQ0NHcXBGMGVaaG9yN3BNbm1feXJ3T0RJLTg1OTAxQmdobFk3UV96YmdDRTJoMTBj?oc=5",
+        "source": "Telegraph India",
+        "published": "Thu, 10 Sep 2026 01:24:49 GMT"
+      },
+      {
+        "title": "School assembly news headlines today- September 10: Top national, sports and world news curated for you - bestcolleges.indiatoday.in",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQamUzeURHc252Q2ZDcS02VGJyWXhkSHhjbTJpYko4a0FQWFlpdTFTWmN0dFI3a0xXNWk5dlZLSU9nUk42MV9pYWxFY0hydVhKblBubFlfV21NYXRwaXhGX214U2RWTlljU013ZHVKYnp5OHl2U2JPTUhHMmdZcmNZUV9JSTRQTVBjeEhlaFZrSkV5a29LZ0ZXaUdzNzNOMDBUdHV2M0FGQW1pbmRrWDc1NTdxMlFSLTN2OEJpNnBFUjN0aXEydS02TU9uUG9hdVM0UFFYbS1yNlNhU01hRXZvMHZfMkJyd0RT?oc=5",
+        "source": "bestcolleges.indiatoday.in",
+        "published": "Wed, 09 Sep 2026 11:08:19 GMT"
+      },
+      {
+        "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC - NVIDIA Blog",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92eWRMcC1CeW9EaWhETkFvcVp3ZHBHNUEtdU1STEUwNldJUDkwR2tKYUdZeUF5RkEyNDFlcGxZTzRUNDJWVGNuTFROTWV0LTgyel9sdVFmaw?oc=5",
+        "source": "NVIDIA Blog",
+        "published": "Wed, 09 Sep 2026 16:06:52 GMT"
+      },
       {
         "title": "Why shouldn’t National Sports Governance Act apply to BCCI, state bodies, asks Supreme Court - The Times of India",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZW10SUE4TWJCeDdpc3dtc0JyZG1yblp0M052dnIxWTRqMHhja2FDb05FS1N2cWxRN1pvV2JxN3RUcWhzZXhQYXY1RjBmTEtPRkFwa0cyS3VRTmFEYnNYbjVlV1RiV3JpWF9PRGJzWVB0aFZIXzZrUFVZY0N1Y1haeFJHemhLdDFoZDJteEdkVGpja21kWkI4bUI0dkZpUmJVaU9Qb3pyZ3JMZTg5UjdZcDlQdTV4b0VRWjVvcVBUSHFIdHVRc0w2REt4Zmg1YjNiLWtkdWhYb1lZUkprMUZDcVBKaVBwT1hJaG1CV3FxVVY2bG9xRWVJM2w5SHBOdkpj0gGGAkFVX3lxTE8xdV9QcDJMX2xYMU5weGkzT0FielpqSXNoN1F4QXBhQVRPWlR0c0M4anlJNjJudHRfdzlBcjBTV2JJOU9WVzJrRVZhUkZ2WkJnVkcxbzBYQlUtaW5UV2JwM01DV1o0RkNGWnBRcmVFVHlmTU1ON0p6Rm9IR2piOW9nNWQwMlJtRVY5VjE3SUJkYnNhNzd5SG41WFUxRnRyTWNrR2xyUzJZTWlDai1CNDYwUFRNUWJzWFVHZEw1WWRFb09ZbTNNdDFVcV9UR2V4X29kTlBtcU5IYlgxQzJsQVVhTnpRQkVrNld0M0ZydTcxYXZMWjJENkdkczhXbVZYY3lLN0JMbkE?oc=5",
@@ -41,42 +59,18 @@
         "published": "Wed, 09 Sep 2026 03:18:00 GMT"
       },
       {
-        "title": "School assembly news headlines today- September 9: Top national, sports and world news curated for you - bestcolleges.indiatoday.in",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSnJEcHM4cWktMm8weTZoLUJrQVhOSzFCQzBvakhlN0QzVHJadkdIeVFzZ0ZOVzR2SjlZaWpHS0RXU3FYM2k0ZXJNT3JnWi1oMmFnRy1GQndrNzk1WXYtT0lsYXhsUHVjWmpIN2J5dG51SGxqb0NQclVXeXQzN3V3c2t3aFZSWVdUX21tUzMzWV9Jblkyc0pmRGZLYS0xZERObm9vUHhEQkhTVmp6SnB0YjNITVBIcG0zME1mMWRaZy1ZZmtfaTBSZ1NqYjNLWXFyZFYtaTRKT2tkdm5RejJFdlZfb2JfbHc?oc=5",
-        "source": "bestcolleges.indiatoday.in",
-        "published": "Tue, 08 Sep 2026 11:44:57 GMT"
-      },
-      {
-        "title": "Watch A Sports Mogul's Empire Under Scrutiny - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeGptekhXSEU1NGdmVlVsRk9ZLU9oRlBEaGxSTU5leXl1NTkyU3BiWHYwdE96b01xNDZJX3A1V3dJTzNXWUtONDBFcXNMQi1kTzBPUW9mYVFTNklHWlp2dUdudTN6aUZXMjJobC14emw3eTBMbHlLQ2xDZGF3M0t5ZTdYcHpkSGY1YXBKZVBTbUdyaEZDWE1XYw?oc=5",
-        "source": "Bloomberg.com",
-        "published": "Tue, 08 Sep 2026 00:00:00 GMT"
-      },
-      {
-        "title": "Emerging sports are the next big business opportunity: Tero India MD - The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdmxJQlBSSGJjT25JOHdsTlZUdkR5UE1zYXhyQm1vakpMQ3VRVGJPLUg3TEpyTEtiWEZsY3pkcThyS0JXRmdWN3ZLV2hFem5yOXVyRlFmdGl1emVHcDc0SFluSXNtZFVTdHRMSVc4ZDlRQUJNdk9ncHVGU01MTHl3bUhDQ2JQZnNnamFJQmlkTUdhd1NPZlVTSFkyVHRVYVZSbjlWZlphcGpxSlctQ3hyRm9PREVTb3g1Q00tVXBtTWwtTUd6TlFkdmNmQVg3SmtIeXhBV3IyLVJTUdIB3wFBVV95cUxPMWdIbXIxYm1pWFNNTVdNUVM1SEpOQ0dSbGNCZlFzTVZFWmdjM1g1dzVDZDg0b24zeXk4SUJ5MVR3cDFiUEFtQWQ0b0V0c2pnSTRFeVY4RUwxOHlpOUd2RTQ2N0N6cGh6VUMyNHN6UDRPLUN0eGotaVZFcWZQa3p1S3hweWtfWl9GQ2lhNGx1cFBKWThuX0xrZ0xJRnotejNmblY5a0V2cWV2R0JqY29teFlUNlozRHJ4Zm03WjI4djhHVGpldmZOeVBDakhKODBNa2NqWWcxb0pKLUNpME1Z?oc=5",
-        "source": "The Economic Times",
-        "published": "Wed, 09 Sep 2026 05:28:53 GMT"
-      },
-      {
-        "title": "India SAF Games participation in Pakistan guided by sports policy says MEA - Business Standard",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLTVORTNSUzR4MTdJU2FacGlpaUNJR1pQOFpnQW5PR0RoV2JJdlBYcGVCLWo4Mzh3RTZrcWxWQWtlRjJudjhlaTJjNjhjZklxNjVvRmFPZTZ2RFNVckZ1amF2WDNmLTVzcU5oYmpBNVE1NW1FQlQ1cmtzUDR3SHlReVBuQjlUUjRoRWlua1pIemVvMEN3XzRtSC1tcmlYZ2JSSFM5RlBTQmdDeHJhWEI0bGtjcmpXUlItM3F0bFZqYzNZSktmaHZOVU51dDE1dXFQM3NvTFdYY0RVb2hZU3l1YkxwY9IB6AFBVV95cUxPc1JXRmVSQnhIdm1Rel9peWhSMFhOYmo3OEQtaVc5X3IzTmo1aDY3ODduN19VWVRybUY4T1lLTTFkSUFsdzR6a19FRFJOVXVzY05GQXY4QUhUbTVEa09aeDktNEh6RXM0clBnVjRBLWFfM2h2TlNtMWJhUzNieDEtYkdTOHRWc2NIVWhzMGYwWjd2N1hvcFF5VmUtamhQM3p4NFpRajA2TXU3Rko1TUlDaW5qOFFnYVJtZ2t6eVVfZklSbWZGNDhvdzgwZVdyNk8ybXBfUGhlZUhPOVVGc3EwanFZYy1tX1Rx?oc=5",
-        "source": "Business Standard",
-        "published": "Wed, 09 Sep 2026 05:05:33 GMT"
+        "title": "20th Asian Games Aichi-Nagoya 2026: Top stars in action, schedule, sports with LA28 qualifying at play - How to watch live - olympics.com",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmVkaXM0ZEN0RU1QR3I5SmJVUzNhNlVTODVmZHFvaUZjSDdxZGlRc2pMakx4N3lPa1ExTDJaTjJiaW85dklRUEdWSWgtWTF1VE00amk4ZDdvUGtDa2RySkhCQXhYTmFCdVNQSjVUc0hQRVFNNWJOX3NfclgyeFpuQUFLTmNKV1VB?oc=5",
+        "source": "olympics.com",
+        "published": "Mon, 07 Sep 2026 08:30:00 GMT"
       }
     ],
     "Finance": [
       {
-        "title": "Central Banker Report Cards 2026 - Global Finance Magazine",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1cxVkhDdXBoMEJrYWtSWHZLOTlDSW1qS2M2S25TNHRobHJHLTU2QXR6ZXpIQmRCQmdDWjlGbmJJWVVDS3Q2MS1LRDVRYkhpN0pPRWtleWh3SXE3QUhJeS1vWHQ3Y0ZkdldoalJHa1ROekRUV2NNQkpaak1US0pKZndTVjNwOEFUVUUxNGFGR29SUG1KZjNiYQ?oc=5",
-        "source": "Global Finance Magazine",
-        "published": "Tue, 08 Sep 2026 04:00:00 GMT"
-      },
-      {
-        "title": "AI’s Finance Challenge: Managing Token Spend Without Slowing Innovation - SAP News Center",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XTmRtbFU2NU5wZkhucG9iOUNUTWlzQWYtTjRsUV9tU0RkV1FNZDhtenB4bHYwTXk0Yk9NNzJwVDlhazBTYkJRUzJkbjZua3ZpRUNoQTlwZzc1cG5QUUNhMUZRQzdkWHVZdU5ubjdnd2VnaFBNUUVnSXdIMA?oc=5",
-        "source": "SAP News Center",
-        "published": "Tue, 08 Sep 2026 11:17:13 GMT"
+        "title": "How Will Less Fed Transparency Affect Markets and the Economy? - Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHF3d0ljdVJYd3VlaFZZZTBuRWxORXIxWktEbXpmbnhGSHQtNUViWFdzVXVDRElyUHBXVHpUYnVRYXBXYl9DQ01hcGhMcFprMENqcW9Sb2k2eUxPb2hzYXlraVZGMTRFeEtSRGJnVl9KQmcxdTV0MzM3Zk1zMVZnR1dLdlowODd0bTdpbWlQcFRJdDlGbDYwLUR0Zjd2cmRBSHcwTk5Uc29vek9RUGNMbGxDcWxoZUhtWjRRaDcwRWI?oc=5",
+        "source": "Goldman Sachs",
+        "published": "Wed, 09 Sep 2026 19:01:05 GMT"
       },
       {
         "title": "Sandoz hosts Capital Markets Day and unveils Bio100 ambition – maximising Sandoz value in its golden decade for biosimilars - Sandoz",
@@ -85,30 +79,42 @@
         "published": "Tue, 08 Sep 2026 05:44:14 GMT"
       },
       {
-        "title": "Jobs and Rural Economy - Renewable Fuels Association",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XYnJwYXBnTzhFZUlLdmR2RnZwaGlxZC1KOTR6cWxwaG1kY29xNUJFTnMwT2tIMVdxek1FYVVwcnlXWmlTZkFjazFIZVNVQVlsajVhblVxcWJVWjBqTVV4STVfODFPUVgx?oc=5",
-        "source": "Renewable Fuels Association",
-        "published": "Tue, 08 Sep 2026 16:12:16 GMT"
+        "title": "How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWE45YWk0MlRjbWhuUnFuakJoNk1VWHRYWWxXTmFhazVDMGhJdjRJSWtCMlVHRVdVUkZHUGpzSnJXZVhwXzNxQVQtTjVXb3JmeTNfNmh4R0FlcU9hcVc2S2REbGE2T0xaYXo4bEp3bFFXdG56XzAyejNSSGFnMi03cmYtNzYzVnZqLUhRS0hGZWdhRUZnSWk1SWhkbkp6RzJTV1BYOUVUVDlwZU1jX1pLQ3JLYmRKajYyY19pWTEtSmdVR1RNcDBrYjY4aGhHMnc?oc=5",
+        "source": "Amazon Web Services (AWS)",
+        "published": "Wed, 09 Sep 2026 18:11:12 GMT"
       },
       {
-        "title": "Inclusive policies and social dialogue key to navigating AI transformation in Asian labour markets - International Labour Organization",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnpNcHNCNXVpVno4cHZmT3FBYVJoMVV4ZV9RNU1aUDU5Q0Jnb1pFZ2paWXpmSWUwRFhDcHRXXzdPRlYxMFBwS1JpTzZYdnhYbHdMdzRtU051Y0pWWEtWZ0QzbmwzcTYtN1g0c3FScTNqMDhJZHVSMnBzUFlNNDhoVDJWX3Bod0ZfajlJb1AxWUFDWWZONVo2aXFmb01WRFZha1g3SDA0OU8?oc=5",
-        "source": "International Labour Organization",
-        "published": "Tue, 08 Sep 2026 15:19:56 GMT"
+        "title": "The future of private markets: Reshaping access and unlocking growth - LSEG",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZl92c3BTRGl6WjI3bE5FcHZRRk4ybkcwS2xWaHJ1Z0RIZElMSC1uR0pscEhBXzd2c0Q0eTc0MkNrSkFHVnhfYVZncmtidFduak5UNnh4eXJERW1XMU1FSVNEdjFGM2xEMXFoYTRJVmFSdVU3Mnp5QVRhTk1iX3ZONkFQel9JcnlCaVBqSkI0ZVpjZ19RbE1hUTNTcElsTjcxLVJWTW95WnFxOVQyUGdZaDV3?oc=5",
+        "source": "LSEG",
+        "published": "Wed, 09 Sep 2026 15:23:36 GMT"
+      },
+      {
+        "title": "Seksaria Finance Peer Comparison, Competitor Analysis - Groww Stocks - Groww",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90REVpUjRNbkwxa1RfdFUxeW54VlV5ckF4aU04Zy1Wa3JBUWJoaEFTVnIzWWxxUXNlXzhKa2tmWGNWVmxBRmlSM0dEdDlmeXFpVDBYcVlPMlB3Yk9MdGQxaFItWDUteGlTaXBVeQ?oc=5",
+        "source": "Groww",
+        "published": "Wed, 09 Sep 2026 19:28:04 GMT"
       }
     ],
     "World Politics": [
       {
-        "title": "The Saudis and Houthis Inch Closer to War - worldpoliticsreview.com",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwNXFJMXdhazlFOFBMM1N6M1F4MXRkbTlKZUhhUVpuYU56aC1WdTZDcUtxZHEtR0ZzNGNXUEdabU1sNVdYS1JnWGYzek5QVmlNT0V2aWFLcW04T21RU0EyXzFmZm04S0tXcGVDNzJ6dzIyUkU5SWZuTA?oc=5",
+        "title": "António Guterres Leaves the U.N. as the Last Globalist Standing - worldpoliticsreview.com",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWFHdndEaHFub24ySzZPRDh3ZDdxTlZKbHI5VlJMZ1JNT0ZmTDgxX3RBODh4ZnVNU0F4SHNJdGF0Y1FNdnZKZkJBUE9LNm1qeWI3RjFyaXBPbmZPenNUSlJucGlVUkM1SEswWmwwM1p3Y2E5Vl9nTDNDQlIyQjd3NGlrME5paWVTTFp0anNtM182SnNMXzhxeEFOUnc?oc=5",
         "source": "worldpoliticsreview.com",
-        "published": "Tue, 08 Sep 2026 18:21:26 GMT"
+        "published": "Wed, 09 Sep 2026 12:14:20 GMT"
       },
       {
-        "title": "EU and Canada plan far-reaching alliance to strengthen partnership - The Japan Times",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWTdXMVpfSDFKRl9tVjdBLV83UmNYVERDdEwzTjg1a241ZWY2N1ZmT3BTMW1uVm9MUjJvUlNnSW1zZDhxRnh5NmhRVG5tS3FpZ2ZsUHN4YVJEcDhjVTBzTmt6QVczNzNBSW5LMGduSmlwV1ZqaFVIdWUyQUhoMUY3eGVnYkNrbC1sYkE?oc=5",
-        "source": "The Japan Times",
-        "published": "Tue, 08 Sep 2026 22:05:00 GMT"
+        "title": "In Memoriam: Professor Albert Santoli - The Institute of World Politics",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVEVIcjNONFVDSnZnNkRiZXNRQkNpY1FacHR4SmlMZk9jYVNtOFVWTXYxeDhxY0dxVVR5ZFZvalVESEF4czR0VHhiLUZTSnliak5SRl9BclM1RzNZa1ctREJUWVk1bHhuR1o4Wmhaam5sa3A5VnQxeVp5ZHFSbkhfaHdnRjBvYjhoZDkw?oc=5",
+        "source": "The Institute of World Politics",
+        "published": "Wed, 09 Sep 2026 13:04:10 GMT"
+      },
+      {
+        "title": "New world order: European football’s global politics are set to claim another Swiss victim - SVG Europe",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnFXUnlRWmc1QnFvNFpfY3drLVdtXzFTdUpLb1Rhb2ZsTWJCYkNzOWRfXzJFRVZjbS1XVVNIeXJLMEtXcG03djIyRGF6TWpUMmxESnRCZFF5aEs0WlNLdnZCLTQ3MWNhR0tMS3NmZkF2RThncmZ1NmtIdWFYcFpDVVdtdDBKVGhsODlEVHhpSnJwUGdjWVA3S0VuOEFvTzczYmF2blFJeUVtZTROZS1wemdzMzhKZ1dTX25vZkVMbTB2NWV1ZjROWWZn?oc=5",
+        "source": "SVG Europe",
+        "published": "Wed, 09 Sep 2026 17:02:27 GMT"
       },
       {
         "title": "Beyond Nation-States: A New Reading List for Understanding Global Politics Today - New America",
@@ -117,112 +123,106 @@
         "published": "Thu, 03 Sep 2026 16:49:42 GMT"
       },
       {
-        "title": "Trade with the settlers banned: 12 countries oppose Netanyahu and the West Bank settlements - Eunews",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRE5zb01DenR0ZzlycVdTZ09qajJwRUZFSHkzanA5c0Z6Yng4N1JwdWpfLUF3a3J5OXpwNUE0NW5ZZlJlbUxaVzZqNVJmLXN1RFRKMHYwVVdsQW9wNF9MQXRydDNYWE9NMWJmd2R5bTlPMXAzZVE2S0p1YnlocnR2ZUM3dFgzZTQyT3BVeUlyM1pkcFF4ZE9FYjRBZmFQbll0VzA1OVM2WjZpb2drb2g4QXIxdjhCZWlFR09FbXVNcG5yZlRuR3c?oc=5",
-        "source": "Eunews",
-        "published": "Tue, 08 Sep 2026 14:40:15 GMT"
-      },
-      {
-        "title": "Penélope Cruz Says It Would Be ‘Very Contradictory’ to Star in ‘Bunker’ and Refuse to Talk About Politics: It ‘Involves So Many Aspects of Where the World Is Right Now’ - Variety",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3BPNmV4N082cHpKcXhzRlc3WUtjTWZ6SlF1WjBwMWRZQ0tMaFR1emtvTmxKUmNYSk5XOHJJbzh5bXhFNEg1QmwyZnRHcTVrbXl5bkNPMnppRVR6TmI3WWtrYkhnNGlieWloM2xKMHppRTdhR01oMTR1cmZEV1lEamxiNXR3UnZnZjFLamVtdjZZQ250WXhweG13UjN2aHRZUnQybXNWSW9BbkVY?oc=5",
-        "source": "Variety",
-        "published": "Tue, 08 Sep 2026 13:17:00 GMT"
+        "title": "Unlearned lessons of 9/11, a quarter-century later - Catholic World Report",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd0NvOGFWNnlsZHBodXVXenJmQ1J6WEhKT09CZjJETUNsMW1TQ3VES1FOdURFZGpnLVI3QTZOSGRiLWZOUG9QNnRZaF90THU2dkxZNkxlaXlSWFc1cE5qNU1Bcl9mVnowQkg5YXhfeHdyOHQzTUJWQ2tmZTVUVHlyN0pUSVpVc3B2cEV1djRnSldmYnB2VkxoTDlWMTVGQQ?oc=5",
+        "source": "Catholic World Report",
+        "published": "Wed, 09 Sep 2026 22:37:57 GMT"
       }
     ],
     "India": [
       {
-        "title": "Confused by the debate over India’s 7.8% GDP growth? Here’s a simple explanation - Newslaundry",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYWF6YmlSSDhMN1hmeFVGQTJhSEhiQ3lNa3E5Rno1TTg5TGY0NGhETE9hdTJkclVwcjFMMHBRZUZWNUdXM0FwN2pQVWVnb29kYlBCMThJM09hZGZHUTRPWkpaYUhtVlEwQXBZQ2lfZUhORktKWXJPeWtEUm16UC0wMTRrN1NWREhRWV9nYkVTemdrSERFd3EyRnI4dW5sYUtqU2NFQWxYaVJJa09STmdGWWhmakrSAcoBQVVfeXFMTXl3QWQzSXBpQ29TSHFsZTNpaktmSjFVVlhhN0VkZzdqLTQxSV8yRGJuZ21mWVlDRWJIeW0wcHpyc290RnIxcHBIYW9KS0U5WVVkQXJURW9vNE5teXVzb2VfOFFJeURmQnFLLUZ3dmo4dFBjWjdmMjk0T1hrNmJzeGl0c0JlcHA5VmVvTFJGRndKVEt3VTNvRmxVbnZpSFh1cmMwd2FpRjRrbHNLMG9yby1zX0FOUVNhZUhNNWVBaUdVckl6aDRQc0ZhQQ?oc=5",
-        "source": "Newslaundry",
-        "published": "Tue, 08 Sep 2026 11:29:15 GMT"
-      },
-      {
-        "title": "India’s cleanest city Indore slips from top spot in clean air survey; Mayor assures anti-pollution steps - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWlFqNlNXVTQyNzRFYzllSmtick15NnBwLXdGQ1pHWG5jT2tvYU9NemZZRlBTYkt2bzlfb3luMTk2RXRXc21QV0kyRTVSa3JxOUhmOW9JVlhWaEViMGVjOWNnSnV0YlJuMVZpQlpMdzIweGJ0RmNWM0wxMEpSX0ZLXzNEMEtNWVJ0enNLWFdHTVFPWW5kQklPWFNIWHZXVzhRWHRma05UWE01MU4wdk1sMDJNUE44SnR5YnhfWkF0LWlBYWtoMGt4RWd2WXdVLU4zOXY0aDNjMzJ4MUczQ0NDV2FSLUx6S1lBZlN4NUl0NUt3QUdjX19ZTWlkVmRKTUdqYTkyYk1JNA?oc=5",
-        "source": "The Hindu",
-        "published": "Wed, 09 Sep 2026 05:18:12 GMT"
-      },
-      {
-        "title": "The ‘veg-only’ gatekeepers of urban housing in India - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXBHM1ZzTW1MVXYtM2Q5NDdYRXJnVE1pTGQweWxib0EyQ1Y5eVdtTGZUM1V6bzF4SXpoZWdWYXZEYjg5RmlzRldOdF90WDFDemVRSmMtdmp3THBBU2V4QXpybjJCV3dzck0wNlRnNGplalR0aXhUVHB0aE5ReDlaSmhoN3V1MHBzT0VWYmdzT0lWTThKcDVUZXVaWWFUSGpKWjFleE5YamNPSGl3U3pUU2pvSjZvSVpvTkE?oc=5",
-        "source": "The Times of India",
-        "published": "Wed, 09 Sep 2026 05:22:00 GMT"
-      },
-      {
-        "title": "EXCLUSIVE: Singapore Airlines to seek tougher terms for any fresh Air India funding, sources say - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLUEyb2VCWFRBdDdmWGJLRFBOQ2ZHR3M0VlRVaDctdkZybnFtTXNmdkl0dGN0LTVuYU9Oa1hLTVVmVmx2WjFjMDk4bFZMU3B3SnZSNFJiRWpCS0lkeGJVTTdPZm1FSDRaQk9qekJGQ3V2aXJMQ0ZZZzItM296RzBINkNjbXlycGRNZXRQaTF3dzZHb25vQnVsZVBDY1FYODNGdUNkUU5rYnVCSTRNU2hJaS1OSkpaVlo1SDhoVVB1aF9pLW41LXZXY3R4bW4?oc=5",
+        "title": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTE5zWFZ4Z2JRY1VhbF94Z01fZFlvRDRvVFFjMHpwQnN3RnpUN1RHZW1kSFJiWDM2RnZadHhRVy0yOS1xcU85UEZucEN0ZHZ1YXdtYzE1WW9NQ2lQcEtZZEN0VW5qQTk1emRJT2hNSXV1SmRkdGVScHQwX1p2NkpiRlVpZ2kxYVJtbF96U2NjVC05Nmg0TEhBa1lJUVUyX3QyOWQzdVd0S1g5UjZibVNHODRyNDdLSGli?oc=5",
         "source": "Reuters",
-        "published": "Wed, 09 Sep 2026 05:14:00 GMT"
+        "published": "Thu, 10 Sep 2026 02:20:00 GMT"
       },
       {
-        "title": "Abdullahs Stand For Full Vande Mataram, Congress Objects, Told To Sit Down - ndtv.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVlZIczVRVWVZQ21JNTUxazE5eEZvaG9ibjRtVUxDNHlZamRkRElmelI1b2R6RmM0anFUTjYxTXZLV080T2tORXdibUNkMzBPOUlDY183VzhWVkFVMnNKQ25fbE5CY0hGTVJmcDkyOE1wdF9wdGdnX3hLa2M0eUZZS0FCd3cxRlFMbjRMRllIcGdIYl96Ui1LakdnTnNhdlJCU29MZm1OWHpTdGhMVmJSbHFZSdIBuwFBVV95cUxQMU4xRGtiU09Ta0Q5R3NuMjhNV0tFQV91anRRY3VhU0pWSFRuVUx3d1ZQYlRSSWd4RmFYdTlaRVlyZ3pwdmpGUDNuZTIyc2ZRbGhYN2lxTHdMNnNxY2xDajJHdjVDX0NBUW1nX2FJbThvNnEtZHd2MHB1X19hVW5MNjZQWVhfUTlKbGZ3b3Y1NVFNWVZMMER1QUVSd3NCSExuM1c3dVpvRnZyOXdFNDAzQnBtc05tNjhOaVk4?oc=5",
-        "source": "ndtv.com",
-        "published": "Wed, 09 Sep 2026 04:05:13 GMT"
+        "title": "No Benefits For India From BRICS, Says P Chidambaram, BJP Asks What Did Congress Do - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHRPX0c0QkdWZmtXalFCOTJCQy1zRS1fQ0pJMy1Kb2hXZUxPc0VpdzhCUElzLWp0UVZVZGZvYk9pLWJFb0dFVUYxemxwUzZ0eFpwLWx2R1MzNWxPcEZBbTVPeVR3UXA3MDFyMzJ2NV93RnF1bTRZYjdvaEFUVE95bUlzVlRBdXVuWmtJSDBrVUMxekFkSDQxT3JnUllwcnI2UmxXdFhYclJMTWhVbnBlb3pHZ01nNXdlakd3bnZKMNIBxwFBVV95cUxPRDFsemJZMVhvNjh6cWJMVEoxTjJTR3EzcmNmZ1lMTTJJV0J5MHpHWDlmVTVLa3o1NldsbS1OdmZWdG02ejdoY0pJYjU3UkthVTBXN2FLMGN0NTdJbjVzY1QwQ2hfSk5YMWFjNWhHNEV6Q0lLUmNYdENYYXpQQ3BIeFZJQUlNenZNS0c5NUtzeXI4TC1JeHo5emw2dzNoZ1I2TlpkQ0FpazE4Z1lId1kzUlpJMXU3TGRwaDNIem5xcnNkTkZhT0ln?oc=5",
+        "source": "NDTV",
+        "published": "Thu, 10 Sep 2026 04:32:53 GMT"
+      },
+      {
+        "title": "West Asia on boil, negotiators try to bridge divide within BRICS - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaV95Ynd6T0JaQ056SHBWQjRWLVBPcXJ4dlYtam1hamNhbXh4eVRNNmo3Sm11elR4czRMVzhuZEpabkhjZGJUdGswUi1ZRnVJalBaUHJJeEJranc2NElKMFMwT0EzQjV3eEMtdWk3MnlMQW8waFc4SDViZU9meVF5MlhTWmtLVi0xVXkwZkl6UFJmRlZuSXNTTHVvRWU4RlVsQ216cFI4Z0pSLUM1U0HSAbQBQVVfeXFMTlAyczNOWi0zSFJXMExfeG9icGtaMndvYV9JUl9MM2VrTXpVbmc5em5USWJMTDVXa05QYk5EOXhlR1ktVkF2ZmVZcEc1VDhxRkQ3d1VyNE1fMUtCOE16V0Z4aVJBNGZkZ1FEQ18xUzYyZGJST2Y0Y25VWWdXVHdOTFJwR2xwaEF1OEZ3bW9rWEVBX1BjUXNUZEdhSGlxMV81VDA3ZVNvRDlGRHdncjBYRnRjSlot?oc=5",
+        "source": "The Indian Express",
+        "published": "Wed, 09 Sep 2026 23:50:33 GMT"
+      },
+      {
+        "title": "Xi can seek a broader India reset at BRICS Summit. Border will determine what comes next - ThePrint",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRDZoRUdQX3daNnBCaUxEdmk0SmdONDRicm5mU1pOcTd4UEk5bHhhNzNRRmNZUW9Cd1JZQXZHV3pJZ0Y5Mk9QeUx0T2dqdDUyTTBMOFpMLVVCVlA0clZhRTZLdGtCV1pUZ1ZRaHBLaUY5MFp6NkNnYkhNV1NPOHJNVlFjakZweXN4bmw5aGZFZzJpT1VWdVHSAZsBQVVfeXFMUFhpSW1rMEdsaEtUbERLVGtQeVh1LXFoZGwwanNFOWxmRnVsQmxYRkg1MHJXdkd2cTVRRWFSRGRSTlpEblhTNDlzR2Z4SmNObFdVWk9QQkVuUTVkZGhCNzl5b2NjcE1Ua1VWWUxvdG9DMW5YSUdMRDBlY3JlNkZXYXlXUlZYbnFmTVI3RzBTOXFVbWJVNmVQWWo4eVk?oc=5",
+        "source": "ThePrint",
+        "published": "Thu, 10 Sep 2026 05:01:40 GMT"
+      },
+      {
+        "title": "Hardik Pandya included in India A squad for one-dayers against Australia A - Cricinfo",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUw4emY3ck1NdGFyM3R0M28yT1JiRDZaRXFrMHd1SUF3czEzTG96SWVMbEJwOE53cVJJQVVoQjdGZE1tbGJiUHYxRVZuXzFJZ0ZKZFIwbTJVNFdTdUNlTkh6NlRxSzRabTZBSEFuNEZaMlFPUUtRMENwV2xNNE5ZakpmRDBOQ3QxQjJoMGs2VDREMnczeEQ1RlhXNW0wc1UwUy1MU055OGJBazlLVWhMY29DY9IBxAFBVV95cUxOakNOd0FfWHNSRDBkRm5kbllkY1hPQTZ1NUVQQlZvX3RwZWtnUzYxZXItanE0SUY4ZF9fa1VLRU5UQkY1LTZMS1cxN0dnRWNzREpZdVl0dWl0aUU2Q19XelQyLV9IUV9uUFVFbFpETkt1QkxWVXkzTlZRYm51SXRiMk5ETUtUbmh3elo4Z18wZ201RThHUW54aGdlakVZLUFNSHE0dkZvek5Fd3lLalQzN2ZxM1lYWmN0LUpld3Z5eU9jdlh5?oc=5",
+        "source": "Cricinfo",
+        "published": "Wed, 09 Sep 2026 10:43:00 GMT"
       }
     ],
     "Andhra Pradesh (English)": [
       {
-        "title": "Andhra CM Naidu tells MLAs to stay close to people, address grievances fast - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ3Y3ZlN4cWVEZlpWNW1LWmRfUFR2by1yeFBRMDNzQlBzT3ZoV1ZRZFNUX0hSMEh2Y3VLUWpVRTUySzFHNFdpajJhY0pNM0s5ZjUxMXYza051R0pHbk5Lcy13R2s1WVVTNjVuVl9WalVSY2dLQUhJemJIYkFCanNuQ29iZGRVajE4bHVnRkFjcEF1WWN2VlI2STV6aW1oV3lKSjQwdWtPRWRNRjlPekVZYWdicEpvNHg2cldNaHJxZ0JFV21EejgxdXhLQk1ZQWZQZHc1LTFiZFhGZnFmUUc5UmlB0gHoAUFVX3lxTE1CVVpFR0tvYURrdG82Q2czUllqbFRnUTZFNDdNRENHb3FoMGRkdExlNGtKcDZTeXdkdUxaaTJxaFFXWGlSaWFaSjZvNnJyNGpMSWRtVng0MHVPZVpFU0FCOU8ySS1fQUl5cktULWxkdEVzV2V5cjVES3NaY1NsLS1WOWtNVGkyaUlRVFpHX1hFazZlS21ibDhxNzM1UG9TZHQxTnltSFpVY0VpZXUxR2NpcGg2OTBBbzFwdjFXZ2lmejZ4Wk1wdFlUVGlFMHFjTnE1cUNONGx5bzljV1JiZmNqUjFRaUZKOFE?oc=5",
-        "source": "The Hindu",
-        "published": "Tue, 08 Sep 2026 16:01:29 GMT"
+        "title": "Andhra Opposition Seeks CBI Probe Into Teacher Recruitment, TDP Rejects Charge - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTGtkMl9rU092cV9DcTBUd0tHOXFCV3hUSmNXS1hBa2hqYXJ3U0ozV3c5ZHBIZjA4MHNtUWluOXdreWplZG5meE5oWGc5VHl6SlhMUEVWbnVjRFk5MnRlNmZ1Ympwemh6Sk5qVUpKYm4tb1UzX3FYdl9XS3pxYWF2UGNTM28yTVVoTGUyUEdGVmw5eGxobUZnc3ZWVUNvNXVEWUNIOTFrWjZpLUxKVGVpMHJhWEk3UmpTaTZBTG9haUZMako4aGVJUmJRZGFvWU9vRW5tU3lIRFl0anfSAeMBQVVfeXFMUDB4dnFGMU9kQVlWNmcyZzFENWZDSy1GUHJBN1g1WnI5NUZsTnNINy1CT2o1ZU5JX3VvdkRoWHBkSl9HNm1NLU45OXk2WXg0RlNYUUdidl9DQjhTODAtME5TVG52M21odDdSc2JURlJTdEV3LU5zSWpyMlJVRDlmZ0htZnpLSG5KeW1MVEt4SzRmNHFRUi1Ic09DM00zdm1mMHd3ZGJUdE5lN0xMR0pKaUFIQ3FFYy1lbUtLOElEOE53RjhBOXNhb28yVEVzS2p1V1ZtV0IwZTljMVM4WUxOV3pSWnc?oc=5",
+        "source": "NDTV",
+        "published": "Wed, 09 Sep 2026 08:31:28 GMT"
       },
       {
-        "title": "Jolt To Jagan Reddy Ahead Of Civic Polls, Key Leader Switches To TDP - ndtv.com",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOX1ZjY3loR3JrMENZQ1haa1o1aGZCaVRKUGJjUENPUTBHUm0tc0FUTXhjZ2lCdmJBX0V4T2dQeEdfSW1URXZFOHpYRWI2aWNZZHoyVGNFbi1NdUJTYkNwMHluMlBTZENVZ0NqeEZLWExJUnVNRlJkN0k5UVEzZGw0VVJYVWFLNW14ek1XQUdEZjd1MWdtajdjV1ZzU3lJcm95RFlheTNTN05iMEI3YU5uTUpwdV9USW5RZEVnZDk3a1lidzZRRVZxenhEdlF2Tmp5TXBQZS1MeGRzSENfc3ZzZ0J6WlUyczdmUHNRZEhTNFlGdUhqSXfSAf4BQVVfeXFMTU1oSTJMUk9FVXJtdzZTLWcwUTN3ZnRxTHRzRW5DalhueTg3Zjcwb2hncWN1bkRKdmFnYnFqc3pqcnJmcDlpOXllamJYb1VTZmpjVVNHVEpERWtoT1h0OXBKMlFrLU93OXdZbWZHelEweURJVzZRQkpwMDB0VlduVGZhWHRJcFZNM1duSjgzMkhJT0F5OVg5OGgwOGpDQWlWbU8xRGo5aml1YTlmZ0lCQjRXc3dmdVFZa1Vha0EwWXZNNkRsRU9HWTNWbGl3V2RVbnhGWTV6aDZ3WlNTMzBkMTlmdTFNR0YyZHVPUzR5eWE4UUpibDZRaUF3bzN3N2c?oc=5",
-        "source": "ndtv.com",
-        "published": "Wed, 09 Sep 2026 04:33:39 GMT"
+        "title": "Andhra Pradesh: Independent Review Sought for Vizag AI Data Centres - Deccan Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTGl4bEdzS094c2JiT3BLMjc1SWo1dlpwX1VzLWxyR1hNTGI1alhMenp2aWZROTZYOUxqNnVGcUlaN2R6eFYzcVo3WU92V09ndEZlVTVkRFp6SVVORmxrc3luWmtBcjRvNEhaTzlHaVBOWG5PX1V4UWotQTJnYXBRTHY3U1gyQXdGbnRkMjlkTWJPVVVtR3JGai04SWFocFkzVzN3SS10RDhVQzRMNWdybnpMNVFSRS1uZzR2V29ZUUw2YnUtRlFKaHRZNWoxb281SjhN0gHYAUFVX3lxTE5fVXhFQzlMSEUzQkk0QTV1MEtFd1VnS05SR3ZybWVjcUpwcC04M1c1WjZvMkFKU2dncXdtckpiejhvV1ZfRVRLVWw2a3lmOGZOZzdYbG1tampHanhmbHdzNndoOXloNWtsODdzNVp0MTh0THBBa2MyLVEyRlBySUxZT3J1V0xVNkpRNnRSaVJTSGd2d3J3bXp4OVFxWEdwVmhnYlZRLUo0TkpPd21oenlMWlc4X1FTNDEzRDdKYXU4M3BIaHBqNnZDU29RQjFNdzU4SVVvbEF5Xw?oc=5",
+        "source": "Deccan Chronicle",
+        "published": "Sun, 06 Sep 2026 18:53:51 GMT"
       },
       {
-        "title": "Ensure resounding victory for NDA\nin local body polls in Andhra Pradesh: CM Chandrababu Naidu to leaders - The New Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTW03OXhjcUsxeGhOUkZBejIyYXk4Rm10V3BqX01HbUhsUXZMOTZfZHJNbjM0bzNxY180aGlkMGEzMkJ4SVJsLTlWMGI2cWsxb1RzVGdpRTJoT1dDNVJOWlRSQlNOWm5oT0F2NDRrU1UyOXd2UThoSWVHSE1pUXVTSTBHQ0lBVmFZRVlVckZxR1ZvaUlKdFY0ZGNsVko4TTEtb1lOdTN1UEUwbE1DUzhPNDJia2NMeWc4UkpwZ0pKUm5DQzJ2ZVFkYm5aTmU2T3EyVDNucUxXSjllUmFvdWpULXNIOXlXSEpyeS12anlERHMxcnBSR0hhNnNRRFBSQ03SAYwCQVVfeXFMUHZXMHhJY1pkYm9aV2ktbWVuOEwzVzNLMzRHZHd4TnRGcDY2a1dldmtEX2lMQ3ZvNktGcWx5UVB4V1ptc2JjazJfTzQxY2VON2NkNFdEeHFKY3EwQ0F5WUwtMm1aSGFvRnJYUS0zR1k0RUEzZlZuN3dVWjkyaHZMWHdlcnhLaHRyR0g2MzREVWtDR1o1QXM2OFhWaHFUREpZRlM2X25SZ2tSQ2ZXTS1taDNscVJNZ0d2RXFoRkFkcTJDdU9hdGlKeUMweDZvRFhfanlSNDJ2QVNadlZXVEFpVlJPR3phRXJ1ajE1WjdQcnhZOGlPbUpBekJ2RWxlWlVFY2czUzhPcGhEcC1KYQ?oc=5",
-        "source": "The New Indian Express",
-        "published": "Tue, 08 Sep 2026 03:45:20 GMT"
+        "title": "Truth prevailed in skill ‘scam’ case foisted on Chandrababu Naidu three years ago: Lokesh - thehindu.com",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdVNOVlo3TUl6SDFkdGl2X1FoanYyWk5ES1ozalVJNi0zMEd0YjA2U25FeHJZNlZVZ2FLSXFGb0lZbXlOMjhXQUl5OWx4ZnJ6Nkt1QkpFMVhqVjU0MjJweUpHX3JpcWFXbkhndXhDOGFRWmRsaXRlOTMyNWk2d1pqN2dtMGVCWU9tR0g0UzZIaDdqNFotb0ptb3JuTmtTTHJ5RnRZX1FhYTFtVVpfQ3I0OVlwbnR2Ri1pY3N3bUdKYWZRdEZwdWdYNE1QYVFPZ1U0V1pqQnpQT2Y2cFpJU1VhRGpka0E4V2E4TWdzYTZwbVBsd9IB-AFBVV95cUxPdUxWZEdma3ZVc2k1ei1QejF6X0hER0w1M2R4N2xlR1ZOcEFpcEIxN291dkx5TGphTTFmNE1IQS1oUzRDUVl3N1JTNlZEX2FuRnh4NmpHYUtvN2RjQ1JyOGZDX3l3N21wOTdad285OWFjLXRVWHV4enF4ek83NkF3QjlHb0hkWjB4MTJQTzNleUpWM2Q4M0JOLXBsbXM2aEpaZGZ1Q2dycGEwN01PWFp5YmNYZzNZaXFyWHRMek5CYVJueERVMUdoLUtzZGhFRjlSSVBJQWZqX0xHY3ZvWUlDeFZoMDc4ak1DLUt0UG1BeUNZczl3MHdrRg?oc=5",
+        "source": "thehindu.com",
+        "published": "Thu, 10 Sep 2026 05:18:28 GMT"
       },
       {
-        "title": "El Niño reshapes Andhra Pradesh’s weather, disrupts SW monsoon - The New Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR0xPbTNlVmlXQ2VNanJWdWQtS3M1UkZMYlV5M3lHd3VrdmVXWHhsa0pEOWRHZjdrSFlZSVJtZXQtaTV0djJ5UW5QOWhnUG1rV1lhVGxOMWk4NUFtbk5XcXRVal8zSDI4cE9hWkU0dlFhTmQ2STluR3dzTGVvMzZ1OU40REoteV96NjFyNmZjZGl3Z2RlNjBMZE1Fb182b3lDenE3WkZaX2tfUkgxMkRHYU11R0c4VjFBcmExdjdvZzFYYjVDU0JWRmpxbkfSAdoBQVVfeXFMTlAxdXYtdUl0c1FYMVJxQVlpSjY1RGJQRkNYOHJzQ0oxeTAwWUtlTVRocXdyNDdFeFFHZ2pfQWx5R09NaGRuUGo5Um9BU012RXVvT2VhZk55V3ZfMUkwTlduaXZ3N19OYmQyaGxpZmZ2YkRmM2NMUVRoTzQxUGpFd2J4eDlmVGlxNmRwcmdYcVBkcnFPT2hCZ1JKMUpPZGloX3E0cjRoMHE5bHY5NEx6U2hWdnd0RE0wbk9QOGZyU0wxZmJxNmZvOVFGb2xSSVFPaGtZeGNmbjByYWc?oc=5",
-        "source": "The New Indian Express",
-        "published": "Tue, 08 Sep 2026 04:14:25 GMT"
+        "title": "A.P. data centre case: High Court takes note of land allotment and environmental concerns - thehindu.com",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVktHRE04SFlyaFdBQjAzYjJuVW0weWpSVXJWYXRieHh1dC1rbEZST2h4LWZobG9BYVB1UmQtaG9TUmxZRHNVRWR2ZWpPME1za0pKWFpWajE1ZG83eEROX2EtMTc2YUVMbUlyWW93UWJjaTFQcGpNMVpFWnY0UU5PV0puXzJEWGJSVHZmMWUxTEt0UWtFLThKZDJFaFdsaEpYU2FTTUREMFZuTU5FSlNmNEswaFpOQzExS3ljQnpsNTZ1SXJTRHZyUUYydEFqMENqWW5mNl83Y3NPRktRSGo5Y2cyOENySU1aUHhlT180WUlrZw?oc=5",
+        "source": "thehindu.com",
+        "published": "Thu, 10 Sep 2026 03:48:12 GMT"
       },
       {
-        "title": "Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX0tBcEpFNEpXX1BRUVRzaTl5MVFVdThQenFjWVJ3TF9wRVR4eGJhSXNneHk5dElYVWJEbV9hNzJza0JkOVk4OFI3S0ZYRHFMOEZVZ2ZXbkg5LXlmQlE4LTFRNnR6OXpLSU9KcXhMZ2dvbjdYZThUd1ZZTm9lRVRSTURCVnhHTVBtUExLa1FNdWVXNXNYRElZQThsX0dQYlM0TmdRUWV5eERUb0RURUExOXl0SDVxMExFSFlXWW0tTmd1Z1d4TTV2NUdLMEdZZ0djM1JWY3hKTmtrSEd0RGxMaHpOa1E2dnYyVGpEVXpR0gH0AUFVX3lxTFA1YmlLZ3NnY1ZoZTNDNV9yQkRaY0JpNDNvVEtnY0pkOXdTVWNqbGhqUGxpYWFfZF9KRXhGa0tyUlpGTDN6WmRpUFRoa0xOZm5KVHRGaW4xRVJ6cmYzTW1vZ3lFdFpHZ2NHZUx1cTM5M2FtVlpycHk3VjhCTFp5ZF81VmJkcGZxRzVmcXF2SXR0VHJ5Um9TZzFoLWFrN0RJM0RaeXYyTnI2NC1YZ1hNSzFqa09mbjkyTlNhTE5ERlRGLVZqUUFsTHh6dXdTVzJNNVI1U05CVVVvZjZfRmNkV0ZRN0ZLWEJqY1lsenJza2FmZzdPVU4?oc=5",
-        "source": "The Hindu",
-        "published": "Tue, 08 Sep 2026 18:10:52 GMT"
+        "title": "Jagan announces to undertake padayatra in Andhra Pradesh next year - thehindu.com",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlFrNE9yTWxKTzFMYW9yM0ZWSklhWVkxZzNZZmVRVG1keDE5MnVubU15Q1pHSkpQX1VPVHk0eEpWNjluZGJfNUpYcUtjODkzellOMWliNjBBOXoyRlNhMkl5OXJZVVluY25JYXp5X1c3ek00MGdreVpOZVhQTk92d3g0NkY3emxUQ1hKNS1mSGRsdHdfMUJrYXFiY2tXQlZYcWg2X3I3akhySmFtRTVQaFdsalFqUHAtUW5NVXlac9IBxgFBVV95cUxQT0MzVFZWa1d6dHBkcDRJS3lqY1NtaFpIQ0k5LU8xQm1rc0wyR2dZRG5jb3FIbndQSGE5clJpSnpfSkpYbzhTV3BndWd1MFhlTFk1REhDZnF5M0kzZGJWU2RjWVRHWFk2UTVlTkxCb2xIU2F2a3pvLWNpb2JuVHpkTFBhYmRWcm5aRnlwX2dHYXdHcEwxMS12Zk1nU0lZR2hWbFU4RG1jMkdBaWQ3M1JTcHczdV9SWjZIcTRaZDNETDZMcXR3b0E?oc=5",
+        "source": "thehindu.com",
+        "published": "Wed, 09 Sep 2026 14:43:17 GMT"
       }
     ],
     "Andhra Pradesh (Telugu)": [
       {
-        "title": "AP Telangana Weather Report: బంగాళాఖాతంలో భారీ ద్రోణి ఎఫెక్ట్.. రెండు రోజులపాటు దంచికొట్టే వానలు - News18 Telugu",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRmh3cDlXeVRqbWMzcE9UaThHXzNHVTk3NlhPUXZJWjk0SXVjeUZtT3puUlVyYUh5NmxXb3NKSWFFekNIUFpWRnppaUI4VXdwM0tqTlRJdld6bGV1eThoTXlmcWV5SERtUUhRanNqakc2UXNOcTFTXzV6WDdybDRuVGktUGdWRzBUNlVJRnZ6VDNYdTBnTlEwYy1jVTZLUVQ0clVMQ1J0b1draXhheWwwWWtRbnY3ajdtdUtVaVljdGxMcGZRSHZaSzMyb1NxSF8xbkh2Q0ZLUlp0N21VWWRBejdWMU55aXV4RGFHYjY1SDJIZ2UxeDlBODkzamFrb3c?oc=5",
-        "source": "News18 Telugu",
-        "published": "Mon, 07 Sep 2026 02:04:00 GMT"
-      },
-      {
-        "title": "ఆంధ్రప్రదేశ్‌కు వాతావరణశాఖ చల్లని కబురు.. ద్రోణి ప్రభావంతో ఈ జిల్లాల్లో వర్షాలు - Samayam Telugu",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbXB3OEhLaEljYjE4cTdzWVdVa1gzY196cWhmb2kyak9DUVBSeXA5RVRTd2VxSXNnWHpnZm45UUFTa2tFUVdCMVpsWmw5V1ZvbFBUT3hwNnhRTVctNGNEaVVzQ2YyYUk2YVZLZDNDZUpwVkV6ZnBWendjZXdtM1o3SFE4R1lCb1JLa1JmamJySXp3cmJBTGY1OUV5TzZQLXRfNEhVaTk3eE1hQmpCWENuaXo2R1N5eFF6YTl3T052TlRzZjlZY2NFNUJ5LS1Tb3pEVk9hYXY1RWJBa0810gHiAUFVX3lxTE0zSk9nd2piUlZyMkgyRFRfSXJtM1l5dG4wNi1pcU1wSHVMc3BuOUxydXFXejExQ05rQUVlMGZvWDlfeWVmTVU1ZDlBSEZsZU9CMTdRbnZ4NDBKdHpFaTZGUXhQMVFCVWhBNG9tazVCZ0dENUJDNDBmLXVGbHpZZ3Ayc3pJQlc2S3BGTWMzSFA0NEdyQjB5elc1X1lqWXlVeEFRY1BJWUJYbXp3UmV2MExPVERtd0kwaW5paDRTREppRlBZU2VJWjFDenV4Y3ppZTNIUlpLRmhOM1Foei1LOHNxbHc?oc=5",
-        "source": "Samayam Telugu",
-        "published": "Wed, 09 Sep 2026 00:02:12 GMT"
-      },
-      {
-        "title": "బంగాళాఖాతంలో వరుస అల్పపీడనాలు.. తెలుగు రాష్ట్రాలకు వర్షసూచన.. ఇదిగో లేటెస్ట్ వెదర్ రిపోర్ట్ - tv9telugu.com",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNd0dLdE1xX2JxV0VCaFhreW11bDdzVU9xNjNWd09aU0hPODExT2RGaDRMSFZnb1VHamI2UndNWVpTQWd6ODBodjNvbGNyYnVSdXE4UFBWbG9JWFB2dFVVOU5oRnZlSHBuY3FvSVV2VHMyN205cDcwbkpNVk1GZTltaTFPUkZtZ3Q0dENhOUtQRHU4d3R0ZERJYzI1eEdJTzd6OFJaeDRIV1NxS1R2RmUyblhJTjdvaTVSVG00TzQ2bTNKQ3JfZmR5NHhVU2t5b3Z3Sm9rWHhxQnZBMF9TcWxxTUdvSjNjN0gtN3VvbXFuSDZaU0cyX0NZYjFB0gH_AUFVX3lxTE5IeXYtU2lqcjJHWUVBTVIwTmtjQU1PSWhhMUdlVDRIZEVKVXpsRndTMFA3SUwwOV9zbjNucXRjbHhRaUxqZk91X3FZVk5tTm1OWHYxZXB5WXp3TUxkLVhoN1hLb0lQWXRONGZoT00wS05XUHNBcHRqd0RvSzRnR2pNbGdtVGRhZmRCdVBzOUZTTElRRGhJbTdiRWUydl9YVDcwS25qdFBNUjRycVRmUUFoZUpfMU92a1NTVmJDeFFTX3dHTTA5b25jRy02Y2I5bjBOb0ZwbGR5S205WTZ2YkptdGZjNUJlVG80b05DaHZKNjRFcXQ5ZjM1Qkk4UmEwVQ?oc=5",
-        "source": "tv9telugu.com",
-        "published": "Wed, 09 Sep 2026 01:09:29 GMT"
-      },
-      {
-        "title": "సమర్థ నాయకత్వంతోనే సమస్యల పరిష్కారం: సీఎం చంద్రబాబు - Andhrajyothy",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVDZUcXhpY2U5M0dZcDk5M1pTNUlEbzZ4TW8yOFVVNGlYZ1VkWVFWSWNIUTBIVUs4aC1kSEh5STVtc2x4YXpoRXRjMXItVjFfUGFQMHpMQ2VSaXZBODNWUzVqaG96WFlwWkF0UWFGcGRXRTMxaS1GTWoyQnB6LTVyRUZ3aXNKT0V0NmJfdkxJaGY3VDdISmt2Q011cDNpaGliNHROMmdIU18ySlpsTWJNd3lTX1NBdGZqSWMycUtVeXU3aEFWb3J3a21VU1UwQ21HRWc?oc=5",
+        "title": "ఏపీలో ఎంపీటీసీ, జెడ్పీటీసీ ఎన్నికల పోలింగ్ కేంద్రాల ఖరారుకు షెడ్యూల్ విడుదల - Andhrajyothy",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcEcyMWZTTm9jUDU4cVVBWWQ5ZUhiNmQxNjBOMm1OamU1RFlhVjdnOTd5QjlnTDN5djZXMlpOZzl6aEo1NGhHN05pdlg4eEZIXzlXSHhrZDR4VlB5MVVpaWZCSWpLZW9YcXNZMmtMT2pWLV9SeTNVYnd1Mmo2ZGgxNlR2bDdWclVzSGJyWk9sTWxyUTlrWXlBNGhlWE5wbVpNaUlyRlY0MTZhNjFBa2xyd05tVzlMNmFGTnFOM0xCeVc2UEFGRDdvbzF3VUcwRXFubVk1VmEwMjdJVHo3Q0hjVFh0amNoRWkyU0MtRDZWcGttWlg0akpRQw?oc=5",
         "source": "Andhrajyothy",
-        "published": "Mon, 07 Sep 2026 04:42:16 GMT"
+        "published": "Wed, 09 Sep 2026 09:54:50 GMT"
       },
       {
-        "title": "డీమార్ట్‌ తరహాలో ఏపీ ప్రభుత్వం మీ మార్ట్‌లు.. అక్టోబర్ ఒకటిన ప్రారంభం.. - Samayam Telugu",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSU1TNzQ3bE1md3hEMW1oRG81REZfa1VORDFvQzY3NXdWdkZSVk5LSHlxMWpUaWtOVXhBbkxDdzNQZXB1S2tuUWcwV1o0SlB3QTBwc01IdGNDVmt3dUFudURTMGZJdG9LdFhjZGtucjNNWUI0Z2JvTW0zTGZ5YXJrYmd4b2RvLVkyeTVDekg2T1FxWVpIWTVvdncxeTB4ZUxHaDZpUHdrTGxPYkowc25fWWg4MTZpUk90eFJFSmhYR2JEdnhrcFk5bnBkVDFRRDJOb1NMRHAzWEIwZnA0cGfSAeMBQVVfeXFMTUFVSlViQmpFNVRuRDJoWFM2NHByMkxDSEd6Rkg1ekgtLTVDYV9CNDdKRGhmN3c0WEJBbDBaVDFfcF9SLVgxWVhLMktYa3hGSTNBMUZkVzBOa2lrMVV2VFVKR1pMMGhTQV92ckRiQmdrMzJOVkp1WUg4SW43UEF0TWlhSlQzcl9GVmxiZTRWMTFQV1RLSWhYOUp5UGlkcWtjRTFmTGVZUGxrcDhfMFBtbWoxMS1PbkM5VmRkZG5RRWh4UWJJck1zWC1zYUQtQXB2MDBpR2prRHFaVkJocklTNjBTT0E?oc=5",
+        "title": "Municipal Elections: నెలాఖరులోనే తొలి నగారా.. రెండు విడతల్లో పురపాలక సమరం! - News18 Telugu",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbzVUZlV0QWR6Y0c4UkNaMHh5QmdXNG1ocmRWQTZGdW9YYWNHZGtyeDM3WThUajNKbVROQ0Jpa2wtVGtsQUtJQXh2RkJ3bkJ3OW5LR01fRlAxaWk2bU9wTlcxZ1c3M3k4UTlqMlJPSXZnODg2SjBKMjAwRHFsRTZSVmh5Nld0UTlZOU0xSjlDTjdPVG5EMVUyRVVIaGlyWFlxSDVSbkNBSFE3MWFDZmNFbXNmUUNqZDVJa3BuUnlwYVUwUWZUXzQ4SXJNMlMwdi0zN0JUYTFrczkwakxXR0tBUE16MDlkMU5jMndnb3dXTHpLeVhBY0E?oc=5",
+        "source": "News18 Telugu",
+        "published": "Wed, 09 Sep 2026 23:32:00 GMT"
+      },
+      {
+        "title": "ఏపీలో ఎంపీటీసీ, జెడ్పీటీసీ ఎన్నికల అప్‌డేట్.. పోలింగ్ కేంద్రాల ఖరారుకు షెడ్యూలు విడుదల - Samayam Telugu",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNTJxUWJXODFYRUlXSS1MTl9ocVAybi1PNG5ycC1xZTgwejd2cVdicUVqdW1VWXVsUGlkeGctaUxGc1JRQjBtd1k5NTNHbnFvNGFGRGhhQUhZaklRMHBBU28yLTRPdnQ2ZmFheXM1UmVJTVdfOFZWc1QwVFNaNXNKSTNVS1BHdVZqMXBRQ1Vtc1FkdjR0c0M0Q25HN0ppUVVyQkUzUm1EcloxVndiUFFuaWlJVHN0UXF6dmI2UUpvM2sybHdsYWpKWGduSE02dzJVcVMzX2I3SEYtbEnSAeABQVVfeXFMTl9IYjZzSHRWRWtBRF9ra09TSWNEZ2VqLUJHd3Q3dnAyZldLLUNsb0txQXotVmEtbHNEdUZ5bFM3dzhnanNGWUl4bDVDWll2TXEtS1B4ejExUXV6RXVsRTYyUEY2R2M1M0hwVWR6QXo2TERUbl9wWmxZczVvb3JpbUk0U3JOckRiQVVYNDZOTTYzLVBnMGo3S1dtSFMzbTE0OWtDZTViVDc4SUoyYk4talRfOGM3a2g5TzNMMWM4SHh5dllGc01LY2hkRUEzdXNJdEtEajZPQjVoZVpzNkRoZ2U?oc=5",
         "source": "Samayam Telugu",
-        "published": "Tue, 08 Sep 2026 11:24:39 GMT"
+        "published": "Wed, 09 Sep 2026 15:08:20 GMT"
+      },
+      {
+        "title": "Weather Forecast: బంగాళాఖాతంలో అల్పపీడనం.. తెలుగు రాష్ట్రాల్లో 3 రోజులు దంచికొట్టనున్న వర్షాలు! - News18 Telugu",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb29zaVFxMEJ3M2lMc2ZtUnFMd0ZGQzhjQnhHM1dZVHR3NUoyblNmZVUzbEdJLVFiYUxRUk1SbWNlMldfZElLN0lQUnltZ0ZaZm0xWXZ4OUh6MDFWZTVXcWk2N0NPb2xCdldVTTEzQ0xjTHdRZGZlUWtBNkh0S1o2aU9RNzlzLVNmenRPYXlCNTMwZ19xM0VmNjVKcGh6UTRSNkpzelpDRGdOTExsc3ppOElSTDZCTVR2TWpXZ2hLYmI1N1BoTFpwMUhZbVgtZWJoemNTdHduQ2UzWDZSeU9uTk53VXBCazRkV0tr?oc=5",
+        "source": "News18 Telugu",
+        "published": "Wed, 09 Sep 2026 23:54:00 GMT"
+      },
+      {
+        "title": "అల్పపీడనం ప్రభావం.. ఏపీలో మూడు రోజుల పాటు వర్షాలు - Andhrajyothy",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcGVralBSX0lMd1h3Mm5leHhDUEVucU9RMldUaThkSGxUWUxWLWlnZGFwYmo4T1JDdk1wWExkaERjWlNBVG42dXhKdldpZXIwcjJocFJRMm55V0llekI2SnN3blpWWldPZjdWTjEtczNXc3pmZ0pRODhfRUx4a2tvSlFuSEhWY3N6TnJSeEN4N1ZZVkx4QjBOZERXSnN1eXFkUkdQY2NQOWdyS1ZPb25rbUJ5NmdiOGZacGYxSGVPcEFyQ0hvc3RSUzBYLWNJZWNkeFFNLXA0aHVaZjdfM2NGZzUtREl4Yk1GYkxvNw?oc=5",
+        "source": "Andhrajyothy",
+        "published": "Wed, 09 Sep 2026 12:18:04 GMT"
       }
     ]
   }
