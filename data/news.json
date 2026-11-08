@@ -1,83 +1,71 @@
 {
-  "generated_at_utc": "2026-11-07T06:49:54.943997+00:00",
+  "generated_at_utc": "2026-11-08T06:55:58.273830+00:00",
   "categories": {
     "Tech": [
       {
-        "title": "US tech stock rout: is the AI bubble bursting? - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUk5KWGFRY0lPalplQWNSaFZZTk11VEJvblJNWXBnTGlQU05xZTBoVlFzTHprWHVfaUVIb3ZFcGJOQUJmZFVqZVpNT0Q4X25EemUxc0hObXlhYmpkelJFcVpRcDZIQVZRTjBVTzMyUW5iMXRTLVlqZW04ZjNNRmRKcTl6TUNHcnY2QjNDdUR5QzVBX2U3UjZySVdvUE83S2Q4ZkR3RzJfQ1lzUFFXUnc?oc=5",
-        "source": "The Guardian",
-        "published": "Fri, 06 Nov 2026 20:38:00 GMT"
-      },
-      {
-        "title": "Inside one of Europe's biggest technology events - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ITVE4ekpheGlWbHd6Q1pKV3dGbkxyal9PY2pyU0tMR1VWZi14bG5hSG0wMXNaMTg5RGpiY2xsOE5ELXQ4cDVVWDZ5QzBHb1VlTjRRR1Fnd1U?oc=5",
-        "source": "BBC",
-        "published": "Fri, 06 Nov 2026 10:45:00 GMT"
-      },
-      {
-        "title": "VISTAR: India’s shift towards a real-time, technology-driven statistical system | Explained - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWmJqQVdlSmZzOUk1dmJ6SlpQSnFEaGpjbzdBTVFvVGl5OFVUWXdqUFJsUlozc2xsOFJMSk12WHB2UXE0aU9VMENfb1hycDVBejZoMzlrMGY1ek9lTVpyX3B3ZEZRQUtwVW5ITTRyTFduQmQtVmlpV0dxX1N1TmhoSzl2eF9HS2RSQXpUU2pYMml2eXBWLUVCQWJHUi1tM1M0QlhoZVB1NENpcTNUTnFzMUt5SUJpc0Nib2ZEaHAxNVZQc0ZZS2ZFTjZaZjlWZXIzcUx3eFMzN0lXV2s1MlR5M25n0gHoAUFVX3lxTE5SdTdQc3RlTl9kSGdoMXJLLVVhbGdVTlNodi1HbWpFYVo0dG95SjJwNldyZC1MdFFWSmFfVVBsNHRoRGE0RUVDRjNERzAtby1iQV8tYUVrSDBiYURrYVM5LWtLOEx5dGpieFJUdnZEWkpmeFpVWmM3VjlsdEQxMzFlWFhEOTVfUXg2R2dDRFRFVXF6QTg5QkNybDBHczFOanVLMVN4cFZlWEw4WHlaSVkxbmtqbUlWVlVRNkEzNm9ucUZCYmRSU0hSempaWGxIWXRPbkJ5cFFpQnVfZ2t6Tk03V3kzbDNqejY?oc=5",
-        "source": "The Hindu",
-        "published": "Fri, 06 Nov 2026 05:36:02 GMT"
-      },
-      {
-        "title": "US tech stocks edge back up after AI slowdown fears sent value of firms plummeting - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pblFrUWRSdVdRbVlzODdhVUJRcklwdmlGeFhCRGdIZ1BYNVpITGdmRlJBQW93TXdqa3JfcTl5VkdkZzBGTWdZVEdSVnNPS1BEbEtxcVVtMDA?oc=5",
-        "source": "BBC",
-        "published": "Fri, 06 Nov 2026 15:45:26 GMT"
-      },
-      {
-        "title": "Mahesh Babu on gaming: It is a space where art meets advanced technology - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWDZkbWFyUUpQWEpoTFluYzN2OHRlQTFKQVNSQWY4d0lkemdVSkgyZWJQcV8tWExKQXRwdEFfYXlzVW54SXE3aGFmX3VEMDFqcTVZdDFNbzVNSkFSbXY1S282Z0gzS192X1NmWHh6S3NSWVdIdjRWVmtBTW1lM1JmMWRqbDZkWlBvS2V1Z0loemY3eXlrMDkySUlLVU9NTVZSTDVKaUk5eWFaMjRTd3o4ekJ1U1dHdG9VX2pVWDRSY2w4WXFwRUpLdzMtZklkbzJiZWtuUWx1VUFFd21JRG9May1GUTllUVU5bTRVYl9lYThzN2RDcl80S1UteXnSAYICQVVfeXFMUEtIS0hYUzhOVEw4Y2Y1eDhjbFVTcUFWUmYtOHJLRmI2Y3BUTjlMaVdJNW4tTkVlZE9vT0xMNlhIdWxnVXR4TnU3QkJwSlUtbEhLVTY3Vm92c2oyMXlna3dnTzBfYkRxRHFKNnNnREhyM0pQZGg0X1JkdHNpTzBhbXlYdkl1dmtoX0JLQTdmcTFHRUZBZW1uTHRHUVRSa085WFQzNjV4Mzd0ZE9nRHQybVRvcnVtUG42X293bENmdW5lay1EOFZacEExUW5jd29Dc0dDZE42QjZCM1JWQVNvVUplSlR1U3RsV1BmUHlZanhpTkhON3RoY1RXZHl6bjZFOThn?oc=5",
+        "title": "Meta’s chief strategy officer Dave Wehner is leaving the company for four-year-old AI startup; sends 'rig - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOUk0xcEZwRWIyTk01UFFrdUtCVzJCTFNjOVVqMHpNQTA0c1gzOVR6el85YWNGdzFjZFJjdFhjT0hMenZveWJlUmNGZFhBaUF4c3VlZlZjMzZ6U21FSmEzY0ZEZFREOGFsMXliNURveHFwc01ZUmJfaUFyYVFiVV9OdTEySWFyZmRTdUF5YmNNSTNmZnRKcHE1SmFNTG9PMTBkTURZOXl5Z01RVmVxbVRCT2o4dmlNNVBHUjE1RjhRWHZZaE9IWHpId0R5ekIxcUo1YlhWckxDNlZ4cFcxNEpxbXY5eFB0SGtEYWZNOERYRVJVajBCRnlqSmFIaVdZYmVYWWJQbkduSUxyUng0TEdMeW03TVNSTHU5X2JTVVdkUHJnWjNON1Z4TWR6R1VmZzRadjJfMW00eUxLdkozTmo5a1ZndTBFa1Azd0pyTHJ0cndfa2dYZ1Nn0gHcAkFVX3lxTE5BbXhBelV3dU9WbDhfS2duX2ZLMldIdHhDck9GZ2ZxbGpZcEZxSnlNUmdwTE05VzNaOHlZUGkzUHlydGlPcjVNQTJ0TWo5R3p4aHlNSDFJV2NVbXZvMnRvOFdYYk9HcmpqS2xxeVYxR01qanpHVW9KZ1NudzZFLUN2U2VVUmZIT3BfMzlUc2RjWTJBc0VCY1hTWEVMcDI5SnM3MWhBUUo5UGItSjlUT0NWZkNqSXA2TzZ1eExPYmd2NFMzOEd0YmtweXUyeGhCRm52VUlaV0lUVk9uYWp2SGl1WTFuTUVHcmJ3LVlmSm9IZ2NjV09Fd1VrOUNRenZwNEQzT3JXOFZpdmtoVFlkblpJYVZ5OVNSUDI1Q2t5X3FpaGgxemdUQThRWjJqTzJjTGc1WnVjbkhOem9IR0NIMWxkQnhMQWRUS2k2TlozSVktUnliUURhenA4M0pGZQ?oc=5",
         "source": "The Times of India",
-        "published": "Sat, 07 Nov 2026 03:53:00 GMT"
+        "published": "Sun, 08 Nov 2026 05:25:00 GMT"
+      },
+      {
+        "title": "NASA Awards Moon Base Transportation, Technology, Science Projects - NASA Jet Propulsion Laboratory (JPL) (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2psanlKbjMxRkhUNUVqeGk1bjM1aGxldHBjdE9oeTktRGgyVjI0U3p3QjRIZjN2TzZtUmZEVzBoRVRJa05PRURsSE5Bd2NtV19qS1FJbUR3MTNva1Z3aHozSFBoYnZsUlBiNWhpcVVzcElLSk9pd0VQLU1FVWFSMVFDUjdfSE9Bc0lmQXI2bWZ2UzdVTGpoMXNCdw?oc=5",
+        "source": "NASA Jet Propulsion Laboratory (JPL) (.gov)",
+        "published": "Sat, 07 Nov 2026 23:18:55 GMT"
+      },
+      {
+        "title": "Technology-driven warfare calls for technically proficient Army officers, says MCEME Commandant - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeVZlWnUzdzBjZUF3SmxmRC1WdzFYNzFiam93Vk44R1lwU3dSRE11Ql9XWlM0LXVQemlRVndYdTdXNVBJbWkxVGRpbVY1V3d6b3RkUGpoa3J1bXRHZEVEUjdWYUJib1piNzRNbk1wQXpLS3g5blc5N3RoMFNQLVU4ci0tVklVTkIzMHFjSVhBb1hQQW41OGZlNFA4X29SVmF2RGhhWmowd3RzM01GakVzS3VEeFY3NUNJRVZVaUxTdUQya01zQ19yVi13THIzMkVfd0w4S2t4TXJ1cFRveWdzY3hEZnlsSmpNeFNJMUZVSHVYVTjSAfoBQVVfeXFMTWRHWGRTRGV0clJGSUFrOHg0ZmxNLVJVVnJid21nQXc4aUd4Y0dYdU9iT3BUSVVUSWt2cjdXYXh1RlFHbzNoYmlaSG9FZTNJQ05RWGZteGFUb09RQmVGOEtDV0FIMmhZdW03Smp6OFdva3Z1NUNoUVVwcC1UYXNaRHRrd3FodmRsTWhsd2I1bF94QmpDSjlEdUEySmRoczBXODdsOGVndWg1R0ZEb1QyemI3aUxYMFZmYjE1LXlYeUhKWERXM045ZVF4cm95cFlyOUVYWi1LdFhuaFllYzNra3FZZngtOTRpV1AwbnA3M2w0VmlZM3pDVFB2QQ?oc=5",
+        "source": "The Hindu",
+        "published": "Sat, 07 Nov 2026 13:48:21 GMT"
+      },
+      {
+        "title": "The datacentre arms race hits pause in south-east Asia - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHVPaXM3YWlYQVc1YWswREhaRnNDUkhZLWtnenRKeXlmQ0w0RDBTTzBIT1NqUHU1dzZwdzVvSC1fenFsNTVwMXVVelkwc3ZsSTR4QVpCZ3N0VnByNVhSZFJQc2E2TUctMXVhc3VGWTdaTElLdFhaRk03ODBvZ2M0Ni11dw?oc=5",
+        "source": "The Guardian",
+        "published": "Sat, 07 Nov 2026 10:00:00 GMT"
+      },
+      {
+        "title": "Environmental groups embrace AI, even as they warn of data center impacts - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmxyU3I5VWJjVjhxTjhobWVHa2MwT3p3NlliNUZsVG14VkVsMHI4cGhsOXNfY1Q3TDRoQ09Hc3RwR0xNaUZvejFKLWU0dUtzelVaeEtucU9Sa3JOVUhKcDNqcFpxZ2tnZms0cEFuM0hqUzM0SC1lTXdIM1EzX09lRE0wd3pkYVVqYXFYaE5iOFVoV0R2aWhGM3hIM3ZnR2lNQjhJVDBxSWJpbFFORkpISGh2SmgyZE1SRmhjcXFn?oc=5",
+        "source": "Reuters",
+        "published": "Sat, 07 Nov 2026 06:07:00 GMT"
       }
     ],
     "Sports": [
       {
-        "title": "New Zealand vs. India 2nd ODI live score, win probability and chances of victory in Wellington - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4Tm5BZHNKTThYVC1QTG9IZVhzZDJGRndjS3RXR2RpX3VfSm10alpGd2tTZ0VJMkZPTkIzaTR6M0RfUGxWNHNxSlE0aXNtbDFITlVwNVh2by1Yb0EtWEFja3BlRjNiTEpRNVZEZ1VsbkFkNDNiNTdXOVdjdE5Pdw?oc=5",
+        "title": "Recapping Iowa's controlling performance at Northwestern | PODCAST - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcTRienBJeTMtZVZkM2VTeG1nbTAwazVuSFhodmdHOGtlcWt1T1FDd0IyYzd0ZWZCclAtZF9iZjdJZE43ZnRaMUZyT2R6c2pXUGJOa1ZESTFEbVZBZ2U4cy13UEVnNVRNaGFuWVpoNlU0VTVJaUZDY1VVTjZwc2h5WWZ3c0taMS1OcFNEMWpxWktkeHFlczQxLVYwTGQzUl9TX1hr?oc=5",
         "source": "Yahoo Sports",
-        "published": "Sat, 07 Nov 2026 04:40:00 GMT"
+        "published": "Sun, 08 Nov 2026 06:32:00 GMT"
       },
       {
-        "title": "Shooting World Championships continue, double-header in ISL: Indian Sports LIVE, November 7 - ESPN India",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMFpXSF9lZ0VCV3ZObmZiMkFOZEtlSzhBU0lzSjZJdjNGZFhvRnFwbGttVkZBMUlzdy14RlYzZjVmcm1QdVQ4aHg5d0ZxbElkRzhhLWhzNjk1S2w5b25wRTFfdGJfZG52N3JpaTQwUlUwZHpibWJ3OFdZLWdOcXpwblpKLTkzX0pNc1FubENvNXFOR2FxM2hIOWpFQ3lxV0VlOE5MeFItNTRGWGJrVjdwaWc4ckNuRFB2dTAxczYzaU85Ulk1SW9RN1Rn?oc=5",
+        "title": "Yahoo Top 10: Messy day of blowouts creates cleaner picture of the sport's best - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaDFpRUs4YXhrenRRZVZ4RTZSbGpKZlhPek1KQ3A4YU5CTFNnR2JvNl9sWmVhal9reVdyNFVJZUEwRFdQQVcwSkFjemFCMUhodGhBRUFUUHNhX1I4a20yTDJadXp0YkIzRlkwcjBVNlg2Zm5fY2cwSVJlVWROT21DNkdEeDNzZ0lYd18tclFFV29pUW4zRzdDOWoxZk9NclFqMEMtX1NpMjZDYkdENVE5Q2N2VENzU29PWC04a3J6bFJHZDNDeU4ybHRIVE52ZGg1MEw2TVhxQy1MUQ?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Sun, 08 Nov 2026 06:23:00 GMT"
+      },
+      {
+        "title": "Florida HC Jon Sumrall 'Frustrated' After Loss to Oklahoma - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc0EzNGpTakR2LVhoZEU2cXB1NlloSUZ6R0xrZ29qSmRIdXZHVkJvN2I3eGpRNVJWTkI3NFpkV3dNWF9qeW56aGRaQS1QS1d4eVJOSlBVQzg5OFlwdDJtSFc3WjhqSW5WNlRibkVJQkZLZDFxeWNLZXg1VW8zTGhOSzA0aE5EQ1d3eGc?oc=5",
+        "source": "Yahoo Sports",
+        "published": "Sun, 08 Nov 2026 05:50:00 GMT"
+      },
+      {
+        "title": "Adkar-Bhosale in Chennai Open final; Shooting Worlds, Youth Olympics continue: Indian Sports LIVE, November 8 - ESPN India",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORFppQk5wNXcyRkFaNXA0MUJkWHlucXdZNDYtaUYtcExWQ1Nwa3FvS2ZiaHl1X01GdTQ2TmJMVmdZa3dtd2VIZzNEMnlaMzd4YWpKTlpJNTUwMmVXcFl6RWozOTdPRmJmb2k2VWhpRWhzb2lxaWFCbU54Q1RjLUhrWFlWd0FDQThkQUF6YWxoUm4xUzZfdlZGamZldWZXa1VQZmhoVjl4a29jbHg0MHFwTEtKUmZzRjZzd0FXSlhDajkzREd3cjZzUVNBT20tQzBqT2QxRzJFNVRQRlhqcGJyVjd6cXVJb3NyaXJxNlBVbFI2OFVmU3lIOXlfNUdsMnNhdExfMXptY1BhOFE?oc=5",
         "source": "ESPN India",
-        "published": "Sat, 07 Nov 2026 03:52:05 GMT"
+        "published": "Sun, 08 Nov 2026 04:06:34 GMT"
       },
       {
-        "title": "Mike Hussey: Australia recruit former Test batter for Ashes preparation - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94U2xDeF9rQnBIX3QxbHItLWc1cWhhcDM4OWFOR05MemVrMEhfYXN6YlJmOEczWVNmc0RJYXhxRWpfTmU5Nmx2WERXNlZ6NWxBZl9UQUJBRVZwQ0w4Y29kUDhDZEIxS3M?oc=5",
-        "source": "BBC",
-        "published": "Fri, 06 Nov 2026 08:05:05 GMT"
-      },
-      {
-        "title": "Australia cricket: Usman Khawaja says entire team knew about ball-tampering scandal in South Africa in 2018 - Sky Sports",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTWFWSkF1SVB4cFpGLXQ4YVZYdlNXbjBMMHJtZXdQbGt3YVNJNzBLTVJ6X0ZJQXdvX0t6UHh1SmZMUXhrS1JTSG1Wem9aVFozSXpYdFBRV1dmaGJHUUg3Z2xOYmdiWnZfVTNVSjl1Wk1XSUFyVTRydnM3SVpaWkdybTJnYzJEWEwtX1FpWmhJV2M4NkhEejNUV2JtWjlBMUg3NGpQZF9BX1A3OWZzX2h3QzNOYjZKS3pic1VKVHN6Mmt1b204dmhMQ2hrbF9DNE9HUnluZkN3X0hVNW94R1QzbFZFY0xTbzA0dnc?oc=5",
-        "source": "Sky Sports",
-        "published": "Sat, 07 Nov 2026 00:07:38 GMT"
-      },
-      {
-        "title": "Seven years later, India bowlers recreate New Zealand's 2019 World Cup semifinal nightmare - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNY2xHMUxLX0VpQk9KcENMdXlENlllQkJwSUFOZGNoU0ppVEtQNHBaNS1pdXJPUzZud2pPSlNkXzZsUm1GcTZUZ29aTWtMSmxWTmU2TGdrUkhHRTUwdTgtRXp6OF81SVgxMmp2VkkwNFh1Zzd6ejdKOVVhOV9sV3VKNnhkSzFIaTltaTJ1eEFkY0tvNVVHZEt2aXIxUlhDZ3B3VGxzdXJfWktwbXd0aEdBOG90WFh6RkVEcjZlNlA2Vm1qX3FEQjkzTzJrazdsZW9mSjFmT1U1Z2ZjX2swcEhTTXdVYkg4UEx3b3pNX2hWM0x5aFpmelktRE9EeHhfLWdpdVdWWnVSa09Bc1VLb0kwUndNYlHSAZoCQVVfeXFMTUViaDFFWUpFVnZxNVNXVDRnSG1zaTdqNDlNU0thNm5YU3FFMl85Q0xuajZENUMzMzgyLWZLZFlZQVJhY1FGeXJEZUdYeWZmR01RS1NaVHNNSElYcVRTeFlHYUhYRlZJb1RnQjNYZnVUNC1DYlZDN28zZGU1STN2YTFtU3B3VzBucHN0bGV5aE03bFhybS15NWxWVFVGM3UtMURUY003andNSFZVY3liVG5hZVNXck9oRWZZZzdjbHI2QnNFVGtMYlI4Yl8yVjN5dUsxN1JMdXRrbFA1ZUhrWjVMYjluYXczYmZ4UDZoeWg0WXh4VVBnRDFhY1NXRjJCUUJkZXhURTBWMjRSSEtBc1ByS3hjVG9zS3h3?oc=5",
+        "title": "In 2024, NBA star Trae Young helped open an Oklahoma Youth Sports Center with a $4 million gift; 2 years - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNUzdob0pRbm5GTTBTQWNTRVFyVjYyUFhaVWJ2Nk93Z0VmaUE1aWRhcl9tWHlBM1dERGI4dUU2N3c1T2Jza0tyR2YyeUQwNE0zWXoyNk9mdnhodGRLZUZNcVVPaXotQ18tTGFVTmpQVkhBY19PLUJoalBPOTczbzZscjVMMGNDd1doTkk0X3YzSWphMGVZYmp0azFBXzh1U1NXTGU2T0dKS3VDRi1iU2pibFd3YjJzbjZja1FqX3h5ekFURkxUOHlTVnJqSjRzUzNjYlVjSW5BTTRtc2VvdDhLbF9OQVVpTjdMMGtKcW9Mek5DdEFuVGY4bmZOV2wydG1uMXJOdVloNGpCV0piVVlDRjhCZ2tUZWJtRGRYQVdJN1JPd1BEamw0OWpOMmhFUjdfajlCeVNSdVlpRDRwcTNhN2E4SnF6YzFrM1BxYVFJQ25ieXR6dU01b01B0gHfAkFVX3lxTFAtajdjVVJsOEtlb3hyUUl1U0dOWVpEb29BcEZxY1N2LVlqRmsySUN4SUNFLTdOTUhlLXN0a0MzVmJIbWR1MzBIVWtnXzAxa3hvcFFkeUowMTlteURKYUVCOXNaVVdfR1VJWUY2dTE3WnBPRl9lLUxoQ2F1OTItYTBqNjcxRVRFYzBRR3RWSHluZWlmWVlHVVpWUmFlQWlueHMwd2ZmeHdMdExBQnhlWmw4cmNDWUMwcGZONnhGckZoVXBCMnVOODhaUlo3Qjg3X09BTmJBM3hLbEY1RC0wYk5RYXFlOHR4VEhhNDFfU1JQR2RJRkI4N21sQmNqaFBYYTRtRXlfWnpjTFVWZEpiVmlsc2k1UHlmQkFfZFl0TE9xUE5xdmo0ZmtqY2otODMyMlFycjBJa0JqMk13TUJwb3BDU0F6VFd1ZjF6YW9palFidDNEMlo1b3lzX0gwM29iWQ?oc=5",
         "source": "The Times of India",
-        "published": "Sat, 07 Nov 2026 04:08:00 GMT"
+        "published": "Sat, 07 Nov 2026 20:30:00 GMT"
       }
     ],
     "Finance": [
-      {
-        "title": "Scaling up Private Finance for Climate, Nature and Pollution - United Nations Environment Programme Finance Initiative (UNEP FI)",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjhEc0JVZUFtVFU3OVJQcGxURWwwbzE5bF9ZckNGNGMxRlpac1dhQXEwczM2a1gyR1dPU3BCRlhpSWYtUV83WXFmZGJzVlZNbEtqMnl4U1BlNXRWUnlEVFlXZS15d01UVm1TVTNaTFlrb2tZY043Mlk5dXAyOTZXckppR1FvV0steWNramdwU3hQeHdkVFR3RjdOaHdDaG9wR05RdlhMVDM?oc=5",
-        "source": "United Nations Environment Programme Finance Initiative (UNEP FI)",
-        "published": "Fri, 06 Nov 2026 10:55:49 GMT"
-      },
-      {
-        "title": "Public Finance for Children - Unicef",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iX0ZxZ3ZjVm00ZkgyZW1nanB6bkFCZnRQQzBGMmhQQVNYYVlzb1hmRjNoc3VoeW5aQzMzYmhVTjIzZmRmRlJKd1I2WjJveldPNThEUjMyLXpvaElHNmZTTC1GWV8?oc=5",
-        "source": "Unicef",
-        "published": "Fri, 06 Nov 2026 12:00:00 GMT"
-      },
       {
         "title": "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank - CNBC",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMMzlGMlNVWG1idmxXbTVQbnE3SXlhWFFmYXNkRkQ5X292bEF3dl9nUXJMZDVPc3hLdTlPU0QyQ2VOd3JSZGhvcEFfdzhWSl9BajNwUk1yYWhxWlkzNlBEeEYwR2JsLW5XaFVscmI0MF8wQdIBd0FVX3lxTFByeldnLVAxM3IteTh5Z05zM3A3M0tMbmVFRmVpLWUxemQ0bnhUU1hJTjRpLWpEd19IemtGWFFqX1hzUldtMkxuZjRoRlVpSzBUZF9HLTZOeExiZ3NoeGF6VjBKakZSSlQxTmQ2ZFNqSzdubnZxUXNN?oc=5",
@@ -85,30 +73,42 @@
         "published": "Fri, 06 Nov 2026 05:41:51 GMT"
       },
       {
-        "title": "HariOm Pipe Industries Ltd (BOM:543517) (Q2 2027) Earnings Call Highlights: Revenue Surges 65% ... - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbnkzNVNWcHc5WnkzV2NvaE9URFlnYUFjTWpoczFnOHhaVzE3UlhjbE0ySWtTQU9HZElmTEdiYV8xbVoxemUzYjZ4MThkZ2lJdThMQVpJWGN0dE1ZenJTQThtSHNfZUxpZEJIMEZnVUxJNU02ajVhYzhPNFowYkhxOWc3ZUFsVUJkZ09JbU9udHdtenFUVWZNOEF2UQ?oc=5",
-        "source": "Yahoo Finance",
-        "published": "Sat, 07 Nov 2026 03:56:23 GMT"
+        "title": "FPIs Return to Indian Equity Markets, Invest Rs 38,971 Crore in a Week - DD News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZC13Unl2bk5vRXFoenlOZDFOUUt3bzlwZFJCejMyQXVrQjdoRmtDOV9mNlc2YjJrcEwzNEV1UldnM3IzZ056VElHUTlCaGRUQjIta3ZsdFR1ZFRzb2RsZUl3S1JQeHpFWXo4X3JPMzMwV3V3akh5Y0RjaEQzSWUzZ2JuVExidmNnazRkSXNrdG5Cc2hLU25OTUR3?oc=5",
+        "source": "DD News",
+        "published": "Sun, 08 Nov 2026 04:57:53 GMT"
+      },
+      {
+        "title": "Delhi markets witness strong Diwali sales, traders report better-than-expected business - News On AIR",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXdONFBGMDZoZERVWDR6QlZFZ0FRM2hCU01lUFM2MmRsVFpLbDQ1czhwTXd4RjBmeEhFcHlxc2JobldVN3E3c3VGeGxzcXpLdGw3R0FCb28zS3Y2bTlkSVA1UXczWmhpXy1ybEhGVHMtMnFwbjRJQWhEZ1F5MlNLWlRqdTNyMDNNOUdKeFJuSU1GY09NSUt1NkNmX09yM1hRZ0VsV3lZcG4xTnkxS21ZQ2t3?oc=5",
+        "source": "News On AIR",
+        "published": "Sun, 08 Nov 2026 06:38:00 GMT"
       },
       {
         "title": "WTO | 2026 News items - Director-General: Leverage trade and partnerships to build a resilient ocean economy - World Trade Organization",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJRkY1WW55NmJmLV9yOC0wVl9GeDhlejNaQUxfZlJSWkNZNEFzNmN2SS04eVp2Qkw5b1lEQ1lMNDNubVJrZGU3OFFfclUyelNnTVNqUTdPZm1zb3JzaWNRYWNmRUNrNXdYb3dZV1hET1hNOVZlMHc?oc=5",
         "source": "World Trade Organization",
         "published": "Thu, 05 Nov 2026 14:41:22 GMT"
+      },
+      {
+        "title": "Public Finance for Children - Unicef",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iX0ZxZ3ZjVm00ZkgyZW1nanB6bkFCZnRQQzBGMmhQQVNYYVlzb1hmRjNoc3VoeW5aQzMzYmhVTjIzZmRmRlJKd1I2WjJveldPNThEUjMyLXpvaElHNmZTTC1GWV8?oc=5",
+        "source": "Unicef",
+        "published": "Fri, 06 Nov 2026 12:00:00 GMT"
       }
     ],
     "World Politics": [
       {
-        "title": "‘A global political awakening’: how gen Z protests are sweeping the world - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcmxxcUcweFA2WWlycmN5WFE2RV9hcW1nS0wzeEdONXB3UmpDdUtzdnlFZnQwUHFHaTE4UGNCT1ppa2pTZnY3Y3VEZ2F4U1lMdmljbW00T2MzY0djc3JxcGpFM3AyTFdRZXlpZHlaRDJEWlFMcHQxLUdBUXNjUjY0bkZaQ3pqQQ?oc=5",
-        "source": "The Guardian",
-        "published": "Fri, 06 Nov 2026 14:52:00 GMT"
+        "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yZ1Q3SHFBOFQtWkRvLTUxOS1seERmSTVrUi1BNEpuNC11UkV1TWJPV0wxYTE1Wm1VbklnbXNZYnBFT0JjTDBpbEdjUHR2YUVEdllzMjJOVEpQWDlRNkhwVWw3MWlfMkpVVEtHdXcwYw?oc=5",
+        "source": "CNBC",
+        "published": "Sat, 07 Nov 2026 22:36:37 GMT"
       },
       {
-        "title": "Blue Wave, Green Tide: Politics in an Age of Liquidity - Fair Observer",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGlaS1NVSkQwNF9INEYtc0JOMWdVRmJQMEgzZGM4TmtjTzhwM180bFFYM1FpRnBad1FHU1NHaldSLWhZODFCM3pGSThIbzZKLWluUWVKaVRYaV9YYTZWS0FCcEkyWUhMcDRYSUZ1Y1pkNVlHMlhSWGZsZG94cWFhaVozMTJiZEpIVWIydUZycDV6bFhFNUQ4dXFMTDl2M3BTVjc0?oc=5",
-        "source": "Fair Observer",
-        "published": "Fri, 06 Nov 2026 10:43:00 GMT"
+        "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government - NPR",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZDlIMU9QdDB4N3pvejhqZmFBWm5lMkFici1VX3dCNFM4UHVXMVU5cWF5c2xfejBzVEtnSk5DNHcwQXRFSU1iQkQtYzY2bUk4S1o3dXVFdUd2NG5oS3RxSF94bFlNVTA2OFNNWHAyTTZmbGlkdHgwTEQxR09yRVJwcjQ3MGdEd2M4d2VIMENHYw?oc=5",
+        "source": "NPR",
+        "published": "Sat, 07 Nov 2026 20:18:18 GMT"
       },
       {
         "title": "Eisenkot tipped to seek Israel government with backing of Arab lists - The Japan Times",
@@ -123,10 +123,10 @@
         "published": "Wed, 09 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "U.S. believes woman close to Nvidia CEO was a China spy, NYT says - The Seattle Times",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeEJIRTdxaFJuR01ITHFWNTZhME5WSDlPRWxpY0gxVm80UWMzUDVOSlZ1MDd3S3BuZEN2T2d0d1VZTWFFam40WnplUjlreWhiWUFGbFowLVM3RGEzQ0xpcVVFaUcxQmNkbUt6SEpsdjBudWRoTzc5ZXYtOWxkR1NhejlqcGdwOGlSUFloRGtCWndaMHRJWVdUNkc1Rjk4dXBWZWdlYXRuclJQeDJicFZtZFItNjlKX2pwR2g3QzBpTQ?oc=5",
-        "source": "The Seattle Times",
-        "published": "Sat, 07 Nov 2026 05:34:48 GMT"
+        "title": "‘A global political awakening’: how gen Z protests are sweeping the world - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcmxxcUcweFA2WWlycmN5WFE2RV9hcW1nS0wzeEdONXB3UmpDdUtzdnlFZnQwUHFHaTE4UGNCT1ppa2pTZnY3Y3VEZ2F4U1lMdmljbW00T2MzY0djc3JxcGpFM3AyTFdRZXlpZHlaRDJEWlFMcHQxLUdBUXNjUjY0bkZaQ3pqQQ?oc=5",
+        "source": "The Guardian",
+        "published": "Fri, 06 Nov 2026 16:02:00 GMT"
       }
     ],
     "India": [
@@ -143,86 +143,86 @@
         "published": "Sat, 07 Nov 2026 00:30:00 GMT"
       },
       {
-        "title": "It will take time to undo the damage done to India's fabric under Modi government: Sonia Gandhi - Deccan Herald",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZl8yYXVkSkpQU0VJR29JQUtIZmoxbmFwaWEtUXBSU2pXWkpyb1g1MDI1bXUxd05wUmdnT0FGRExkTUs2MWxEZ2w0endkY2taQTZtY0hJQzJKXzBaXzRZanZRMjZkbk45dnE5cXlPXzRIWG1ZTnAxbzQ5cXFvRF92MWM0UjZ2cTV2cFJ0bHEwVnlSVHI0Q0F6a1RtdHpqN3dyYVlaQ2pnN3loOEMyZm8tZ1VGaGpycGVkY215VkZkaTNvTHJRN1NTSXRMZ2hxQ25ranc?oc=5",
-        "source": "Deccan Herald",
-        "published": "Sat, 07 Nov 2026 06:11:06 GMT"
-      },
-      {
-        "title": "Jaiswal tons up again as India A dominate opening day - Cricbuzz",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWl8tUkFlV0dpRGN4UHZwTHdvSHNWdGxpQWlndjBWOWpLUFJsWjB1clBId2ZfTVhZUmRlN3psaTBpR2Y5Q3ZSTUpUaklVTGlTZlNrSW5jQUxYVmlkMUJpS0k5d1FMREJ5SVFZaDliZ2dId2dzb3JvSjFmTUhBTTlWOUJNenJLcEdhVFdTVDRKVTdPVnZ3QW9mRWVJUl9ROVk?oc=5",
-        "source": "Cricbuzz",
-        "published": "Sat, 07 Nov 2026 05:35:24 GMT"
-      },
-      {
-        "title": "India's forex reserves dip by $2.69 billion: What's behind the decline? - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQazVWUEs0bWdFYW9HUjhTc0twVTVPNHRUWENiZjl3Q3pKRF9paXhjRjM4ZnM4UEZlVXJEa3d6UEI3YkhXUVh2R2FUODNsb2U4Nm1POGk1REc1MnpXWk00OVZNTFNYc0FhWVNsZnBiNXZ0elA0eGo1Q2lqR3pYaTVHOGlkV2FYQlJjWUFkZ0tQNFNLM09GM05JTzZIZGZYbHhfeEUwSnNQZ09pN2k2eDVQSmN0NEZXNlpIYmFKTVlWMnRoc19wdHMxdzI1ZzZySHBOeXYwdlpUYmhMeUdRcm52MS1oRFkyZ2PSAewBQVVfeXFMT0RGUVdQNmhIclV1aUJidnJXZ3lzcFRtQkRTazFreHE2MEVId3VhTGtKUmtvMEd0R2ZBVTVaTUhnanZYSTJ2dnBRVi15eFcyV0w3U1BWbVBNSVlEUFliRzNySUxLcmFtMkRGMXZDTVBvQlZVRGhSRGVFTFYtbi1md0dYTjZ3cFA0R3pWT1dYSTA4R0MzOEdua3o3T0xMTm5EMHI1QVVYNndBM19TaTdUVzNXRHJOc25jN0daUWRtcHNUaEp1d2xCcm5CUmZzbEQzUUtGczU2QzFscVpXVXczRFZSa0ZQVzhFd2U4eTE?oc=5",
+        "title": "Sonia’s Babri claim exposes Cong’s anti-Ram face: BJP - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb3MxblgyT1g3THc2aGgteGtnRk5tV2xTTTVPcU5qczIyajI1QjZvQlJuTVoxZWFpQW1oel9qa3ZldXBMTTczbllTb24zSWRDa0k5UWU4enM1bC1oSWw1MkJDMnBPdVA5cVN3ajZSNjRrZVBmZERMTExJQmk0MlU0dVQ2dnRpNWUyU0kxaGw2MlFva3NXal82OHIwTFhTME9ReFZ4R25JZTZock9BNWxaZTB6M1I5LTF4VlHSAb8BQVVfeXFMUEJfaHNSRTdBUk11elRZWWs0NThaTE5ocDJKa0VhNEdWaXNzOXE4VFd5eFRGSV9kWm5EQmttZ1k1ai0zZ1VfblNIemhoYXBfZ2hSRVQ3R1dTMTRLUEJxX0NBZUNTT1RFS2F2bkZlelV5dlJINkNvTGdseTJGZGVpQTYxNEV2Y3ItS0xUeFJUVWxzLUswTlMwcWN1THpQYmdNd1RPNWc0NkFfSEdWdll3RmhtNEZDU1RiUnQwS05JbDA?oc=5",
         "source": "The Times of India",
-        "published": "Sat, 07 Nov 2026 05:29:00 GMT"
+        "published": "Sat, 07 Nov 2026 21:59:00 GMT"
+      },
+      {
+        "title": "India vs Pakistan, Under-19 Asia Cup Live Score: Arjun Rajput, Anvay Dravid steady India after early blows - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOUjJHLXFPd1VNaFFUYXBTOHE5UWxhcEk2dmxNQ1JaS25jNUh3OTNmUHlJTWYybVplQXFZZWhtT2xsbEV2dE5NRFo0d24xMGJiUVA0QVQxNU91YldzVjFQaGNUcVozY0E5V1NuUldBc2ZoSFRGTkJlcmtXUU05YWY4UFZKWmFOZWxkNzJ1VTdKdWtycFV2MWVRZXoxeTRxdzZfSk5KYVlsRWl3MzZkcHhXYUw2NU41N2tERGFwR2tCbVIwMnNldTctRXJoOF82Rkc3R1RBeV9PS0ROMnoxRXg5R2d4QkMtRF8zcExkcnJNazRHdGxxdGlOa2ZnQXF0OGZYRk5mQ1RnVTllMmpDOEI3RGtOSXPSAZoCQVVfeXFMT2FuRWhNNHdkNlBVcUc5YlVPVzBQMW9JUlo4TFlkNS1iUnFGTUJsOUZ5bG9FYmsyVHB5ZVZIOEUwRDZESzNFZlY2Vzc3NG1BdEJLd0s3OVZMVklzSktMRUlYTmFmSkR1ZS1XRzVHWS1vblFoVEwwT21GVXpPS2p1UnY5T19rRVBYUk5zX3lwVVdKdExNZ3J0c1RmN25JMS11aVRteHFrckszaS1VRTNiLVZGeWxfYlF1azNlNjFjOWxOeEFfLTgwemNKS2JtYlBodnVibmV2dF9KRVM0RW5KUE4zZE0zdXZQSHdXVExRNFZNRXBRRHRfZVE5d3RjQ1VhdlF6ZlA4UUJ2MlFLOWVjd3VRTVN4V3RjMlF3?oc=5",
+        "source": "The Times of India",
+        "published": "Sun, 08 Nov 2026 06:27:47 GMT"
+      },
+      {
+        "title": "India vs Pakistan Live Cricket Score, U19 Asia Cup: IND 70/4; Arjun, Dravid rebuild - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORlNaZmg2YUttTW5iUF9TT1lhWkxVOUhoQnp1MEpLZ0Y3RHlqVnU0WVhZNGU0MkFZQndMdUNuOFdvQ2RUb3dlNW5xcmEtTkdjV0xKd2RPUFV1alRaS19zakJHU0pNSEZhaGtPaG9XVVR5WTZBdlduWUxUdUQ0amZqQUxpaGE4cVo0Ylp4WFZLSE5xVDVZaWtKVFdZdVh2UUxEWFp0RUlNUzVBTkJGUmI2Vm9OVXpRckZvaXJoVmJHUWdHTm9OUWh2MkNRZk5qMVk?oc=5",
+        "source": "The Indian Express",
+        "published": "Sun, 08 Nov 2026 06:44:55 GMT"
       }
     ],
     "Andhra Pradesh (English)": [
       {
-        "title": "Andhra Pradesh MPTC, ZPTC election results LIVE: Counting under way across 365 centres amidst high security - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaExhem1fU2g4ZEl3YmliOWxlWFNDTmt1M21DcVVIb1NEN01FaW9qVlBMTl9hMDlGNmd3R3poOVRSMEFzaGZmejA5SVRPYUFrMUtQYjdRYjFRTFRBeVFUY2dveFBQM01iTXFpUjVMaVp1TlEtdE9IWG9tek1vNmI2cXVjMlhMQ1Zlc3c1aUtReFV5WlNZZlhHS1BUdmgxWERMZlNaX3pwYkxRN3Jud1VZLW44dE1tWmNIdWF5UjZaSTc4dEJFaXBTWGRBdFJ4d1RHcF81NjZERmZhUE8yZlNVOC1MaW12dU1laHdEMzZlbnUzclNaWEc00gH-AUFVX3lxTFBHQno4OFEtM3FsQjNTVFRYTFI1UG1Zb3VNNms1WnFRNmNOdnpUalhqYjdFNlJ3WV9ZZDgxR3dfRlhqMkxsT1k0d05vamo2UW9FTm40YW9wcmxTVl9UbTM5TUJhNFYxVlllVzRZZlR6NlhCRWpvMmx1Q1FsOExkZ1lZQUVlYWZXcU5nOUJMdUp3Z2F0SUhadW0zS2lleUVkQ1daeS1OcklSYlVwYjBXOWhlbndOSzlWcVY1SGRieWd0NGpxMzhnQmtXcVBTQll6aTAxT3NRZ1h3eVV5R2FOM0ZTWG9RWFRkYXQ4U2Vqcnd5TW42djdYNGhzQlNHX09B?oc=5",
-        "source": "The Hindu",
-        "published": "Sat, 07 Nov 2026 06:14:44 GMT"
+        "title": "Standing tall: How Andhra Pradesh defied two back-to-back cyclones and pre-empted a catastrophe - ThePrint",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSDZfVUNyOE11TGNXdEtySFZaX1JPUE1Ka0lrQlRVeFA0NWJIYXdfN0t0bEswdE1rRU1wcjJ0SEUwV1NCVlBydDVSNXBNZmhyU3ZlQnpBdUFlWDl3QUx4OG0xY2JWckNYa3lSZ0V4d2lqbTg1c2pzMmV2TFdLRW9sblI3LWdCSmZzT2hpX3ZoMmhYZ3Q2WThZdnZIX3NfWEVheGpLNm5JZUpVR25pYnVyT0twd0J2ZlJRXzhxUjVFR25oZ1V6Tm1pT2h6bk4zNFQ3UTB3c2wxVdIB3AFBVV95cUxQOEZWNGFpWnhEM2VOU0hybDQ4NUozRjFJZUVQem1TMkhnVW56bm1HVUhoX2hBVHZVMWFOdmZhaGg5WHlqcDhadDNVdXk1NWJrRnNqR1NmMHpyWHdaaWxmRXJ2WEZQR2F5QkJCMGU3X2ZKRWp4R1cwcjZkSVJhWXpTTnZldEVUT1d1NnJCZ1FoSkR3SlpRWXFfQUN0bWx5bnlwRkloNEdoRk5EcnVBSW5GM01Ld0xVQkQ1WHRDRENJZW1UYkx3SFNxUV9WWjZNUDFlQ2NRQ0ltMmoxaWJF?oc=5",
+        "source": "ThePrint",
+        "published": "Sat, 07 Nov 2026 11:00:43 GMT"
       },
       {
-        "title": "AP MPTC, ZPTC Election Results: Nellore: TDP Wins Palemkota MPTC Seat - Deccan Chronicle",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRkhvTEZEZWVLc1Nzc2dycGlpdUlzeS1NbXpyY3NWRndkaURPSEVTRlplVWV3RXlUYU9aQ2pWXzk3OS1HNjFja0RGaE9iZ0JwYU0zX3pRYmtDV1ZPMk4zSjVkZGx3NmpaUjA3OTJqVUdxX3BGelQ3UTBtWGVTdk1kNjVzVzBaTUlFR0xHVk5qRjRKdTJrWXhZeUlQX2VwZUltbkFrOTI2bFh0V1dLV3RkbS1lQngzYTFqR3JyZ0VRbDdOaW1acl9VSzB3RkxkNDZKSzlWaWFEUWVKZXpmdktQSU1JU2FpN2g5ZGRqOXpmcnhfeTjSAfgBQVVfeXFMTzhWWFRQd1NMOEFTMmkwblRhRnZqN2hZQ2FmdURvMUowV1k4R05zLUJHODlVdU0wZ2ZiX3JFTTlnWkkwQlUxS25xRnhNS3JZTXcxMkI4eVMwWHFibmFtc00tNlExNVl5Y0tfcnY4d1ltbG1DQ0s1X3FiWTNwRTdNaXFTamxySzBIa2wtcW9xcUx2VWhKU1FWWXkxamtBVllGOGVfYl9TUm9MV0o4c2h1ajhTZGdpaFh4eHlaQlh5VVlmSHMwZnp0blRjNWtiRVFVcG02bmstVUNmQVVZLXhBQUI0RUNZS0RSWWxwYnVHN2ZLWjl0dE0xVlI?oc=5",
-        "source": "Deccan Chronicle",
-        "published": "Sat, 07 Nov 2026 06:45:43 GMT"
+        "title": "Andhra Pradesh hit by drought and two back-to-back cyclones - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQVBraVRMUkxBcV9VT19vbU14VzJvVkZRNE5XY19MM2p6QjRMTnplcllEUEcyT0pmNG1qbFdaTWlRUWNqZFlnNXNKUzU2TFFpY2lNZ0pjRUtyZmhQaFF0YXA4N0hFU3pTa1Y4WXQyM3l0bG9LS1ItY1NtR1pjMXUwOUNzdWJYSUNWbGpkUFhrbHV0aEotNE5VMU9aYnluRXdL?oc=5",
+        "source": "The Hindu",
+        "published": "Sun, 08 Nov 2026 06:33:24 GMT"
+      },
+      {
+        "title": "Andhra Pradesh MPTC, ZPTC election results highlights: NDA continues its winning streak - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaExhem1fU2g4ZEl3YmliOWxlWFNDTmt1M21DcVVIb1NEN01FaW9qVlBMTl9hMDlGNmd3R3poOVRSMEFzaGZmejA5SVRPYUFrMUtQYjdRYjFRTFRBeVFUY2dveFBQM01iTXFpUjVMaVp1TlEtdE9IWG9tek1vNmI2cXVjMlhMQ1Zlc3c1aUtReFV5WlNZZlhHS1BUdmgxWERMZlNaX3pwYkxRN3Jud1VZLW44dE1tWmNIdWF5UjZaSTc4dEJFaXBTWGRBdFJ4d1RHcF81NjZERmZhUE8yZlNVOC1MaW12dU1laHdEMzZlbnUzclNaWEc00gH-AUFVX3lxTFBHQno4OFEtM3FsQjNTVFRYTFI1UG1Zb3VNNms1WnFRNmNOdnpUalhqYjdFNlJ3WV9ZZDgxR3dfRlhqMkxsT1k0d05vamo2UW9FTm40YW9wcmxTVl9UbTM5TUJhNFYxVlllVzRZZlR6NlhCRWpvMmx1Q1FsOExkZ1lZQUVlYWZXcU5nOUJMdUp3Z2F0SUhadW0zS2lleUVkQ1daeS1OcklSYlVwYjBXOWhlbndOSzlWcVY1SGRieWd0NGpxMzhnQmtXcVBTQll6aTAxT3NRZ1h3eVV5R2FOM0ZTWG9RWFRkYXQ4U2Vqcnd5TW42djdYNGhzQlNHX09B?oc=5",
+        "source": "The Hindu",
+        "published": "Sat, 07 Nov 2026 16:19:19 GMT"
+      },
+      {
+        "title": "AP MPTC, ZPTC Election Results Live Updates: Clean sweep for TDP-led alliance; YSRCP springs minor surprises in Tirupati, Chittoor (Highlights) - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWjVpQU1vdjlwN3ZRak1ZdkNwbGRvRUl3a2NIU3dDU0N0Wm40RHhBTzNZTWpXb0VHUEhfOUhBOXJfbXk3OEJJREREN3l2dUVXV2Jvc2R1TXdzMHE0OXBhc3VjamtiMWNWR1JkY3BjZDg4LV9uOVVaYjh0MkFnVDJpWTludi05UDY5OWpReXpJYlREZmhDVk5BdWpMZk8zeFpPOTBlSWhTeXN3YW9KZ3hNQkF1NnBOZ2ItQ19DMUVab3hkdkY0eXJyLS1qTUYweF9SZW9TaXA0THNwcHlMWWR4WDV2R2FsVUlzX2IwazQ5blhfME1KTHp4UnVNUljSAYICQVVfeXFMUGdNWjM5amxJYk9NSU16WkdJeW54T3FNbzBONTRXLWpBSTZzMmd3QUxyQ20zVFY4eFdOZXYwZDg5RDU0R1gwMHRPSFFsSVltaVFoTFlaRFhVTlVDY2gxaUZqc1pEanREVWZMQ0RTNHo0b1U4YU9TQXUxSk9iRUdOZDZlVUZfSkRfSTZZMVJ3NkEycWxzZnJGWGRjTEZ2SndqTFRiSHN6N2lvazd0bTdqVVZid3JQNm5EdnUtY21UNFEtMEtfTDkyeGhCdl92TDRhSlB4aFNfeVZ3RS1LZVlReEpEOXRmckVUWW9mMXlLLTdaeXhzM0E1SWNCdFNWR0dLVVpB?oc=5",
+        "source": "The Times of India",
+        "published": "Sun, 08 Nov 2026 03:58:53 GMT"
       },
       {
         "title": "MPTC, ZPTC Vote Counting in Andhra Pradesh to Begin at 8 AM on November 7 - AP7AM",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFp2Z1o3bnVYNldDMUU4OXBpdU5Vcm5TazgxZTZtWGhwUk41QnNRZnFxUmhGc3lKMDZPck5jN0M4ZWQ5YzE4NXpqZW43UUxBWngzWjFuUFZqd202YV9KTy1icEpnRzViWHk0cnhaNWw4dk5jcFp4eUMtNF9aM05McU1SRWFfOEhxWnFUcUhwTElBWThxR3pYV3lYS3djZWxJQllaaTZwONIBrAFBVV95cUxPRlRoR2hQU3dlNTFBeW5GVFZxUVNhTncyX0JHajJqMWF0WmR6VVNIUWFxMDZ5RTNDZUNfdmdHVjV4LXRsMGd6cVdJWXZjVlYzOHFzUWRsNXRhdEhvRUhIZzByV3V4TFBkOFFUQkh6dnJMelBpSjJLcG1wTGlGNlZSSWVfbTNtaUJBUjQxT3pCZ3FDX1B1aDJIeDUyN2FjWEdpWjNUSEd3QlJPZXdo?oc=5",
         "source": "AP7AM",
         "published": "Fri, 06 Nov 2026 17:06:06 GMT"
-      },
-      {
-        "title": "Rains slow down across Andhra Pradesh after two days of havoc - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdG1RUjlCd3g5VXJPQ0ZWXzF3Z0l2YUpSVkxQTzVuRlhsX2NBTGpBWE1hdkJFLTZlVE9Gd1JhOWhwVnFJbjMzNU03LXprb2lST1phdHF2WWg1WHVqdE53ZGtvTVBmeGtmNWljTjRWblJjOGpxeDVhekFNdmx2WU5nZ0E4al9PVlNNTW53MHJBc3RfeUh6ZkJhZjlSM2dtVnp0RjZxQjNXOExIUE4tdkVxNTFPbnMza29oblc0dFYzR1dzN0ViTjlTYmIweVJTVDl00gHXAUFVX3lxTE5tVHp4TklBbHlQNWNQaHpPUzVWQTBNazNfaVpVelVKMDE4eG43aUZJcUZXV0dTdE1VWllwcmh4RzVnTlh2TW1QWmNzNEwtM0x2d29vSGZjTUJIanlwcUJ0S0J5VFRLT1R3RWs0NGRDd2Rtc2lsM2xDOUxIdjl2THVUMTYxV2RMU1pVS0pIZ3ZrUzdmNVdUQ25LZm54M2stbVN1Vm5tXzQ3TDJVTVBSTUZSZGlhd3JXYkI4bHd5SjdEUmVWOU85MGIyMzZBM1Y5b3dza2k3RV8w?oc=5",
-        "source": "The Hindu",
-        "published": "Thu, 05 Nov 2026 10:47:31 GMT"
-      },
-      {
-        "title": "Electricity supply restored to 29 lakh consumers in cyclone-affected areas in Andhra Pradesh - ET Government",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNmd5WjNKY2VqSjhUQkdRR29WNmZvczZCQVE0cjAwcmN6SEtWelljU0RFZVRCazJlQmNKaWNPakRWMkRnUmozUXh3c3cyNkJ1VTRhc1p4cFhRY2o4S2o2cjd5YVlPLVB6WXhhc3hLcGNNbVBhZnpWVVRyaW9xS3E3M2lYLTVoSTRJbVMtUHBleGhiaUk0d3RfajVqa2ZQYzRPMXZib3FkNURxeUQ1SVJ4TGppQVd1UGZlNlRFVWZ4dEE1TkxEcElGemRjWV9jTmVCeU83UTVRbzJOSjFIb0xmU3VpT2lYRW1jLXBkdDh1dlFRLWRETEd2M2dn0gH-AUFVX3lxTE5XTlBhLVY1UTYzYXY2bVEta0NZZVhnUGRNbzdmdWtLNXk2dERQVlhWQkx6emJFWkV2Yk82SUQ2ZkJDZjlrVDBvR0d3Nlk0MDlmUkh1Z2hKV2dqYTJWU3E1Y2JxVkdXZHJaM3UwSVFOSnpYU2FQUU4yVlFVMVkyZDJnYXphcUJGOVIxOWphN0ZvXzJUY2NNQmgxWnppOTU4MVZqS3VPM3AtWWpCX2dmVkU5eHoyRUxnN0w5M1llM0dHNVpSUkJpU2VPdkF0RVFPSzBmLXpDejFmaHU0REZJS0E4SFZnaDliSUxWZEtfVmVnVkJyX0Z0amJ3Q1p1TnlB?oc=5",
-        "source": "ET Government",
-        "published": "Fri, 06 Nov 2026 13:16:20 GMT"
       }
     ],
     "Andhra Pradesh (Telugu)": [
       {
+        "title": "ఏపీలో పల్లె పోరుకు ముహూర్తం ఖరారు.. ఈ నెల 13న షెడ్యూల్ - Andhrajyothy",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNakxnRDZlbTJ0MzBibV9wWm5CQ1pKWE1kVTNKclM4N2VvajE4ajB1VXRzVndSdWtLVVpYcS0zODU0Sk5XeWhXLWtpbHo4RU9NeTZsMWQ3SGZsVE5hTmNBbWs5TS1pQ19BZmNPa1VUNl9OWGhXcTJYaldKbGdZMTlvUWozVFE3bUExaGE5RXFQUkZBZ0tRdDdLcTViRTFQWWpMZ0ZUVU42ek5QZEZpYlpUTlg0X3J0YXBWNG84NEZPWXlSSThkZFBNc3pRLU83TEJtU1RiUE5R?oc=5",
+        "source": "Andhrajyothy",
+        "published": "Sun, 08 Nov 2026 06:00:00 GMT"
+      },
+      {
+        "title": "దేశ నిర్మాణంలో అడ్వాణీ సేవలు వెలకట్టలేనివి: సీఎం చంద్రబాబు - Andhrajyothy",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcUhwanZsam1jT05EQXQySC1yc2kxaVA2MURvMlpaOTBCZU5Jb1VqV0Vid3hiSUVtdm9IQjJFLWx2b2M1RkphOHI0RVJTQ3BaSWVfRkZra3AzT2V6dG83ZjU5b1RFM2h2bEtmdkZKZjNPT0REbmhEeWpkZHpaR3A3UXZKcHBfbDlkQ2dZUS1SSmNKal9RWVNTN09nNHRicFJaTUZ5Rld3TlF1c1BITkxJWG1vWFdSZlozY3dGYzJYcUtxQUo0cms2LUYwZ09BbnZDenlJ?oc=5",
+        "source": "Andhrajyothy",
+        "published": "Sun, 08 Nov 2026 03:53:37 GMT"
+      },
+      {
         "title": "MPTC - ZPTC Election Results Live Updates: ఆంధ్రప్రదేశ్‌ ఎంపీటీసీ, జడ్పీటీసీ ఎన్నికల ఫలితాలు - లైవ్‌ అప్‌డేట్స్‌ - Eenadu",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWmp4blljZXBlTTFxdmU3TXpjR3Q2SGVnamJMcWpYVmhqYndPSUR4bmMwMXNkeE8tWnI0UlRCaFZlemRpWTY2Zm9WRkk3STRWRVJHNzVmZGgyTnd0R1ZPT094RlJMcHRfaG9UQkpiRzgyNGpfOHVHWDBHeWJrYXZfRy11NXBXb3IxcG84TXg3ZlpSYlI2OHB2TG5YNEtpNHNzS3ByUFc5bzVFUUxYa0pyVFBNNVA?oc=5",
         "source": "Eenadu",
-        "published": "Sat, 07 Nov 2026 05:29:21 GMT"
+        "published": "Sat, 07 Nov 2026 16:51:40 GMT"
       },
       {
-        "title": "AP MPTC, ZPTC Election Results 2026 Live: జడ్పీటీసీ, ఎంపీటీసీ ఎన్నికల కౌంటింగ్.. కూటమి జోరు - News18 Telugu",
+        "title": "AP MPTC, ZPTC Election Results 2026 Live: పరిషత్ పోరులో కూటమి హవా.. జగన్ ఇలాకాలో క్లీన్ స్వీప్! - News18 Telugu",
         "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPanQwS0k0Ym5uV0Y3N2tkbTItMzRUQlIzT2VvWHFBX2VHc1BxUjlESUJaMEhNU3RCYVh2Qk5Ba0dkSEszMU1ibEJzVTdOZUR4dkNxN2xQdmRaRktZaTRaWmhoZVZfcENRaWh2Uy1kYTY4cnBnZnVXUGxvLThPZ1VCMi1TcTREUjZkRDRfcDJtbnNZNmtEcG5KZ1VaN0diUUF1WW9QOWQzVVM5TXJ0YTJ3T1Q4X3JWM2ktQXhqUG9Ub1o5VVRKYVdJdndfeVpDNEVURmthR0g4LWlfY2Q3ZnVtZTYxYmZfWUZUcksxeVlmbmN6VG1ZRTJiYnJPUUZzMEttOU02MmF1X3dIdmx5d29RSVc5MHZCWms?oc=5",
         "source": "News18 Telugu",
-        "published": "Sat, 07 Nov 2026 06:21:32 GMT"
+        "published": "Sat, 07 Nov 2026 17:26:19 GMT"
       },
       {
-        "title": "AP ZPTC, MPTC Elections Result LIVE Updates: పులివెందులో టీడీపీ ZPTC అభ్యర్థి విజయం - TV9 Telugu",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNWpMdFB6clo2bF9Wd1Q0RF9jbTA2R3o1V1piZ3pqNW0td05QamhNcm15UE1XQy0wNFhXblN6cFZBVzdoc2g4UktGU2hmajVWcWVSUmJWTFlYbGI4VFE3b2NjV24xSng3aG5mYWtLRjNxLUxydVAzUks3VWR0dmlDSjluT0ttWmEzRWtOUzlRQ1FxMnNVaURBN1ZrR2E1aG9qc0M2WW1DT05Yajc1cTgxLTZGNUZycGxOYnJFWFdaemRsalpabjd6czhRMUJBTHd5QnliamhLQW01cWEzOExHRTBaTWZseEhW0gHuAUFVX3lxTE5PX2piY0w4SWRZclRxQTNUakFwU25PWDJLOVZ3RnRWZEQ4ZHZwcDBMTFA1SmFVeXctTFd3MHZUcW92d1FFbWd2cUhObUFWX3MzbUNoLXJncUFzV21lU0RPN0FJMHFOYktKaGgxQ25KbV83aVJYYU5uODRyUC1hMUlQX2c3SEhnZmk1SGF1VlRtMDdRSnY0SFBIaU05bzR2ei1rcHhNNHJBekZCQkVDVzloTklnMEQ2WkdLbEV3aEZaVVI3cndXMzU4Z1J2c1Y3VE52UVA4X0NRYkUtdFY2eUdLYVRLbnpyUWhJeHAxMlE?oc=5",
+        "title": "Andhra Pradesh: ఎంపీటీసీ, జడ్పీటీసీ ఎన్నికల ఫలితాలు.. ఇప్పటివరకు ఉన్న టాప్ 9 హైలెట్స్ ఇవే.. - TV9 Telugu",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGh0LUstbWhaQXA5SUtselM4UmtXbk5JU1JWOEtNcTlrMmMyRGJMTWZfSUVnQVE2YlQ4eGFaelZBRDJGcmg1VFhPakE0WWk0S1VWamVINHFySWR1c0RNeWpVMHhPTkk2OURHZ2dIS2dJTHFJNXU1azdyRHB0V1JDMWlqZXBWNkpWWHpGNzF1NnlqZ19uSE9wbGhTOWwwMldqZ25MeWg5NFQ0M2_SAbABQVVfeXFMTnRUQVZOMWdNLXpnMk9QX3NiWm54clVDMTJpVjJYRVZVbkxlMFg5ajVvVUJISm1FREZhc2N2N1RkdjRLSk80YWZNT0lsRmcxWDQ1cEN1ak1SalJyX3Y5MTZTeVU4Zy05NjVtMmkxaVh1RkZ2Nmsxa1dNd1FzYTVvZ3dXay04b3EwSnBRa0JsektBUmJFdWMtTkZLNUk0SGNrMXZySFFtR0tXSWZMbEM1Yno?oc=5",
         "source": "TV9 Telugu",
-        "published": "Sat, 07 Nov 2026 06:35:57 GMT"
-      },
-      {
-        "title": "Weather Forecast: పెరుగుతున్న చలి.. పలుచోట్ల తేలికపాటి వర్షాలు.. నేటి వెదర్ రిపోర్ట్ ఇదే - News18 Telugu",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUG5xY29YTy1yVkhSODQ0V21LaU1QVkl3ekVPbFVDQ2x6enpvX05WS3VyN0FNZTJpNk5vbXdBekRITTU0a0FSUE1pUVMweUlkVmdMZDJQQjk2UVNmZlFWX1Bkb0Z1ZVhZb25JLXdzNl9HVmRpQU55UXV3VXBER3NoX19PRnZOWmphX1ZSWUlhMjJRWS0tZUFtZjQ1bk1fX1lDdjktMEJYSHl5MnVCXzhlVEwwd3V0c2ctTUhHXzNuZ3BtMkRkdHBoa0hkRFRPSC11OEZUcUdHTm53Q1NDbXZ5XzNJZW9yVkZHYnVz?oc=5",
-        "source": "News18 Telugu",
-        "published": "Fri, 06 Nov 2026 23:38:00 GMT"
-      },
-      {
-        "title": "నవంబర్ 7, 2026 నాటి ఆంధ్రప్రదేశ్, తెలంగాణ వాతావరణం ఎలా వుంది? - Webdunia Telugu",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1hvRjNDOHpMU2E1U05ndXNPS0RGUjNrNGY2WVQ3MnNHSXpXUnF4ZU9mZDhTTk5IQWRHaHNuWnktc194VzdKSUM0eXJVYzB4VHp6eXgtRkdkMG5TZHllMU1xbXZveVNEYl83ams1WU9xYklpd25Obk1kOGRLSTNMc3FBUHp0XzdxbkQ1TFh2Tk1uWV9wSDhhQTJKY3E0XzRaVmhYX2x4NWtkWEdhODZwQVhXSTk0YUlLR0JfU9IBugFBVV95cUxQSng2eWRUVTZnRUI3YVg0WWNyYnU2VFQyMWRrbjFldGs2NG9lYlhtbWttZktyUXRjdGswbTMta1BJN3hSai01TUo3OURTeUpQVW1YbzRpQUVfSThKMXZ1SjNfclFMcG1xRFptbFJ4bFc5aHNvaDlWQjZteVlkb0VsSWtjdzVDbzdpTlJaNGU5cmpSUV9pV2M3cExSS1dZdE5ZLVBudDBpc3gyUWpTV0ViTVZGY3lnR0doeFE?oc=5",
-        "source": "Webdunia Telugu",
-        "published": "Fri, 06 Nov 2026 23:42:00 GMT"
+        "published": "Sat, 07 Nov 2026 13:02:16 GMT"
       }
     ]
   }
