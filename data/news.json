@@ -1,179 +1,167 @@
 {
-  "generated_at_utc": "2026-11-12T07:57:57.682489+00:00",
+  "generated_at_utc": "2026-11-13T07:36:58.388226+00:00",
   "categories": {
     "Tech": [
       {
-        "title": "Nvidia shares plunge as board reportedly weighs ousting CEO Jensen Huang - follow live - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14cjNlT01lTmVjS3VCMFFkVjlKQk45UkhOWVpJZVdKZndqcXRKN2NSd2tjSWU4eWxGZzlXcGppZWQ2a3dKeUczVF9xUlNKUkRLQjM2bUhn?oc=5",
+        "title": "US nonprofits sue tech giants to halt AI development - Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzh3Xzg0ek1tUjktMHMxV1pIR014ckFIT202VFUwTGpDMC0tOWZKaFRkQVg5UzkzaE9VWVVxcnFpclVOU05PZElkMUJXT19qS1NQTE5UbUFPMUFnRDVTeW9oUkpSbkFMcy02WUZwRm44eVV4ZGJNMGxjaEM0TGZ1cVgzejFmaU1sc1diV2R6UDlMZTB1UnYzcXpR0gGfAUFVX3lxTE96N2UydjlyZ3Vmbm9RemR1SGxrMjdQRXFOQ0ZHaUFxOHVlRmVoR3dHV3poMUtuSnNVWEtVWFlpR3RubjRNTkxPVkxSQ1lRNkZsbmozcVYydWRjaTBwM0M1Y21SNWVZNFRzSkZtYVM1OTV6VDFFZkhkSWxyT3BEakZMRkMzeEpzNVhBcXBpY3hIOUw1WlpBMlZLLWpieTZlUQ?oc=5",
+        "source": "Al Jazeera",
+        "published": "Thu, 12 Nov 2026 20:24:22 GMT"
+      },
+      {
+        "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5",
+        "source": "Reuters",
+        "published": "Thu, 12 Nov 2026 19:27:00 GMT"
+      },
+      {
+        "title": "From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjZtQmwzbEI3VHJMaDEzRC1ubE4yTU9Nb3lCbU4wM21Id0pSaFY4RXF4WlY3UzZQcm4zOS1weTVPa2s5ZGFQaVVZUFhlOUdjNGhVcHJwU0RwSE9EZFZ3SndGbjYzcE4yY3BHekhXVGlaMUNSbkVqd3VTUVo2amdXbFJLQ0NzcUVHRFZYQmtaWE1WTTRvdHhPTjQybVAtVTdI?oc=5",
+        "source": "The Guardian",
+        "published": "Fri, 13 Nov 2026 02:30:00 GMT"
+      },
+      {
+        "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zaVM2dWhvNUdNS05PbVZMX1ZFYkplTXNoS0RzcVh2bWl2YW16djlHVDBsYVBVcHFzOXJHTGQwdHJ1WWZwMGhjVWpmVV9jcWszbGYzWGtLS093c1E?oc=5",
         "source": "BBC",
-        "published": "Thu, 12 Nov 2026 07:42:25 GMT"
+        "published": "Thu, 12 Nov 2026 17:11:48 GMT"
       },
       {
-        "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5",
-        "source": "The New York Times",
-        "published": "Thu, 12 Nov 2026 01:57:34 GMT"
-      },
-      {
-        "title": "Gemini Decisions API: Fast, calibrated multimodal decisions - blog.google",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGVFa0w0cmk4aTZOc0dVWnc5bm5lSzRZOE9aQldlcTZZUGc4MGNNWGlTbDFJYUlibHJoQ2xpOEdrUFpPODBQOGluNUhVQWxvY2ZuWE84TVN3NVJza04xVXlBcW1kVkl1WjZMM2RxREktM2Z3bVVqbTBkUnJuTy0tRl9KSkxuT2pzY0Zib1dKV24?oc=5",
-        "source": "blog.google",
-        "published": "Wed, 11 Nov 2026 18:22:43 GMT"
-      },
-      {
-        "title": "Metropolis 3.0 to Build a Profitable Business Through Capacity, Science and Technology Investments - ET HealthWorld",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRlg5T1FBUEpEVEpjYk14NHl2T2tWM3pyLTlCTWFhSWpRaTk3bHE4V3hnY2k3ZlVZM3pMSkhkc1BIc2xuU3dmRVd3MVBCWDN6OC1lMXhfQzYwZXRRR1I2c0ZyQ1dROWJjQW1mdzVrRXVsUElHMXc2ZWlyZTZQbEViUEU0UG9BUEc5TmhtUUV0cGpvT29lN2hGcjB2ZnVaOURvZTBMa0dsc3B6eEk4TjVuQWRiMmlfNW5WcXRiMm5TR2NXdTdlbG9Dck80RF9xXzJiYjBBalUzWDNhNjlGWmdVRVZHdGFCY0hyS01pS0NvY1BvUE1IeVZEWk9n0gH_AUFVX3lxTE5iNzRadFdYRlR1LXhvU0pVbVR1akZ4YlNNczFhTmdrZkRMbnR6Vnk4QWZoMHJPVHVieG1KZzVhQXQ2X0tfWVJVa3JjbzRSVm1MaUcwOFRfRlFUNzhIWThwZWJoWThVZkFuNnFJbFo1anB2U1pwcU04UFVKYVlQODBJei1tWEZKN1JjbF9EYzRaVm9wNV9WS0Q4RFR5cWYwbVRpZ01KYUhydVVtd0dxNC1MZ3FfdVQtVUs4UGJHLVBhMHh4c3hCc3hwR2JMWWhtZ09lZGVPem5HSmNDYmJ2M1ctX1NyUk1tNXNZOHhILU03QXJnVFBJZjJwcFRtN3Yxbw?oc=5",
-        "source": "ET HealthWorld",
-        "published": "Thu, 12 Nov 2026 06:14:05 GMT"
-      },
-      {
-        "title": "Cochin shipyard, SFO Technologies jointly develop sophisticated laser arc welding technology - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUnlUQTluUGFFdzA2alp5aUo0OHRYQWZUZVVlWnU1c2VYOUFxNEM0LV9CUU5uR01qX3RCeU5UMnJ3SzQ4aFFQVW5FdDh2RTB1MmNEcUNoNUFRWUh2UmdOTHJ3ME9yYXJqWHV1cUNERnJvcHVZNWxlTTNZTjA5ZWVYRkQyVmk4UC1wcHNIYmdNNUlKTFNrbGdwaHhqZmpQdEo5QzhZcndxcEVMa0NmZUl3ZTJOVjRzWmFLQklIWmFrX05hZWd5ZndWMzZvSUloWjNhU3ZDVmNrdjlia19QR1BLZFprV0pRN3J1RHlERndn0gH0AUFVX3lxTE1ERmt2NDRBeldKc05uajNLNVA3TmpKUl9iYkFvRzd0MnVQcUNvVzdQWExUZmk0SjNpbzFWV1lwZ3JoaHBqYkctN0N4d2JSanM4ZUt5OHdFbjN1QmVrVlVnY3VuRElHdkc4N3REaVl4QnhqYnFIR1Q5c0dsaWdnNEJ6MTRDYzRmODVUWVg3OVk4OTFpMU5ianhhVVBTQ1NNbV9ZM2pjWUtzd1NCSlhXcFRPZG1vRXBtOUlkczYwX0F4dzQ5QkF0X1hadm02VGxtbko2d284QWkyYWh1am01QUlDWDNzMWZ0QzJfdGppUThXMDQ0Umw?oc=5",
+        "title": "The SIR exercise is also a technology failure - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZU5uSmtwTy1tblI4RXY5cHNfV3ZnVDhfZ3NmRTlwZ202MWR2UmxwV2ptd3hKRDRVMjB5Nm9qdVVhek5Fa1BGQkMyVngzRGlMZmJKbjJ0RFlveUExa3EzSjROeDJVNUpjLTFLaUk1RnNPTWY4UExuWkpEZGUzVF8yMXVhcFltMlJPdUxmS1U5S0VpUjBMLW5EaDJ2SGFZTWMzTFktU0lR0gGsAUFVX3lxTFBUeTR2LXFqclNKeENKOU1EX3RjUG1CRnlCQ212Zk9IbGZXb1c4cTQzM2xZejdhYVdXa2lzT0twNUdGU05uNVhxOFUzN3VlOF9kWDE5WVBkYm50MEpCel9jRzd6dVJZMk95aFV0Z01IRDA4ZXcwNVpQLVhCZExoNW5WVkhramZSVW5xOUhJY3gzVUhTQXYyNGxqSXlEOXlaM0dLSGYyRFNqS1BQOGE?oc=5",
         "source": "The Hindu",
-        "published": "Wed, 11 Nov 2026 20:33:32 GMT"
+        "published": "Fri, 13 Nov 2026 04:45:03 GMT"
       }
     ],
     "Sports": [
       {
-        "title": "Man City charges outcome cannot leave 'room for doubt' - sports integrity chief - ESPN India",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkpjQU84YVNxT2Vqam0wcERKOWo0Y2hvb1BzUjUtMWprOWZjRlJEWk12bmFMS1lPWF9BNDVtWkhnaU9FYVdqX0tjamFhZlotQm9pOXQyQmx1QU5aejR3a0JNdndUa0ZhRWJNcnhncGJISVo5MzJ3UHRVZVhiYzl4NTVRa1hfSnV5TmhmRmxjc0U3WC11eEpob1hvWG1RX2N2eU9z?oc=5",
-        "source": "ESPN India",
-        "published": "Wed, 11 Nov 2026 07:36:00 GMT"
+        "title": "'Wrong' and 'nonsense' - Cummins on Khawaja claims - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vVm84YUVlMGtqTVlfcGZQd2NlejBldXRxcVJvNnJRZHV4M2VpbGxhRUlmWVB4aExBOGV5LWp2S3lQWFF5blBYczNTalVFV2pGVDNfemUxZ3loQVZuNXlzOEtPNkNDT2s?oc=5",
+        "source": "BBC",
+        "published": "Thu, 12 Nov 2026 23:47:22 GMT"
       },
       {
-        "title": "10 biggest injuries that have shaped the 2026 NFL season - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUphR3pLbmdlMlJvQ2NOdkg0NjJfYXRweEZrSk8tV2VpTy1Sd1BBRW83TkdzelFkdktadzE0SHpRZGkxUTdZWFJvajV5UHZKRUhQNFBlbGZtVVJ5M29VT1U4U3h2U0FNWEdFOTcxZnItV0l1ZFZPbENVMDlLREJLeUJoTGJkdkgtazlmem5vbWRmMnVIWlFwakhtOGY0c2RDR1JjUlFIWERTWDF0?oc=5",
-        "source": "Yahoo Sports",
-        "published": "Wed, 11 Nov 2026 20:34:25 GMT"
+        "title": "President Droupadi Murmu to confer National Sports Awards 2025 at Rashtrapati Bhavan today - News On AIR",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0NEUjlkWVBRZGhPdU1ObXEzb2kyZ05XTmVsNnoxYXZ6bFo1UjJCaEt5ekFRTENuRmtrdHFzN0RkWnAzRU9vdC00cmU5SnBGeFU4ZnVIczdYS1ZuTWcyUGdWY0NCZjZhemNHS0NIWEw2M0lscHBQb0xWek1EOHlkekphZFl0aF84MGhmdDRMenVBY29uRmZic2hVclkyNi1PX1ZWZEZ2NmtlcW0wY00wZUtxWTd0Q1E?oc=5",
+        "source": "News On AIR",
+        "published": "Fri, 13 Nov 2026 03:01:00 GMT"
       },
       {
-        "title": "It is the responsibility of top athletes to look after the sports administration: Saina Nehwal - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNE5jRnpRcHUtRkk2THM3UVV4TlJCMFIzZzEwX3did2dNMVdPaW9OU3J6UWdJb2xoTFpqekMxQjNLUzlBNU5fZFVsaUNUNWo5RTFkWjFpaWpWLWZuRlg3TXc1UHc4TDBQOFBYUXhPVW5XSXVvMWtjeGVRUUF6Z2wtWVFIMlYxcWdCT25VYU5idExLZklxNHpuOE5walAyN1h0QmpzckxpeV9aTXBOd1JvLUpVREdhZVF4S3dET3lKNlVNTDZ0N1RIT2xQMU9ZUG1mbTNWZEx3cXg1c05NWmhKa2RXQUk0RjlKVy1xUFVzZEdNenNYOUE2aWp6aHotWkZNLWEtSzA0QdIBjAJBVV95cUxNTzFGejAwZkNKVUkyWE1aSk9EVmtNVzdJUmNfWDRWMUpNTWM5bGJmdEExTEpnMTNKd2pjMFAyS1l2aS1uSldtekh1cUdxSGp3blpvZWxHSGh2MjEyOHp3MlFRdnFPTnpQMGN0dnB1OEdwVER0Y2hvOXgzekdzNXBsUVRaQVptZERVY056YUpfMHc3RlEyUDBtRmdlMnhhSEZSb2ZhLWJRVnl6UjR6UzZ1dWwwOWx1enF5VU9scDZsUGMycXIyQ05fZmljUk1uYU1sZlJfbmcteXRPbjhBZWNEMWRHTkFkSEItZ2FfRDViNVY0emNsVkFvN2N1OFZLei0wVkRKZmtyY1hONG8w?oc=5",
+        "title": "Italy vs France Highlights | UEFA Nations League - FOX Sports",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qX0loQkNvTWdDU0YxczZ2Y0k3Y1h6VHJGUlk3YXNGdTgxTTNSUG5ZYmhzTDVqVFBuLW01d2hJZFkzYXNaaGRaVnhFUUxKN3FBYmxqYkhZaGQyR1ZnUE1SS1JB?oc=5",
+        "source": "FOX Sports",
+        "published": "Thu, 12 Nov 2026 22:07:42 GMT"
+      },
+      {
+        "title": "French Sport Days 2026: French Sports Expertise Meets Indias Growing Ambitions - TheWire.in",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVmZPZWNKNmFkajFPYklCSVZ0UnZHNXgxNVhDZGtxbkNNaHhENGMtclpXMjEyN3p6NnhNbkQybW83NUxKUC12WlZ4VVZ4VWV6dTZNUGZ1LTFFS0lDYUZTdzZLZkFBelRSTFRwZHFEUUFuX0xQTnh3eDh1OEhWMGtqaUZja01RbEc3eGE0VHotdWpDd1d2YUpweE13UE9xQWxmN044b0h1NndVUXNxaDFGVzBnMV81YmvSAbwBQVVfeXFMTi1EZVF1eFh5MWFIZlhOYnRnSWxqbGtYcXBINV9feklVc0R5SDAxRnNWWUVFSm1PVjNDemx5WW5xUnBRa1hsTGlqTjR3ZmJLeXBQWUxmVXJEeXh5dmprLS1tdTBPSzcxZGRZdHJqNWh0aWVuclZpQ3FwNnMwcVh2QUg1WUlNR2RwUTRtWFBZNXhRemhDemc3d0x0WERZeF9Qb1gtMmNySVJCdzduLXB2enMyekl1b1BJOUd2UTQ?oc=5",
+        "source": "TheWire.in",
+        "published": "Fri, 13 Nov 2026 06:05:03 GMT"
+      },
+      {
+        "title": "Vivaan Kapoor clinches trap silver, LA quota - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTEg2UGNVLTlpVVNOYjN6ekpWN0U5dlVmTUxWYk5ReHJiTlpqYjdXeUY2VkpYVWNBc2kyaGlHM01HN0NGUjFsQ2lSdTR2VUFYM1ZCM3BSTC02dzlmNmJJRnk3bWxSb3ljS3Z5MTZsdTZIRnpVeFF3UzFFSnBHVE9xdFJGNEdaRjNYMUhfVExZaUxBWE1FQWNEb2lWMDNZUnladkUxb0Vtb2s2RjlDclFhRWNGVXR1RkpGVXNBdEhuRDVsX2lWT2VadlFpRdIB0AFBVV95cUxPazBMSVJtT3hrVDR1b3BYU29oUUFIZGZPN0ZLYjJYR0dGZGNBRm5FZlJhNEhKdW1VV3MzMzRaajFyTHhaWkZkT2NxY2NlWG9XcXBZRGQwejYtMVVrd1ZiRHowZEx3VUh3elBQQzdSVjFFMmRsMS12VnBFYXBKWHFiSV9zUjNnbUVUTzdEcS1uY3p2RUVqUVVvYWhsZks3MFFIem1SRklraW1TUXlUUk5yd1YyZTh6eWZubEpNZ25xY1JOaVZNY1FhMDZoeVNnSU03?oc=5",
         "source": "The Times of India",
-        "published": "Thu, 12 Nov 2026 04:17:00 GMT"
-      },
-      {
-        "title": "Haryana’s sports stadiums are crumbling. Athletes struggle with broken tracks, rusted poles - ThePrint",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3NySjFDVWlvdF9aQnBUcTZtcUZfdExGNUJ4NkUzU2JqYWRhZG1WTmtiQ1NLRjl6QlNlXzZOWGc5UEJZeHFTNUJabDNMeGhUT1RYOG1pdEx0cUhQbkNFb2t5RzJLQjY4MkFyU0dnclJDdXlTSndWVGhWd1h0UVRoQ1NZMTB1MUZoQ3BBRHgxdFpGM3lZU3B2SzBQNUw4NEFlR1dxTjdBS0xZRDh5dDAxT1VHdFZtMTUyLWlVUndVQVpwWG1oLUIzQkRURGfSAdIBQVVfeXFMT05WeW5NU2hjbXpTeXFTSFJHc0ZKcDJfcnloY1ZFTmdUZ3R1WkxBUHBkZTg4RnVYem9RVjJVMEoyMl80allCZGFKN2xBWWt3azVXa2VLcXU0SnJ5eG9meExzQ29UdmFmZk5ENEJ0MGdtUU9xWFl1YXRURXpsZlVoYUtDaFo4OEhXLW9KTE1aYnkxNk9ZVDM3aFhoUDVZenFBNHFHRTJUd1BEaVg4WE5nQ3RsSWZ4bHdDU2JaXzluYzlLT3I2WkYxcG92LVRwdllyRVNR?oc=5",
-        "source": "ThePrint",
-        "published": "Thu, 12 Nov 2026 05:11:36 GMT"
-      },
-      {
-        "title": "Witnesses Testify on Sports Betting at College Campuses - C-SPAN",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEZmZGp2WVhiSm10ZnZEcV9tMFM0RkZTSnVNbk0tczBOZzNzVjc4ZGlBYkRLQUJ6bXdwcUlEOG01cGxTMlY0WGJyLW9ybVRLUUdTS2VEN1dkbWVBNWRwQ3Y1amRyVzBfS1hFTG8wRUV6dWVsNEZ1R0c2YXR3WEt1Q0d6QVhhUFR5OHl6ZUxXTUc1MDA3eGxSNHVPc0FOS2cwNFBvejZ3WHcyRlU?oc=5",
-        "source": "C-SPAN",
-        "published": "Wed, 11 Nov 2026 05:00:00 GMT"
+        "published": "Fri, 13 Nov 2026 04:47:00 GMT"
       }
     ],
     "Finance": [
       {
-        "title": "Financing a Resilient Future: How Banks Can Advance Adaptation and Resilience Finance - United Nations Environment Programme Finance Initiative (UNEP FI)",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRGlGYVFsR005R0VMTVVtU0p3dVpuUVpUa1dzLTE3TDUyNjJ6SW1QaXUtcVJ3Z2RYS2toMEV0WTRaUHB2bkVESEFMYU5UREwta1dRNEUtV05jU182d25ER0hVUnNJcjFNQmdDN0JDYkxiZUwtMEJxVkZ6Zmx0cmZKRnZHczR0QmpoQkVIMEFmNHBlUTFJTWZHNWRnQmRjRGt4TENIdnlTaExPOV95RWhWdkdjS3dCMDR5RmRkU0dFRldvREREQTdHWmhR?oc=5",
+        "title": "Global Framework on Chemicals and the finance sector - United Nations Environment Programme Finance Initiative (UNEP FI)",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DUktUQmsyRjlRUGtTckNPbGczbHpIYVZwUWpBQmowSTBVVGFCSVl6eDRvMWFmd19makRMTnB2M19mRXZINlJDYmg2WlA1dTNoSG9kakRXazdpbGZEam1hcEtHNkRMWUZuZ2o5WUVMbFZsNC1nX1ZlX1VWbGxkdw?oc=5",
         "source": "United Nations Environment Programme Finance Initiative (UNEP FI)",
-        "published": "Thu, 12 Nov 2026 07:05:39 GMT"
+        "published": "Thu, 12 Nov 2026 11:09:51 GMT"
       },
       {
-        "title": "The Global Economy Looks Vulnerable to an AI Bust - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkVOS3F3Vmp4MDZYa3ZWSHhTUUFILXNnNVFsVjFDczF3ZVNrN3pOMXByM0I5U0htYTlsRnpjQnZlZk1wYnNCLTRHeTFPbWUyTUlJanRPZDFwRXR4elJFcjVZdHAzcTRmbmxWQXFkazNUdVhzNzY4NVJrb2djNXBSdVpFTV9hN2U5cnJQLTN0SQ?oc=5",
-        "source": "WSJ",
-        "published": "Wed, 11 Nov 2026 22:15:00 GMT"
-      },
-      {
-        "title": "Three Lessons for Trade Finance from the Middle East Conflict - International Banker",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNzRiNkZjc0lOdkJsdzBPWXo3OXk4ZzZETUJoVWlSYWF4VzJyQ1FkNWtOYURJQWhwWHN6aUJtZnA5Q1ZmVHE5SDJLZFZhekEwdS16ZnBVeHMxUUJJUjZwb0RxV1lvRnFHamhBTk1qUVlITWtEdXZpd0J0aHNWYW5nZ3V6WlRWQkpSM01DcGh6SzhPdmpxX3hQR1VKYTh2M3hZY0E0UQ?oc=5",
-        "source": "International Banker",
-        "published": "Thu, 12 Nov 2026 04:00:55 GMT"
-      },
-      {
-        "title": "Global Salon: Fixing the Dollar’s Dilemma - Global Finance Magazine",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUG50UXlpM090X09mZ3NXWHY0d2E3djFvTUkySUttZG9OUkR4eW80SFhmWmI5elB5V25aRkxzQVc1cHhuTzNwdTRNc0F0N19DQ1BsR3ltSFh4djNRTnJ3T0tSOXdUNFZUTHJqNWpjWFhudUhzZk5FYXJkU1BOWklIUFJvN1VjM3Q5Xy1EbHprdGpaTXNIbXhv?oc=5",
+        "title": "The Death of Cheap Supply Chains - Global Finance Magazine",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDZnMHQzQ2U4T05aOGZuZUdBU1VnRXk5ZW82eUQ5UDJ1bVc5Sk5IOVNKSktzNUg0d3lqRVYybG1LWUZ2TldxYmVTTmZRbGdXN3V1RGtWX0I0Y3F5T25XV3d4bldCUFhDSmdjb3N0QUJfaW5lODJaWUVKdmo4UGJTc0tFZFVMYUFlbjdkMk5B?oc=5",
         "source": "Global Finance Magazine",
-        "published": "Thu, 12 Nov 2026 06:00:00 GMT"
+        "published": "Fri, 13 Nov 2026 06:00:00 GMT"
       },
       {
-        "title": "Financial Services and Markets Bill – Second Reading in Commons - Global Regulation Tomorrow",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDJhdVZoMU1jalZkY3N1V2xYUzZvY1ZoeXpmWWVlc3ZGRkJ0N0JQMUNfbHlKRnBHenp1TWVUWDdJYlNWYTNDai03d2lJUE1VTHJWOXFuOWtxVG1td2tvMEJuanNsM3FHdElfUmNiYXNOTEVwMDRac0VNdmp6MmpWWkRseGo0VXgyQjlMTVZSWXhuZUtpY0FYMktKVlkybVZzUTVWcndOaHY?oc=5",
-        "source": "Global Regulation Tomorrow",
-        "published": "Wed, 11 Nov 2026 16:46:06 GMT"
+        "title": "Corporate Leaders Discuss the Future of India’s Economy at TIME Impact Dinner - Time Magazine",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXZsSnZXZ0Z1ZUs3MU1jbFhHalVFWnNNNEZxWEJmNFpSa2RVT1QwNU1zV0h5Q2Q4MXZId1o0WExwUzJBZFdjZUYxbmFIRXZpSHlLR0tzazZWX3ZQem9QNzhPS3RNYmRnYm1ZYXJXSWx5bTQyT2dGVzh2VjZHai1ncW9OVW8wQ1NwM2FUd2M5TVVTYUtta3VnTWYwRQ?oc=5",
+        "source": "Time Magazine",
+        "published": "Thu, 12 Nov 2026 17:41:40 GMT"
+      },
+      {
+        "title": "Capital That Makes a Difference: Rethinking Blended Finance in the Ocean Economy - orfonline.org",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPXzc1cTJiMVhQWkdZMnMzNTZnMlU0NGVyRzFwVkpKU2swR2tqNXQta1M1VU9GTFlfVXhhMU1iS0pfS3hEcFZ5Smt2OENyMFVGeUdZRVdjc3R2WVRxWUhKT0VkRkV6ck90eU5vZUhWRy00ZlI3NUV1QVVFRkJrcmpYenpBV0IzOHE5U1dFY0oyRU5vWldjXzBmeTBxRG0xYnZZT0xBS3BkVkE1dk5ZTWxWSWFUWmttUHBTMGc?oc=5",
+        "source": "orfonline.org",
+        "published": "Thu, 12 Nov 2026 11:52:49 GMT"
+      },
+      {
+        "title": "SEWA CHÜMOUKEDIMA OBSERVES INTERNATIONAL STREET VENDORS DAY, DISCUSSES CLIMATE-RESILIENT MARKETS - DIPR Nagaland",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2s2eFhxN3ZjRU9DM3BwZFh0cFUwLUk4aVIwcEk1SXZNU0xrR2JRWXdEQ2x2bElMS1Q5VlRYaDJBUnhrQ2NSWXJKRlowR1pmMjU1TUNFWXZxSXVWT0JKc1RFeWptNFhPM25PaEF5NG5CdHczanZXNzJnQ2dhOEVjZzJLV01lWlRJQ0NpSUpEdXZMOGJCTEdfRUxiWTF6Z2V3Qm9DVjJyWHRPaHRUdWFHM1d4ZlF0OHB6Y1VNSFV4Z1JLRF9GVzVSNUdfRV8zdw?oc=5",
+        "source": "DIPR Nagaland",
+        "published": "Thu, 12 Nov 2026 14:43:25 GMT"
       }
     ],
     "World Politics": [
       {
-        "title": "Behind a Banking Scandal in Paraguay: Political Intrigue and Regional Fallout - World Politics Review",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMmNvZmNBTDNnRV9fWS1lY3ZJZ2VaOUFWeTdEd09hdlQ5UmFGUEhQZ0huOWRBTERITmZ1RnJQd3hjTnliZkJlLUFURWxrdk9nRjdoamVUZXlDNURPVUJFU3F0QjNrQzE4eHA3akFrMlBLT1lrbi1WMGk4MlY2MUdBYWhOeHZLRkw2ODItT2VqZ2NrRWhPYklSQ0E4SU0?oc=5",
-        "source": "World Politics Review",
-        "published": "Mon, 09 Nov 2026 15:13:50 GMT"
+        "title": "Politics - The Economist",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aYWVsZkoxelVxLUo5TlhxZ256X3FaTkxhRV90aFdONmdCNmxVS2hrWnlHNWRFbUszSlk3UHBDOFUtY2RfbVpLeG1tcGc4c2NiVVQ4SHJQSDhUQmRfSkI2ZWFrS0pMa3E2YlB3bGJzSkRtZU0?oc=5",
+        "source": "The Economist",
+        "published": "Thu, 12 Nov 2026 14:08:53 GMT"
       },
       {
-        "title": "Eisenkot gets chance to form Israeli government after vote - The Japan Times",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1FNGc1cHBva21yVkpwYU1KMi03N2lJWXEzYVhHaXl2NVBvTFVCYm0wd2JnQnZ6dmlWN3hDV2FrQjBKbzVJM0pmUDJfOUs1bGU3NGxwMVY1QlpWR0pCZTZNRjB4UGs4Z1FSWWdsbUUzUzFQcmZBYmtCODhXbjlhTTJhbm5qREVkekVma1hUNk5XQWNvTDdPYw?oc=5",
-        "source": "The Japan Times",
-        "published": "Mon, 09 Nov 2026 03:37:00 GMT"
+        "title": "English School of International Relations: International Society Explained - Diplomacy and Law",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcG12VnJZeDZaOE1qZ2ZRNmZVakhuekE2VDExNWZEamktN1ZvOEpjSDV0cWw1VlRjMnlVZDRMSzZHYmZjc0ZUR1ZGMEROSFVEWWUwVVJzdnJzN2RHMFphRmI0SHJNN01VUHF4ZFFpV19rNXJ4ZG93ZDBfaTVhNTJVWlNNZ1U?oc=5",
+        "source": "Diplomacy and Law",
+        "published": "Thu, 12 Nov 2026 03:17:05 GMT"
       },
       {
-        "title": "A Constructivist Reading of Current Developments in World Politics: The \"Correct the Map\" Initiative - UNU | United Nations University",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRkEtb0t3T3ZQSkdlV3NWNDROU1RXWjJ4Tm42QkszVGpZSDhBcXhlYkRoQy1uOWotbFhJWkNEVk1uSkN4dEFPWnI3VTZ2ak03SDJqMnRxTTNrUmFmRUp2RHczaGZhUDN4WHNsczBON2V5dy1pQlMxQlBET0FtbjJLb2pRYUE3UXNSNEJaMVJxQ3laalp4ODRkbkh1QWtESkpfSHdjZFc0WXh2Z1U4RG9HcC1B?oc=5",
-        "source": "UNU | United Nations University",
-        "published": "Wed, 09 Sep 2026 07:00:00 GMT"
+        "title": "The European political community is seeking unity on Ukraine, but the Putin and Trump issues remain - Eunews",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN1lzcXVjbXR0VlBfeEU2NUVpbnNYM1VjMnRBZzBCaHFNblJqNUVVV053VGFRZkp1WnRTUS13UDFOd0k0bEVobzZVRFhxc1VjQ2ZXdUpQRHFianZ0bnNEN1FRdUFacVBXRTBISldrTUkyTmZJRGxrZ2hDRTdhdjc4SVd5RjdWX0gzTlI0LTVaYUh3YnBJTEdsNkZ2b2tZOFQ1LVNSanBmUjR0RUNjeFhXOFEzcnpkdElaMTNWZGJGR2czcXRJZW9Va1RCUlRMQ0Z0?oc=5",
+        "source": "Eunews",
+        "published": "Thu, 12 Nov 2026 14:51:23 GMT"
       },
       {
-        "title": "Mapped: The World’s Most and Least Democratic Countries - Visual Capitalist",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjljVmJYRGQwR0owZUluOFlJdExMTFBlUzZyTkYzUFFKeUJoeVNuWVByMnI4OW5FaFhoell3ZTM4amdPNzhnLV82T2hDQkZwdEhwMjZxdm9ZRjdILXVFU1RZbEI4amk2d3U4Y0ZSMERhWHlqcl9vTEdOaEV1cEhwa1pB?oc=5",
-        "source": "Visual Capitalist",
-        "published": "Wed, 11 Nov 2026 17:12:22 GMT"
+        "title": "Realism, Small States and Neutrality - E-International Relations",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16clJMc1VrclRHZERFTUFxdGxUVll2bDBqNWpKSkw1SEFiV1l3S0s5dEJ3bXFXNlRCN2tvSm9uUXZEQVhEWkRPZUVlRlRjck9EOGozajA4WE9ONzhKTEpVZ3AxcHF2R3dQaWc?oc=5",
+        "source": "E-International Relations",
+        "published": "Thu, 12 Nov 2026 08:53:30 GMT"
       },
       {
-        "title": "White House threatens Congress, saying aggressive investigations could be crime - The Seattle Times",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObnJIYnprLUJaZ2dfcjFHTkFmMXcxaExoTm9BeVF0d0lHUHJncjJjVXJwejNfd1hxVmJLR2kycVpIeS1wdV96YkdLQmt6VE5zRjlic2x5eUxhNmZPT2ZFSkE4bXgyWGUxaEVuQ0lWWUZ5Z3FKSEgwZW9LTXpQOFhuczJkdm1kZFVHWjVXejJ0dXNtSWtUOVhwQ3dUM2tIN2JDS2JwenhOSnlQei1WWjgxVmhRbVJOdzdoVEVJZUNZSDQ5S1R1SFdhTndwZGxERGdxS1BN?oc=5",
-        "source": "The Seattle Times",
-        "published": "Thu, 12 Nov 2026 01:52:00 GMT"
+        "title": "International strategist awarded prestigious scholarship - The University of Western Australia",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjNLa3pFb0JHQ3Y2R2tZRE11SGZjNjFYZHFDOTlVNW93UTFwdE5pcWI0VGhvVExLdndQUzhHSTRkOTZWUWdSTlpOLVZ5LXBwN2FtUHZDN08yVjFSTmtvNzZ3a1p3UkY2dWNraWdsNDZjcVkyTDRIRWtpQXVONlV1RXJnNmRaS0o3M0RWMENTX1RLMklsWGxNZWhORXB0Y0lXMmZVaDJuaFBvZw?oc=5",
+        "source": "The University of Western Australia",
+        "published": "Fri, 13 Nov 2026 02:13:57 GMT"
       }
     ],
     "India": [
       {
-        "title": "Tequila in India is moving beyond shots to premium sipping - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzRqam1TNGctQ21yUGtZUE5VMDAzS25DYWVCc3FIcG5hOWZvNlJQUGF3MFBBalU0WjJ5VEw1WkN0UEJmalFYZC1TamZPRmtzV3gyN05sNi0xTjMxU2I3eTRCc1hNODNMOEpnQ3JxbU5jZWttZFVSdWp5VmZEamR5YkJCYlVBQXI4QjNqa2RYZkplNDFMeWZnaENMeUh5SFpxOEU4bnNMd3VyRHloUWN6TXpVZHE0OXJ00gG_AUFVX3lxTE9zbXBzanVEZWxOVzJOS21nWU04MTNEejc2VmJKWGFaOWdYbUFhNlh5cUVjWjZGRjA2VVN4TXZvSmFVTVota0dZdGJMWS1HT3BLYzhiRjFkcnZGUER6bkZqTTFjRF9rV1pjdHoyRXJmMGxucEhyV0g3ODJTb0hTZ25FMVRIckRLWmJ5VGxValVhUE5KN2hXNWNVelctREtCTGk4UWwtN1YwcGNWdnZ0YXZhamNmWl93ZXVQcHFzQnlJ?oc=5",
+        "title": "In a dilemma: On Sheikh Hasina and India-Bangladesh ties - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2ZzcEdUdXlxT0hIRnlTZmZJZ25DMnVkZ3U0dmdoelF5QTItbHE4QUlwakhBZ0tPY2ljMjA0WjhHWFFTeWk0WmMwYXFkanJBeVpuU1RTdTVzVGJmQTZZcUNxNW9JSXlva0lEb2NmQVNhSDF2ekw4OVRXS1NtVFdpSVBqQkI2SDBkcGRyV3hpY0NjcjFzcUlLeTZ4Qld0LTBhS3dOY3RXd0pQMHZLVzd1TTA0cnJqeS1mSHfSAcABQVVfeXFMTWtFbW44c0hJaGFWeXRPTEpJakZxT2NJSFRlZmZGN0tsSUtoR1hncF8wcmd6dXBGalM2UEV1bkFmTl9XTDZVdVMtVlM5ZmNNQmRMWkEtLVFrNTJTQzJhalk3WHh5UVRZVGdmUXNKcGlMT0RRXzdVUWRLN0tPVTZJRkdPczhHN19UVXB1YzdrcXhHY1Vka2oxUThCUGJrOFRnTnlVcGQ2M05QOGNSTnQ0TjA5QUtNUWJ6VWlVTG02ZlFL?oc=5",
         "source": "The Hindu",
-        "published": "Thu, 12 Nov 2026 07:23:06 GMT"
+        "published": "Thu, 12 Nov 2026 20:24:59 GMT"
       },
       {
-        "title": "Scientific research strengthens India's nature-based healthcare ecosystem National Naturopathy Day - DD India",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3FHTUY1MHNDTVhVdWhORzZ0blV0MHV5TWVDalFITEs1OHFHMGZVVjRtXzItTUhscENmamg5MFkwRlk4SVlERDhiczIxYWhpS0RLbHMyVjVubTBDSHZNajZvX0ZMdmNVbHI0N1BTUnpyalJIQ0N2UUVCT0pGTlhQTEJsSWpqSjNCQ0tSS2k0MGhvd25CSnpxOUF2YjV2RnA0d2hObUlNVlNUNVhjMU1DckpoVmxIbk5JeE9DUlNiYkVRbHp0V29v?oc=5",
-        "source": "DD India",
-        "published": "Thu, 12 Nov 2026 07:34:00 GMT"
+        "title": "India Inflation Breaches RBI's Limit. What Happens If It Remains Above 6% - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVBUR216TzNlaFIxN1IwaVhQSEFsSGRiU09nWFJiZk5XR0xzdEdzMjRlSlFWM3BReDk0MDUxVHhOVkpqV19lRFNMdXFzamVucWxVcUVxeXZzVExEeVNvVUpUdWJ4QlQ3aTJMN2RnUzNFYXlGQjY1Uy10ZEI0WGNDNmpDRUptVjlkMkRVdnlXejhsWDh0MTZ6UzJCWWotTkhvUU1DdGk4T3pQWlVhR1dieVJtNDNxdGllNGc3b2RGVEXSAcgBQVVfeXFMTklhMVk5WjgtUzFpOEZzbUhZRkVlNmlTc2luOFhXQmM1OWZEVU42bW91ZHBxQkVFSGQ4U2toRFFKeHhpN0VmbmYwRjFoaFctZUxqQUY4VDY0SFdtVkNwSldMQlQ2Y1MwT0o2eklDaHh1R24zSDY2b2JDUHRxb1FrbWo3QkZZVTBDRmwtM1Y4XzhpcmpiZjJkeWxGb21SNzhVTENvZmJsTXNoUmFxQzJjM2o0V2JzYUR1YURKZkRpcUoyZjd6dEZyclk?oc=5",
+        "source": "NDTV",
+        "published": "Fri, 13 Nov 2026 06:54:10 GMT"
       },
       {
-        "title": "New Zealand vs India, 4th ODI: Preview - Cricbuzz",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRV9ONWlfa2xzazlzbWt4MDRpVjVhcENfWmtuX3dGUGdBWHc3ejBwXzlmM1lpbTQ2YUxSZmU4bW5iZ3hNdDdXQ2V5Y0VTRFU4RXYweloxYWxwZmVBbnp4S0ZyUHJKVjBsOFQxRGxJMXJaR1llNEh6SUUzY3ZMbThoTXRyUHhCOFlsYWx3?oc=5",
-        "source": "Cricbuzz",
-        "published": "Wed, 11 Nov 2026 20:01:02 GMT"
-      },
-      {
-        "title": "Shreyas Iyer Set for ODI Captaincy Debut as India Eye Series Win - Rediff",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZFdfMWhrOU13cnFIYzFmUU9mQWtaLUs4SXV6TWV4bGR5aFJjX3NvdEtES3U5ZDMtamh1ZWtoc2pxNTBzZ3djb2NCaUJSMDVXM3VnOWpMR09YM3hkRkhZTGFNRndudFpXRkpseXN1ODhJM1VkbVVxRUFWQmN5Rmt5NDAtdmxjRHJqQTQ1ZUg3TkgteXl6b3FtbjVWUXhOak1TcVZMN1dSU0Z6Ui1IOFpjcFpuWVQtbGk1S0x3ZllzN1BVZElXLWQxdDBqMNIBzgFBVV95cUxORmRKOHNTM19COWNBN3VWV21GazhMSFhUOFl2Q0xlREJhSXl3VkhybXBCMnJ0Z2Q5Z0k2RVBlc2hkbGJRRS1mZEdXS25TcHpHNDd0QWxxODZkeERxeFV2bG05LXZGX0gxSENDY2lKY2ZPTG1qUGVVaWNWMTZnc1c5Q2o4STA0ZDVTbTJFZl9tak1ySS0wYno1NzNmYUFNbGFLdGlRTm1XRGswRzdJRFk2RUZSblJteU5vN3g2ZDdDRVhMdmJ5cTNZb3BaRkVDUQ?oc=5",
+        "title": "LIVE! Another cyclone forms in Bay of Bengal, alert sounded - Rediff",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZWnVrWGtSczRneTlSVGJaRXh0RXd5dEEzR2lMVGVuT01JcnVZMVlUbEhxSzdxQS1uYmtaVm9ld2xfMUdQNE5SclAzYjdVLWh0NFJ2RzJUMS1oVnEwcW53YV9pZDdkMS1MQi1QcWlMbk5CWEY0?oc=5",
         "source": "Rediff",
-        "published": "Thu, 12 Nov 2026 06:56:40 GMT"
+        "published": "Fri, 13 Nov 2026 07:33:31 GMT"
       },
       {
-        "title": "India vs New Zealand | 'They do a very good job together': Tim Seifert all praise for visitor's young pace attack - Deccan Herald",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdW9JTUZ5Z2JGa2pCRk1MN050OEdtMWk4TmhERTdUSnM5NXFDNjVLdkVsdnFFMG5hbno5R21wNlgzT254VjlkbDhZWllhdjczX3NDTE5lZXlnZEt4bjdhWmc4M19FN3ktTzZiRElqVW9ZdUkzN0JxaHgzN2NuWjJGZVVlcjNCWThrY1F1NV9sUGdMZFVibTBOak1vSkFsaFIyNEg1Rm8yNGhpbUtFdWxQbXhfR2xtVnlzaW9KUHNHN3I4Z25CQXg4aVhaWkd3ZXByN1ZNLXJ0QlE4X1BnLWdqLURNVjlTYm5uX1p4blZFcXM?oc=5",
-        "source": "Deccan Herald",
-        "published": "Thu, 12 Nov 2026 06:47:28 GMT"
+        "title": "Argentina emerging as India's reliable partner in food security: Ambassador Caucino - ET Government",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUlpTZ0Jma3MxZnYzb0EzUVg5ZjktcU1vaUpIcjk3aG9zUHVuREhWdzBNY2JHc29XYXJBZ2hYVjlhNmFBVFh1enMzNFI1VFNYUzY1NU1MZE13M1lNaVNZVU4xdzFfaktTUVZrRHFaNHNQNkdyVTVWTWJWZEVzXzBhQW42UXpTWF9HY2FOSlhBbDYyUFR1S1Q2NDBSWGExd045WHhyRHhWSlowSGl4T29zdzY3Yjd1NHRneUh0WUk2R2JheEFDS1VRVkd1UHRLX1hLR3FCQmUtYjNJMlE0bHZuSVN3RE5MMGPSAesBQVVfeXFMTUU1QzFZUFk2TTRwc1V1akV1WExlTTJEYXpaTnF4TF8wQUM0d1hRc3dmUmNLYVROQWh4RkdNMnZOVUVaSGZzOWJIMmlIRjhwQUJQbXFQWVFjcXdjOVlqb3IzSlJmTkpaSUtYWnRBeDhOLVh2SXk4Q18yM2k2X1M5R01oanNLMVl6VVpxTmFCY2JnMjA1UGd6YjRYV284RnRTN3VnMV9HN1ZfM3I5S1hENTNyQkFwV1dGLTZjUzc0dGpNYU9KblJXT1I2eXBfaVU0NGZKMFBIQjBRZGY4UmtYUlpTNHFQUHRpXzJnTQ?oc=5",
+        "source": "ET Government",
+        "published": "Fri, 13 Nov 2026 07:13:50 GMT"
+      },
+      {
+        "title": "NZ vs IND, 4th ODI, India tour of New Zealand 2026 - Live Stream - Cricbuzz",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2x5UllxUi0yUS1TRHJWTmpMc0M3dXNSUTQ2dTJyRlgwSmM1WmstTzFQck5sYXdRRUV6bUV5UFpNLXgxdEdNVUo4a0dXempSaG4xaVFENndnMVU0U1lqbUhySEsyTlBHQXJwckNtUFVrQW14UkFlbXd3anZObm1pZ0hTMnpJQjlUMUxLU1lTUzN3QXVxQ19fSDhyeFhiTnEwYlE?oc=5",
+        "source": "Cricbuzz",
+        "published": "Fri, 13 Nov 2026 00:49:02 GMT"
       }
     ],
     "Andhra Pradesh (English)": [
-      {
-        "title": "Piyush Goyal, Naidu, Pawan Kalyan tour Andhra Pradesh Pavilion at CII Partnership Summit in Visakhapatnam - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQUx3NlNBV3BkekdxdGpsU0hBWWI4RjIzdnRXNWdvRHRTRE9Oc2RRa1MyZ1dRQlJQTUphdTVYck8tZkhHdFBnOTc3ZlQwcFE0blQ1UDdKREptaTRWN3U3aU9pVXk1bGVvUEU2Y0hqejNUU1hRajZIZEl1Z3pQVmw1SW1FNF95Q2dXUHY1Z25qdVVnQ3Y1LXY2RUpOZ0YyVHlhZXJrMjcySVROeW9aaXZIZzRGSEhyVlA3aG15dUFtaVpVM3JkeWxya3REbFNVR3liN1FUd1BTbGlEcng4NExMV3VpZlI2Y0V0dFN4dnFQN2RDLXhkdEN4ZVBfa1NGMGFqcWdsVUNBNDDSAY8CQVVfeXFMUHBFLVUtekFnQVJYQl9jaTFGQ0N6ejRiVS1CX3NvUWh0ZjV4c3V6aEtVOFVMWXRBNF8wMzh5dnJnTmhvdE1nQkFoSFUxM2ZUc0VCQ3kyd3VpVFNKN3llSDdkNGR6YmV3b0VURVpTSE5Dd3hHNGpCZzlIV2JGX2RueEs4WTF1ZmxFOWRxOW5qVFhDWGxYVTk3YXlRdUR5QTZzdTJXb1E0NGowZHNvSWVsWTZUYWF2bzZvalJxRlBwTVIzaWNwSmFucW1hODZxS3MxYXJjeUU5NnFrVFNIMll1SUVzNVBLVlpVTE44YTFFOW1vN2Nqei11dkVVTWJDQmJBUEc5YkVJNkx3VTZNRjc5TQ?oc=5",
-        "source": "The Hindu",
-        "published": "Thu, 12 Nov 2026 06:24:46 GMT"
-      },
-      {
-        "title": "Andhra Pradesh converts 526 of 714 investment proposals since June 2024, a 74% success rate - The New Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTURSOXhSR1I3MVNhWklBcUp2bU5JRmhDNHVPWktvT0hiOTY0UGhremg1TWVGZHk1ZHZNQmRQYkJLLXJyWXZiNU0wRzdzelItZkMtMVIxYkZ0ZlVydXZOM2VUTzJkVmpuYjZ0a3UzalRvZ05Rc0RWQlZfYmVGR0dsX1pUUHdTY2s5cDF1Y01tSVV2YzJ1VDNmaXZhWXktUzBoZmtmelZZNVBYXzZPQVBtMV9IT2tTb3hxMmp4eFU5emFlRTBwU2ptdTg0MTAyY2VmQko5OVE3QXNmeW10T2czWUlVTXE0Z0hJNUN6dtIB-gFBVV95cUxPLWFaR2RVUHV5Q3pXLXZKdVQ3MFRKZUVXS3VKN2VIcEw2Uk1TTnRVVXF3UDQ4YlkzMjh0MUVmekNjUm9hTEc1NC1lR1IwVG5oYS0xNjZkUnhBdWpuNlJDYUNEMmVRSF9objZoU2o2d0gxbFhEU2xSclhXa3VCeW1uMEJ0VmQwSVQzOV9TVHF3c1gxWm9oMS12YklEMkxKS19ERXBzeWx1aHNzRkEwcy1VOXNKRUk4QVhsQzhuRHdjR0JrcTI5eWJwYTdsU185LWZrcmFPQlRFWFhaZUh1R1o1bFlJZHhGVi10d1Q3OGhkRHNmRG9lNG5FRUx3?oc=5",
-        "source": "The New Indian Express",
-        "published": "Wed, 11 Nov 2026 02:42:27 GMT"
-      },
       {
         "title": "Pawan Kalyan pitches Andhra Pradesh as trusted global hub; Lokesh unveils red-carpet framework at 31st Vizag CII Summit - The Hindu",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZy1ITEUyLU5QMjVyRzV1Z2RYX2hwMlp4TktCN1Voeml5c2ZEeGZmdkVsSm1ORURwMnNNYkhjRDdVNzNJOWhrc2Z3aGwtMnlDQnpWS0JweFpFcXhIRDFTajlMVDNoVWVCSzl0V3BWeGRPanhvSDNXLVVvdzRHVjJNYXNDZlAwMG9ONktUUXZxQko4QzRTZTlyTW1LbllneTh0Zk5jb0RFX1Zaa0VzVDhJMF9xQ0xUMEFxYzR3Nk9VbENXMEJaVmxlbWVVeFFuMW5zbnNtWGg1bXVDZ25NcnNmcVotTHZtNVJCMmRsdGdmR21zVGhwNDBEaEZGOEpNRzVCNlE2S0pqREtHLWh6bG9FejlpRTZ4TGVO0gGfAkFVX3lxTE4yWGRhTUd3c29BYXE3RUxpbUs4ZzlmQWU1eEZHVks5bkFtenpjYWlMekJrMVNtRms0d21LUXItbHcwc1liUFdJTC1Tb1J5eGc4TXdYOF9RX0M0WFpDajM1SHVOZmVOVGxDdTRpNzZ0YTAzY0ZRRHdBbjJETTRqalJydDdrYXBtTGs1eEZEMWRrNXBvX2RrTXRQZUFVR1QzNEJxTndBVzZydUR3WWhyYmh3UFBqQVY1cTcwQXMwUUN3aVJ3aktUYXF4d1FQQ29nclVoTzdyM0lPbmF1WnFwZUl1LUs3ckpJNzU5WUM5U0N2RGhDY1JqS3c2b0hndnE4YjVRYUJLUGVieGJydGFiN1JSRmNLWDFDWUwwZ25QRFZV?oc=5",
@@ -181,48 +169,60 @@
         "published": "Thu, 12 Nov 2026 07:15:48 GMT"
       },
       {
-        "title": "Andhra CM discusses Amaravati development, digital governance with Singapore minister - ET Government",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeE5JZl83QkFBSmxsRGhzb0RTME9vNU9LWDhidHVIUm1iWkRmR3c0VTFQYTRhWEtOMDItSnpuR3BNUl81X21iMnZEdDRLWHh5cjRhenFrMXk1YTUtb0duUUVINXJlNE1kMTNBV0p4elZlejdnRFNuYjBWcW5zQTdNRlNmV1pQcUUtRHVQd1BlQV83d09QYWwzR2ZUM090Zm9tZGdPVVFQVzFfVTlPT0tWUlJHSXdZb0RJYkNsX0ZqVWtGdkVpQ3lqOFVEQnRBV0MtbUJ0Zm9hWkxWcVctNmhUT0t5V0lHaGhkaVJPb0Q3TdIB8wFBVV95cUxONndleVkyRGhaMGtTbk1MeTVvcXlSLTlhNUVtcnFXMFBqWTlTWHVrS2xuWW1vQWw2NUM2Wlp3VXdqcUhiak1ucEFqRklfZDQyREUwNklkMGhPX1kzbG4zWm9HekFrSTcxTVF3YW5BWEswZ3U2ZVg0M2lZaUlqaUdvWG5TSThZQ21RdHFZLXVMSkJGaDRDLURQTTdncGhfaVlRVGItRENoOTNWNmsxUWxaUHhCZEpDc2lZNFVDOHhJbFJzcE9TajRNMHZ6T1lXcktjckNuOHM1V0psTFd4eUtvSzh3MlNCd05lZHE0Y25RMk9scms?oc=5",
-        "source": "ET Government",
-        "published": "Thu, 12 Nov 2026 05:26:15 GMT"
+        "title": "Piyush Goyal, Naidu, Pawan Kalyan tour Andhra Pradesh Pavilion at CII Partnership Summit in Visakhapatnam - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQUx3NlNBV3BkekdxdGpsU0hBWWI4RjIzdnRXNWdvRHRTRE9Oc2RRa1MyZ1dRQlJQTUphdTVYck8tZkhHdFBnOTc3ZlQwcFE0blQ1UDdKREptaTRWN3U3aU9pVXk1bGVvUEU2Y0hqejNUU1hRajZIZEl1Z3pQVmw1SW1FNF95Q2dXUHY1Z25qdVVnQ3Y1LXY2RUpOZ0YyVHlhZXJrMjcySVROeW9aaXZIZzRGSEhyVlA3aG15dUFtaVpVM3JkeWxya3REbFNVR3liN1FUd1BTbGlEcng4NExMV3VpZlI2Y0V0dFN4dnFQN2RDLXhkdEN4ZVBfa1NGMGFqcWdsVUNBNDDSAY8CQVVfeXFMUHBFLVUtekFnQVJYQl9jaTFGQ0N6ejRiVS1CX3NvUWh0ZjV4c3V6aEtVOFVMWXRBNF8wMzh5dnJnTmhvdE1nQkFoSFUxM2ZUc0VCQ3kyd3VpVFNKN3llSDdkNGR6YmV3b0VURVpTSE5Dd3hHNGpCZzlIV2JGX2RueEs4WTF1ZmxFOWRxOW5qVFhDWGxYVTk3YXlRdUR5QTZzdTJXb1E0NGowZHNvSWVsWTZUYWF2bzZvalJxRlBwTVIzaWNwSmFucW1hODZxS3MxYXJjeUU5NnFrVFNIMll1SUVzNVBLVlpVTE44YTFFOW1vN2Nqei11dkVVTWJDQmJBUEc5YkVJNkx3VTZNRjc5TQ?oc=5",
+        "source": "The Hindu",
+        "published": "Thu, 12 Nov 2026 06:24:46 GMT"
       },
       {
-        "title": "Andhra Pradesh seeks wider partnership with Singapore beyond Amaravati - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORFdKUUFhTVZxLTFWdlhrWnhDYjRrTkFTNjBBTHY2M0VQMDVUZVVOQVlZTThQSUhNRmc5bmFSb2wwZTZfM2c2ZEljbzl1WGhBZHFSUkxaeHZTUzNSN0FOTVVjN1l6aWRrc18wY0hOTnhoN0V1bFdTZWh1VTdZbUVyd2xDMzJycnhtRTBTUVRBMVB2RHdqVVRrMWtHazh3SHdkaXZDeHl2LVU5M29VRmVwc2UtbldDaldqRjZZc1c0ZThwbnhUWmxtRzkxMDNBcVJ2elNURmR2WUk1dDNX0gHjAUFVX3lxTE1Pb1JrelBsUkpBSXBVV3I4eTM1MkVpNm1DeXZSeDVwaGdsS28yV2lYQWtkQ3lhT2NqYXdjYTJiSDN2dTAzajZoYThVTVNTcWw1STA0TTV5OVZpc05zeHUzdTZVUnNma3MzclkzOUt2UnNpdFZwTHVjVDRQQ3dxZVJGYUE0Z1lSdlpiaU9vZjBqenU5MTlGTk5fSGtpOHZJZjB3bk8yYWthTW5nQWhjamw1cDFXV0tFeE1RMFJFTXBtNkpKWERHTzdFU0xMampJYmR5VUFVMEJhdUZfUmJyLWtqZzJv?oc=5",
+        "title": "Andhra to bring in Investment Protection Act to ease doing business, says Naidu - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX2s2N25jYjJpa0dxeW1qaE5CV0FDRVJaMHprbGd5Y1ZUZ0dmREJ1b0hTcm0wRXhLZndabm83MWVLdGdRV3ZTc1JjcU44TjJZdFhxN0l6T1pmeUdpWmxjYU1GMU5Ma2ZBR210NFM4SVlkZWpMd3pUdnpkdHhick16aDBZNUhjWkxIQzhTSVVUdXVick5KS2tqU2UxTnp6ZkxuN1dNVGhaTm9PY0lnRjVkVGVjZUNJSFFQRlJhM1A1WndvdkcwdzdCODhKYU16SVJ4bWEta2E2Vks2SWx6UkVmams1aDc5dHfSAe4BQVVfeXFMTlhfUzhaM25kZV9DNF9DQTd3c0lYbVI0M3pSa1piWHcwWEJBZEx0ajdOQkctekg3NUJfN2RQTDItbk54WUJET2ZuRGRsOVJqVlNnUXZIdVg3VVI2dXdNelpyeG1OMi00Rm5UTHFMdGFvcEhkUEQ4M3NhdWw2WlotNkp1ZG0wSGFmMmRBUS02UkJsQmYzd2RoMGoybEY1TXp1MXo3bFVBLVFCd1pxSHBHNUZrZ1hzcGN5b3ljZDFXM0w4aWxtNmlYdWNCVVd1SmxmMG9jYmdoeEhQZFNBblFNcEItX0NEaE1rancySXRFUQ?oc=5",
         "source": "The Hindu",
-        "published": "Wed, 11 Nov 2026 13:43:32 GMT"
+        "published": "Fri, 13 Nov 2026 06:48:41 GMT"
+      },
+      {
+        "title": "Kia India to invest $2 billion in second Andhra Pradesh plant, add 2 lakh units of capacity - HT Auto",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUUdNc1JXcDFjSUQzOGNRcnh5T0FkUE1XSHVJalpZMW85RnQzYkpMS0U5ZlJsSTNadnVUUmhMcGpVaWRqOTg2Vk9CTU02UTBqMWI0MVQtdUlmVG5GcTJ0SDdvYUgyTTJyQnJlMTdxbFBqNFYxeUxMQmd1MnVXcXNvMFFYTUxEb1hCbFJVb3F6LWdXUlcyTmp2WlkySkYya2Y2WS0wLW5tNzAyU0d3WWZHeGx4bXd2cTdvYzhnQktyVzlMcVFxamhULVNnVkF6MGFGNlZBUWZQTWV4cDdyckpIZmlmeHdaUdIB6wFBVV95cUxNbDg2SEZCWXh6dkZmTmpKUjBKekRBTEhNaW1abnpfTFdsbnBwZktWSHVpWkRfaEhzRnB6Z2pZWlBQYnoxeDgzRkdzemJSMDlkRFJISUhGc0xKQkVMWUk3bDNDYnhOS1U3bzd0b212YzA5d0hfbExjekxjVnZOaWQyaUFoSURNT1I3bUpsLUlZM0FjNm1YTlhOS3plamN3RjRfYkR1WWpITHB4cUlSajNlQkFEYkJ5MFBkUkE3NDg2SlJ4QU9RNEdaX21aN01Kell5VTNOVkY0Umlrb2tQdk5QaXcxa2tfbHNPMDZZ?oc=5",
+        "source": "HT Auto",
+        "published": "Fri, 13 Nov 2026 03:00:33 GMT"
+      },
+      {
+        "title": "Kia, suppliers plan $2 billion investment in second plant in Andhra Pradesh, targets 2030 production kickoff - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUlE2Y19EbFhkb19KRV8tVENiZUZEWkpQaUE3RWNCbHlpVWNSSVg3bndMZXRCSXBvaklrZWFZbzJWcGN4Z3BNQ1ktVzBrUWZINW45Q3B4Um9aOXAzaWttM2k3SndwY3VXY2Y4d0pyODk0OW9kdjQ2ZFI1LUVYVjhOYlk2cndUQUJtLUlSckVPRkFTem1rZld3MlB3MUVNQ3Y1VHhLLXZUektFb1ZNSm1nNWR2bF8tMDMwbEZFSXJ4TlFKSHVBc3FNdDRmLVJrdE9BckdpRGUtbC0xdE9lZm16R1dPS2xHZnd6R1lidkdObnLSAfcBQVVfeXFMTnpndFRjQ25PeDVCckc5d2pKQ3h1bTM5U0NMS1ZqOC05MktCUW9TTWZtaHc1MUo2LW1DOE40SXh3MFhyTXZUYnQzWjRkMzZLUndJRU1Ca3pLOUdtSzlrVlUzamVBdjZOR2dTaDVmYU9JSjBoWUktU2lFT3lTQXpibkpyaVdVVzREQWQ4aWljLUNpQjZGUjY3SDJKYkxpRW5zWVNjNzdILW1jVHVQMG9yd25GeUQ3Q1VXbFBCYVJNb2RqeWk0LWdmU1M5V0NrWW5jQUd3bWxGckN3cm1hLWZvUXNtMEZsX19MTUgtaXFmeUE3TlJ2emViYw?oc=5",
+        "source": "The Hindu",
+        "published": "Thu, 12 Nov 2026 17:10:47 GMT"
       }
     ],
     "Andhra Pradesh (Telugu)": [
       {
-        "title": "ఆంధ్రప్రదేశ్‌ను కార్పొరేట్ హోంగా మార్చుకోండి: మంత్రి లోకేశ్ - Andhrajyothy",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON3pzSHVMbTcxWm1IVGk2RjY3V2RkUk9feHEyYUJHbHE2dF9MbE5BanNmS1ktN3k0MmlLRUpYSm14aEZCYjBNdVZwVDROU0VhNmV2aDR3VjdMcEdiZ255NzNBZGVCdEI3VVZpZG5zakRMLVoxVXBtUzdfeFhyY09xQUN5Mm1pUGZOeG1xZnFhNGhaZFp1V0h2Ui1SUklrOTR4WVdBSVh1RXcxbzk3Q094c1EtaHgzNVBsS0Q2MW03b0lqc0RkeDdkcS1rVTlLR2Y0OWJxRS1Kb015blZveDFTQ1JBRzN1a3V5elF6ZHJ1SExXVmtBTVNr?oc=5",
+        "title": "ఏపీలో రెండో దశ పట్టణ స్థానిక సంస్థల ఎన్నికలకు ఎస్‌ఈసీ సిద్ధం - Andhrajyothy",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUzVkbm8xWmxENWpmb1lZWnl0WUcySjh5WkFIdXMzYjhKaEpLZllMRjJIOFBhN05OWVg4RVBQcl9RYW54Z1Rza2k4NWpVMkQ5Z1N0bzVWQnkyNmtVeTNDNS03R3VlT3FzY2VkUFo0QUVRLUxmbFRTQk1qNGpnZFlrR0RCVzcyUU1uRjhBUVZlUzNyT09kTmFBSlV6S1NVc1BJbklWN1dpeGV1STB0TDRxN2IzMnJ4eHN3SXlsRm5jV0ZJaTFnUmItbDRzUnVnR3pLVDVoU2JTYw?oc=5",
         "source": "Andhrajyothy",
-        "published": "Thu, 12 Nov 2026 06:55:02 GMT"
+        "published": "Thu, 12 Nov 2026 07:59:11 GMT"
       },
       {
-        "title": "పెట్టుబడులకు స్వర్గధామంగా ఏపీని సీఎం చంద్రబాబు తయారు చేశారు: పీయూష్ గోయల్ - Andhrajyothy",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPR3FBMDRpOXVOR0ozVlJDU2tKbm81QVFTUjZhb1BLdVBBcnZGWXhveDExbXcwalVPQXhWUUo1R3FzTnhWb2lGakJkbVpuNHA0RVZ3TlZ1X1p6Z3JidGNxX2hKbkxpTjVBU2VKU0JESFFrbndjcjhvYmRmNXJNdzV1aE9WR0xoZTR5MUl0R244WmJDOHZfMHNuWnk3cEhsb0o2RmJzTmFzYk5ybmhPTzlHbmJDUWJfaUlnbDY2S3JwZE9GTkljelRWU3hJdlU3WW9HV01vRk1zQVdjMFM4ckRnTzFCTnEyMWQtMGdtWHpmUUh5eW1sU3VNQQ?oc=5",
-        "source": "Andhrajyothy",
-        "published": "Thu, 12 Nov 2026 07:22:59 GMT"
+        "title": "AP Panchayat Elections 2026: రాష్ట్రంలో పంచాయతీ ఎన్నికల నగారా.. నేడు నోటిఫికేషన్‌ విడుదల - News18 Telugu",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFNaQ0V4d0ptMzc0VjJFenEwY2NuaGNzRjcySUEtcjRnQkdRTERXUnNwNzVHcmZZU014ZzBqXzItYmRUcDJaZjhaaEl3VzZmMlpRc3NWOVFtXzBieEM5eVl4ZmI3YnhDOW5oa1QyWVBuTXJtY2VOTkZraFFQcXFIWTJwYk02S01QYlI1Qk5UZnYyZlJOU1FMNWtoWVVXcFFYMFZrZkhwUWxnQ2Joc2xKMEhNemZUZUFUejRoTEp3MWR0R0hObWFycmJ3bkV4ejZTM09qQWxRZkVPS2JrYXA0YnJrM1lzMmMzUm9tOU9vRDBYVkdFWkhPaldB?oc=5",
+        "source": "News18 Telugu",
+        "published": "Wed, 11 Nov 2026 23:28:00 GMT"
       },
       {
-        "title": "AP: పెండింగ్‌లో ఉన్న పట్టణ స్థానిక సంస్థలకు నోటిఫికేషన్‌ విడుదల | - Eenadu",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pTHpBRUd6RkVScFRTc0FXMnpiVmZ5blBONnFsSXFCRWFEVE1yRW41WEt3OWZsZlJiTXBOTDhoemJabEpMRndkV1NueXZMMjZaYVFVUG5SRld5Zw?oc=5",
+        "title": "AP Panchayat Elections: ఏపీలో తొలివిడత పంచాయతీ ఎన్నికలకు నోటిఫికేషన్‌ జారీ - Eenadu",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2VlUGpNLVBIVlZjYXFrRmhEanVYUWNxR1N5TGhKei1JRDdIa0M2ZmRrUFZuVHdld29NTkExSTNjZFp4WEgyMkUwSmlLbHEza0FpcUs5cmdvaExRazFWTExqSUNfZno4dG5LUTl0OVUtazlSaUZEQ1hweDV6MW1qNy1QRE01M3p4MlM1aXQxRXpvWXBqNUl0cWlLYTlSMkZHLTJGaTVld0FIMzZiak40b3l6bU1sMHF4RWExS09FTndhRE90djB2cWRMMjkwZ9IBzgFBVV95cUxOQ2VlUGpNLVBIVlZjYXFrRmhEanVYUWNxR1N5TGhKei1JRDdIa0M2ZmRrUFZuVHdld29NTkExSTNjZFp4WEgyMkUwSmlLbHEza0FpcUs5cmdvaExRazFWTExqSUNfZno4dG5LUTl0OVUtazlSaUZEQ1hweDV6MW1qNy1QRE01M3p4MlM1aXQxRXpvWXBqNUl0cWlLYTlSMkZHLTJGaTVld0FIMzZiak40b3l6bU1sMHF4RWExS09FTndhRE90djB2cWRMMjkwZw?oc=5",
         "source": "Eenadu",
-        "published": "Thu, 12 Nov 2026 07:28:12 GMT"
+        "published": "Fri, 13 Nov 2026 06:27:47 GMT"
       },
       {
-        "title": "AP: 4 కార్పొరేషన్లు, 19 మున్సిపాలిటీలకు ఎన్నికల షెడ్యూల్ విడుదల - Sakshi",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVWg1NHJsZVIwTEhCSHkxU3RZT1FFU0I3cjVDc2ZhdFpkVmxuOU54SEtyb0JzVF9aNG1qZnZSeEVQY090d0RadzIwc2RDMlpSSEtBdzhTNUk4aFpYUTc3T1V5TU9NTFdvR21GbUtHaUNEQVltY1VNYlRLS0F3cnNsc3o0ZGR6bjVWSWZ0QnFQcWwtYVFvN3hqa2lyNThjdjZmOVd3c1ZB?oc=5",
-        "source": "Sakshi",
-        "published": "Thu, 12 Nov 2026 07:34:00 GMT"
-      },
-      {
-        "title": "AP Municipal Elections: ఏపీలో పురపాలక పోరుకు ముహూర్తం ఫిక్స్.. 13న నోటిఫికేషన్, 26న పోలింగ్.. రిజర్వేషన్లు ఖరారు! - 10TV Telugu",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWklCaDZHTjA3cXhXbmkySjNCNU1YYXlIU2ExTjRDOG9DZVIya3U2WTJsTXA2dndoVEpaWW95R0RjbXRXc2hoWlA3UnhWRTZUT1RxZGo5clV5Y3hVaFk2ekRES1dLbm13VXNIQWJiVWN2dTFabGswTHprVlhlblBkT0JKLWVnX1hYOW9PMWh5d1o5aUcwVENGNC1qQ1hoUW4wcDVxYWQ2bm1mOEp0UnB3NW1uT0NsT1BybkFrdGJPTE1HQ2ZWTW1YTFNjWWlnM2NfMmNUMmtR0gHWAUFVX3lxTE9aSUJoNkdOMDdxeFduaTJKM0I1TVhheUhTYTFONEM4b0NlUjJrdTZZMmxNcDZ2d2hUSlpZb3lHRGNtdFdzaGhaUDdSeFZFNlRPVHFkajlyVXljeFVoWTZ6RERLV0tubXdVc0hBYmJVY3Z1MVpsazBMemtWWGVuUGRPQkotZWdfWFg5b08xaHl3WjlpRzBUQ0Y0LWpDWGhRbjBwNXFhZDZubWY4SnRScHc1bW5PQ2xPUHJuQWt0Yk9MTUdDZlZNbVhMU2NZaWczY18yY1Qya1E?oc=5",
+        "title": "Ap Rain Alert: బంగాళాఖాతంలో బలపడుతున్న అల్పపీడనం.. ఏపీకి భారీ వర్ష సూచన.. వాతావరణ కేంద్రం కీలక నివేదిక! - 10TV Telugu",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS1dsTGxWQlRDWFpVYmVxSkNtSVlHdzNMUUhQampaS1o4d3BiWk9Xcl8zX0VXOGpDUEY5ZnJMS1pCV0gxczNyN2VtTGdKcUZaaXdpZ0ZGZ0JNUTloSVVERWhPam8tZnJkRXF1Y2loMWpPMDJBcmVkT2VtRTJ0b0RRMUMwdE9QTWYyMGYzUzFBdy1lVzRSNlQ5VzY4ajlWaU56R3lBMEFoRkpZVG1DeXU1X2RNV2tSTzcwa2hKbktWenFfaDFsZFJmb9IByAFBVV95cUxPS1dsTGxWQlRDWFpVYmVxSkNtSVlHdzNMUUhQampaS1o4d3BiWk9Xcl8zX0VXOGpDUEY5ZnJMS1pCV0gxczNyN2VtTGdKcUZaaXdpZ0ZGZ0JNUTloSVVERWhPam8tZnJkRXF1Y2loMWpPMDJBcmVkT2VtRTJ0b0RRMUMwdE9QTWYyMGYzUzFBdy1lVzRSNlQ5VzY4ajlWaU56R3lBMEFoRkpZVG1DeXU1X2RNV2tSTzcwa2hKbktWenFfaDFsZFJmbw?oc=5",
         "source": "10TV Telugu",
-        "published": "Wed, 11 Nov 2026 10:31:56 GMT"
+        "published": "Tue, 10 Nov 2026 09:19:37 GMT"
+      },
+      {
+        "title": "ముంచుకొస్తున్న మూడో తుఫాన్... పంజా విసరడానికి రెడీ అవుతున్న ‘అక్వాన్’ - Samayam Telugu",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR0dSR3Q5ajBvOFYyYUVhczZ1dEVVRHBlVk5yVmFELU1aMW9taVgxbUF4RDAxWlp1YkpEdUtBVEllMmFIWkRQVF8wX0Y4MFBrZzc4b3VQTEQ3THhIRjdscm4yY0NocE56enFMb09WeWtOejAzdkliYTU0bnVnSjc3V1k0Q1h1TVdVUlFva2Q1MXE3ZGE2LWZTTE5OM3o0bXkzcjY5aGdRbkpJU1VLQ0IxVW9DWHZXOGlXa085elladVZ2SXpGMjZyclhEbHdaVUgt0gHWAUFVX3lxTE9feDJraHViYnREQjFsTlp0Mi1kbzR1V01vU0NYUnlndUZWMXRCREVIaHZJdVhqMDN3amh0ankxZHJ0Uzk3NUEyckRnSGl2YlVpZXpjaWNnc0VSWTF0UHF2YmkwdjJQTE90dC1OTU1tYUQwRVc1Q2tnckQ4TUJMR19BSHlIM19OOUVxNGg4TF9Uc0lKQVFjbFBCWjIzdTFrRm42UU45c0JMeS11ZDZnVUs2RVl4bVN5bGpKNDF0T2R0bDBRd04tcWxPSmE5NHVzcGladi02T2c?oc=5",
+        "source": "Samayam Telugu",
+        "published": "Thu, 12 Nov 2026 16:33:50 GMT"
       }
     ]
   }
